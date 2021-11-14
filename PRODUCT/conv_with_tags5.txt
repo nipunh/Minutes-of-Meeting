@@ -1,0 +1,9 @@
+2:hello my name is David it's nice to meet you 
+1:hi I'm Jenny it's my pleasure to meet you 
+0:I'm sorry what was your name again 
+1:Shelly 
+0:so Jenny 
+0:what do you do for a living 
+0:I work at the local schools teaching English what do you do for a living I'm assigning this teacher but I'm currently out of work 
+1:sorry to hear that it has been really nice talking to you 
+0:yes it was a great pleasure meeting you 

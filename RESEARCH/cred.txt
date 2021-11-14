@@ -1,0 +1,2 @@
+iam_apikey='QjP0vdAAHfIS8ESTSQgufTdmnG43etz2mIXlltwtVcJL'
+url='https://gateway-lon.watsonplatform.net/speech-to-text/api'

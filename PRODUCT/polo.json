@@ -1,0 +1,9971 @@
+[{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              0.92,
+              1.1
+            ],
+            [
+              "will",
+              1.1,
+              1.22
+            ],
+            [
+              "hear",
+              1.22,
+              1.46
+            ],
+            [
+              "a",
+              1.46,
+              1.53
+            ],
+            [
+              "telephone",
+              1.53,
+              2.17
+            ],
+            [
+              "company",
+              2.17,
+              2.56
+            ]
+          ],
+          "transcript": "you will hear a telephone company "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 0
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              0.92,
+              1.1
+            ],
+            [
+              "will",
+              1.1,
+              1.22
+            ],
+            [
+              "hear",
+              1.22,
+              1.46
+            ],
+            [
+              "a",
+              1.46,
+              1.53
+            ],
+            [
+              "telephone",
+              1.53,
+              2.17
+            ],
+            [
+              "conversation",
+              2.17,
+              2.96
+            ],
+            [
+              "between",
+              2.96,
+              3.33
+            ],
+            [
+              "the",
+              3.33,
+              3.4
+            ],
+            [
+              "customer",
+              3.4,
+              4.06
+            ],
+            [
+              "and",
+              4.1,
+              4.25
+            ],
+            [
+              "then",
+              4.25,
+              4.37
+            ],
+            [
+              "H.",
+              4.37,
+              4.62
+            ]
+          ],
+          "transcript": "you will hear a telephone conversation between the customer and then H. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 0
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              0.92,
+              1.1
+            ],
+            [
+              "will",
+              1.1,
+              1.22
+            ],
+            [
+              "hear",
+              1.22,
+              1.46
+            ],
+            [
+              "a",
+              1.46,
+              1.53
+            ],
+            [
+              "telephone",
+              1.53,
+              2.17
+            ],
+            [
+              "conversation",
+              2.17,
+              2.96
+            ],
+            [
+              "between",
+              2.96,
+              3.34
+            ],
+            [
+              "a",
+              3.34,
+              3.4
+            ],
+            [
+              "customer",
+              3.4,
+              4.06
+            ],
+            [
+              "and",
+              4.1,
+              4.27
+            ],
+            [
+              "an",
+              4.27,
+              4.37
+            ],
+            [
+              "agent",
+              4.37,
+              4.89
+            ],
+            [
+              "of",
+              5.09,
+              5.2
+            ],
+            [
+              "the",
+              5.2,
+              5.28
+            ],
+            [
+              "company",
+              5.28,
+              5.75
+            ],
+            [
+              "which",
+              5.75,
+              5.93
+            ],
+            [
+              "ships",
+              5.93,
+              6.27
+            ],
+            [
+              "law",
+              6.27,
+              6.62
+            ]
+          ],
+          "transcript": "you will hear a telephone conversation between a customer and an agent of the company which ships law "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 0
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              0.92,
+              1.1
+            ],
+            [
+              "will",
+              1.1,
+              1.22
+            ],
+            [
+              "hear",
+              1.22,
+              1.46
+            ],
+            [
+              "a",
+              1.46,
+              1.53
+            ],
+            [
+              "telephone",
+              1.53,
+              2.17
+            ],
+            [
+              "conversation",
+              2.17,
+              2.96
+            ],
+            [
+              "between",
+              2.96,
+              3.34
+            ],
+            [
+              "a",
+              3.34,
+              3.4
+            ],
+            [
+              "customer",
+              3.4,
+              4.06
+            ],
+            [
+              "and",
+              4.1,
+              4.27
+            ],
+            [
+              "an",
+              4.27,
+              4.37
+            ],
+            [
+              "agent",
+              4.37,
+              4.89
+            ],
+            [
+              "of",
+              5.09,
+              5.2
+            ],
+            [
+              "the",
+              5.2,
+              5.28
+            ],
+            [
+              "company",
+              5.28,
+              5.75
+            ],
+            [
+              "which",
+              5.75,
+              5.93
+            ],
+            [
+              "ships",
+              5.93,
+              6.27
+            ],
+            [
+              "large",
+              6.27,
+              6.78
+            ],
+            [
+              "boxes",
+              6.78,
+              7.34
+            ],
+            [
+              "overseas",
+              7.34,
+              8.16
+            ]
+          ],
+          "transcript": "you will hear a telephone conversation between a customer and an agent of the company which ships large boxes overseas "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 0
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              0.92,
+              1.1
+            ],
+            [
+              "will",
+              1.1,
+              1.22
+            ],
+            [
+              "hear",
+              1.22,
+              1.46
+            ],
+            [
+              "a",
+              1.46,
+              1.53
+            ],
+            [
+              "telephone",
+              1.53,
+              2.17
+            ],
+            [
+              "conversation",
+              2.17,
+              2.96
+            ],
+            [
+              "between",
+              2.96,
+              3.34
+            ],
+            [
+              "a",
+              3.34,
+              3.4
+            ],
+            [
+              "customer",
+              3.4,
+              4.06
+            ],
+            [
+              "and",
+              4.1,
+              4.27
+            ],
+            [
+              "an",
+              4.27,
+              4.37
+            ],
+            [
+              "agent",
+              4.37,
+              4.89
+            ],
+            [
+              "of",
+              5.09,
+              5.2
+            ],
+            [
+              "the",
+              5.2,
+              5.28
+            ],
+            [
+              "company",
+              5.28,
+              5.75
+            ],
+            [
+              "which",
+              5.75,
+              5.93
+            ],
+            [
+              "ships",
+              5.93,
+              6.27
+            ],
+            [
+              "large",
+              6.27,
+              6.78
+            ],
+            [
+              "boxes",
+              6.78,
+              7.34
+            ],
+            [
+              "overseas",
+              7.34,
+              8.16
+            ]
+          ],
+          "confidence": 0.83,
+          "transcript": "you will hear a telephone conversation between a customer and an agent of the company which ships large boxes overseas "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0
+},{
+  "speaker_labels": [
+    {
+      "from": 0.92,
+      "to": 1.1,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 1.1,
+      "to": 1.22,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 1.22,
+      "to": 1.46,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 1.46,
+      "to": 1.53,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 1.53,
+      "to": 2.17,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 2.17,
+      "to": 2.96,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 2.96,
+      "to": 3.34,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 3.34,
+      "to": 3.4,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 3.4,
+      "to": 4.06,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 4.1,
+      "to": 4.27,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 4.27,
+      "to": 4.37,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 4.37,
+      "to": 4.89,
+      "speaker": 1,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 5.09,
+      "to": 5.2,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 5.2,
+      "to": 5.28,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 5.28,
+      "to": 5.75,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 5.75,
+      "to": 5.93,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 5.93,
+      "to": 6.27,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 6.27,
+      "to": 6.78,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 6.78,
+      "to": 7.34,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 7.34,
+      "to": 8.16,
+      "speaker": 2,
+      "confidence": 0.53,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ]
+          ],
+          "transcript": "good morning how can "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.56
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "running",
+              17.22,
+              17.56
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm running "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "ringing",
+              17.22,
+              17.52
+            ],
+            [
+              "to",
+              17.52,
+              17.65
+            ],
+            [
+              "make",
+              17.65,
+              17.9
+            ],
+            [
+              "enquiries",
+              17.9,
+              18.57
+            ],
+            [
+              "about",
+              18.57,
+              18.84
+            ],
+            [
+              "sending",
+              18.84,
+              19.37
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "ringing",
+              17.22,
+              17.52
+            ],
+            [
+              "to",
+              17.52,
+              17.65
+            ],
+            [
+              "make",
+              17.65,
+              17.9
+            ],
+            [
+              "enquiries",
+              17.9,
+              18.57
+            ],
+            [
+              "about",
+              18.57,
+              18.84
+            ],
+            [
+              "sending",
+              18.84,
+              19.33
+            ],
+            [
+              "a",
+              19.33,
+              19.44
+            ],
+            [
+              "large",
+              19.44,
+              19.84
+            ],
+            [
+              "box",
+              19.84,
+              20.48
+            ],
+            [
+              "%HESITATION",
+              20.51,
+              20.89
+            ],
+            [
+              "a",
+              20.92,
+              21.06
+            ],
+            [
+              "container",
+              21.06,
+              21.56
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending a large box %HESITATION a container "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "ringing",
+              17.22,
+              17.52
+            ],
+            [
+              "to",
+              17.52,
+              17.65
+            ],
+            [
+              "make",
+              17.65,
+              17.9
+            ],
+            [
+              "enquiries",
+              17.9,
+              18.57
+            ],
+            [
+              "about",
+              18.57,
+              18.84
+            ],
+            [
+              "sending",
+              18.84,
+              19.33
+            ],
+            [
+              "a",
+              19.33,
+              19.44
+            ],
+            [
+              "large",
+              19.44,
+              19.84
+            ],
+            [
+              "box",
+              19.84,
+              20.48
+            ],
+            [
+              "%HESITATION",
+              20.51,
+              20.89
+            ],
+            [
+              "a",
+              20.92,
+              21.06
+            ],
+            [
+              "container",
+              21.06,
+              21.65
+            ],
+            [
+              "back",
+              21.65,
+              21.91
+            ],
+            [
+              "come",
+              21.91,
+              22.22
+            ],
+            [
+              "to",
+              22.22,
+              22.35
+            ],
+            [
+              "Kenya",
+              22.35,
+              22.82
+            ],
+            [
+              "from",
+              22.82,
+              23.03
+            ],
+            [
+              "the",
+              23.03,
+              23.14
+            ],
+            [
+              "U.",
+              23.14,
+              23.27
+            ],
+            [
+              "K.",
+              23.27,
+              23.56
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending a large box %HESITATION a container back come to Kenya from the U. K. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "ringing",
+              17.22,
+              17.52
+            ],
+            [
+              "to",
+              17.52,
+              17.65
+            ],
+            [
+              "make",
+              17.65,
+              17.9
+            ],
+            [
+              "enquiries",
+              17.9,
+              18.57
+            ],
+            [
+              "about",
+              18.57,
+              18.84
+            ],
+            [
+              "sending",
+              18.84,
+              19.33
+            ],
+            [
+              "a",
+              19.33,
+              19.44
+            ],
+            [
+              "large",
+              19.44,
+              19.84
+            ],
+            [
+              "box",
+              19.84,
+              20.48
+            ],
+            [
+              "%HESITATION",
+              20.51,
+              20.89
+            ],
+            [
+              "a",
+              20.92,
+              21.06
+            ],
+            [
+              "container",
+              21.06,
+              21.65
+            ],
+            [
+              "back",
+              21.65,
+              21.91
+            ],
+            [
+              "come",
+              21.91,
+              22.22
+            ],
+            [
+              "to",
+              22.22,
+              22.35
+            ],
+            [
+              "Kenya",
+              22.35,
+              22.82
+            ],
+            [
+              "from",
+              22.82,
+              23.03
+            ],
+            [
+              "the",
+              23.03,
+              23.14
+            ],
+            [
+              "U.",
+              23.14,
+              23.27
+            ],
+            [
+              "K.",
+              23.27,
+              23.67
+            ],
+            [
+              "yes",
+              24.08,
+              24.37
+            ],
+            [
+              "of",
+              24.37,
+              24.48
+            ],
+            [
+              "course",
+              24.48,
+              25.15
+            ]
+          ],
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending a large box %HESITATION a container back come to Kenya from the U. K. yes of course "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 1
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "good",
+              11.9,
+              12.13
+            ],
+            [
+              "morning",
+              12.13,
+              12.76
+            ],
+            [
+              "how",
+              13.06,
+              13.25
+            ],
+            [
+              "can",
+              13.25,
+              13.48
+            ],
+            [
+              "I",
+              13.48,
+              13.51
+            ],
+            [
+              "shipping",
+              13.51,
+              13.96
+            ],
+            [
+              "agents",
+              13.96,
+              14.66
+            ],
+            [
+              "can",
+              14.86,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.1
+            ],
+            [
+              "help",
+              15.1,
+              15.37
+            ],
+            [
+              "you",
+              15.37,
+              15.75
+            ],
+            [
+              "%HESITATION",
+              16.13,
+              16.35
+            ],
+            [
+              "yes",
+              16.35,
+              16.86
+            ],
+            [
+              "I'm",
+              16.95,
+              17.22
+            ],
+            [
+              "ringing",
+              17.22,
+              17.52
+            ],
+            [
+              "to",
+              17.52,
+              17.65
+            ],
+            [
+              "make",
+              17.65,
+              17.9
+            ],
+            [
+              "enquiries",
+              17.9,
+              18.57
+            ],
+            [
+              "about",
+              18.57,
+              18.84
+            ],
+            [
+              "sending",
+              18.84,
+              19.33
+            ],
+            [
+              "a",
+              19.33,
+              19.44
+            ],
+            [
+              "large",
+              19.44,
+              19.84
+            ],
+            [
+              "box",
+              19.84,
+              20.48
+            ],
+            [
+              "%HESITATION",
+              20.51,
+              20.89
+            ],
+            [
+              "a",
+              20.92,
+              21.06
+            ],
+            [
+              "container",
+              21.06,
+              21.65
+            ],
+            [
+              "back",
+              21.65,
+              21.91
+            ],
+            [
+              "come",
+              21.91,
+              22.22
+            ],
+            [
+              "to",
+              22.22,
+              22.35
+            ],
+            [
+              "Kenya",
+              22.35,
+              22.82
+            ],
+            [
+              "from",
+              22.82,
+              23.03
+            ],
+            [
+              "the",
+              23.03,
+              23.14
+            ],
+            [
+              "U.",
+              23.14,
+              23.27
+            ],
+            [
+              "K.",
+              23.27,
+              23.67
+            ],
+            [
+              "yes",
+              24.08,
+              24.37
+            ],
+            [
+              "of",
+              24.37,
+              24.48
+            ],
+            [
+              "course",
+              24.48,
+              25.15
+            ]
+          ],
+          "confidence": 0.75,
+          "transcript": "good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending a large box %HESITATION a container back come to Kenya from the U. K. yes of course "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 1
+},{
+  "speaker_labels": [
+    {
+      "from": 4.1,
+      "to": 4.27,
+      "speaker": 0,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 4.27,
+      "to": 4.37,
+      "speaker": 0,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 4.37,
+      "to": 4.89,
+      "speaker": 0,
+      "confidence": 0.45,
+      "final": false
+    },
+    {
+      "from": 5.09,
+      "to": 5.2,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.2,
+      "to": 5.28,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.28,
+      "to": 5.75,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.75,
+      "to": 5.93,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 5.93,
+      "to": 6.27,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 6.27,
+      "to": 6.78,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 6.78,
+      "to": 7.34,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 7.34,
+      "to": 8.16,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 11.9,
+      "to": 12.13,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 12.13,
+      "to": 12.76,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 13.06,
+      "to": 13.25,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 13.25,
+      "to": 13.48,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 13.48,
+      "to": 13.51,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 13.51,
+      "to": 13.96,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 13.96,
+      "to": 14.66,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 14.86,
+      "to": 15.03,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 15.03,
+      "to": 15.1,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 15.1,
+      "to": 15.37,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 15.37,
+      "to": 15.75,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 16.13,
+      "to": 16.35,
+      "speaker": 2,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 16.35,
+      "to": 16.86,
+      "speaker": 2,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 16.95,
+      "to": 17.22,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 17.22,
+      "to": 17.52,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 17.52,
+      "to": 17.65,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 17.65,
+      "to": 17.9,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 17.9,
+      "to": 18.57,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 18.57,
+      "to": 18.84,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 18.84,
+      "to": 19.33,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 19.33,
+      "to": 19.44,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 19.44,
+      "to": 19.84,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 19.84,
+      "to": 20.48,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 20.51,
+      "to": 20.89,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 20.92,
+      "to": 21.06,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 21.06,
+      "to": 21.65,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 21.65,
+      "to": 21.91,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 21.91,
+      "to": 22.22,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 22.22,
+      "to": 22.35,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 22.35,
+      "to": 22.82,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 22.82,
+      "to": 23.03,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 23.03,
+      "to": 23.14,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 23.14,
+      "to": 23.27,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 23.27,
+      "to": 23.67,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 24.08,
+      "to": 24.37,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 24.37,
+      "to": 24.48,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 24.48,
+      "to": 25.15,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "would",
+              25.62,
+              25.9
+            ],
+            [
+              "you",
+              25.9,
+              26.07
+            ],
+            [
+              "like",
+              26.07,
+              26.31
+            ],
+            [
+              "me",
+              26.31,
+              26.41
+            ],
+            [
+              "to",
+              26.41,
+              26.53
+            ],
+            [
+              "try",
+              26.53,
+              26.76
+            ],
+            [
+              "and",
+              26.76,
+              26.92
+            ],
+            [
+              "find",
+              26.92,
+              27.25
+            ]
+          ],
+          "transcript": "would you like me to try and find "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 2
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "would",
+              25.62,
+              25.9
+            ],
+            [
+              "you",
+              25.9,
+              26.07
+            ],
+            [
+              "like",
+              26.07,
+              26.31
+            ],
+            [
+              "me",
+              26.31,
+              26.41
+            ],
+            [
+              "to",
+              26.41,
+              26.53
+            ],
+            [
+              "try",
+              26.53,
+              26.76
+            ],
+            [
+              "and",
+              26.76,
+              26.92
+            ],
+            [
+              "find",
+              26.92,
+              27.28
+            ],
+            [
+              "some",
+              27.28,
+              27.45
+            ],
+            [
+              "quotations",
+              27.45,
+              28.28
+            ],
+            [
+              "for",
+              28.28,
+              28.51
+            ],
+            [
+              "you",
+              28.51,
+              28.81
+            ],
+            [
+              "yeah",
+              29.22,
+              29.36
+            ]
+          ],
+          "transcript": "would you like me to try and find some quotations for you yeah "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 2
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "would",
+              25.62,
+              25.9
+            ],
+            [
+              "you",
+              25.9,
+              26.07
+            ],
+            [
+              "like",
+              26.07,
+              26.31
+            ],
+            [
+              "me",
+              26.31,
+              26.41
+            ],
+            [
+              "to",
+              26.41,
+              26.53
+            ],
+            [
+              "try",
+              26.53,
+              26.76
+            ],
+            [
+              "and",
+              26.76,
+              26.92
+            ],
+            [
+              "find",
+              26.92,
+              27.28
+            ],
+            [
+              "some",
+              27.28,
+              27.45
+            ],
+            [
+              "quotations",
+              27.45,
+              28.28
+            ],
+            [
+              "for",
+              28.28,
+              28.51
+            ],
+            [
+              "you",
+              28.51,
+              28.81
+            ],
+            [
+              "yes",
+              29.22,
+              29.65
+            ],
+            [
+              "that'd",
+              29.65,
+              29.9
+            ],
+            [
+              "be",
+              29.9,
+              29.99
+            ],
+            [
+              "great",
+              29.99,
+              30.47
+            ],
+            [
+              "thank",
+              30.53,
+              30.78
+            ],
+            [
+              "you",
+              30.78,
+              30.98
+            ]
+          ],
+          "transcript": "would you like me to try and find some quotations for you yes that'd be great thank you "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 2
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "would",
+              25.62,
+              25.9
+            ],
+            [
+              "you",
+              25.9,
+              26.07
+            ],
+            [
+              "like",
+              26.07,
+              26.31
+            ],
+            [
+              "me",
+              26.31,
+              26.41
+            ],
+            [
+              "to",
+              26.41,
+              26.53
+            ],
+            [
+              "try",
+              26.53,
+              26.76
+            ],
+            [
+              "and",
+              26.76,
+              26.92
+            ],
+            [
+              "find",
+              26.92,
+              27.28
+            ],
+            [
+              "some",
+              27.28,
+              27.45
+            ],
+            [
+              "quotations",
+              27.45,
+              28.28
+            ],
+            [
+              "for",
+              28.28,
+              28.51
+            ],
+            [
+              "you",
+              28.51,
+              28.81
+            ],
+            [
+              "yes",
+              29.22,
+              29.65
+            ],
+            [
+              "that'd",
+              29.65,
+              29.9
+            ],
+            [
+              "be",
+              29.9,
+              29.99
+            ],
+            [
+              "great",
+              29.99,
+              30.47
+            ],
+            [
+              "thank",
+              30.53,
+              30.78
+            ],
+            [
+              "you",
+              30.78,
+              30.98
+            ]
+          ],
+          "confidence": 0.89,
+          "transcript": "would you like me to try and find some quotations for you yes that'd be great thank you "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 2
+},{
+  "speaker_labels": [
+    {
+      "from": 25.62,
+      "to": 25.9,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 25.9,
+      "to": 26.07,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.07,
+      "to": 26.31,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.31,
+      "to": 26.41,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.41,
+      "to": 26.53,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.53,
+      "to": 26.76,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.76,
+      "to": 26.92,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 26.92,
+      "to": 27.28,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 27.28,
+      "to": 27.45,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 27.45,
+      "to": 28.28,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 28.28,
+      "to": 28.51,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 28.51,
+      "to": 28.81,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 29.22,
+      "to": 29.65,
+      "speaker": 2,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 29.65,
+      "to": 29.9,
+      "speaker": 2,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 29.9,
+      "to": 29.99,
+      "speaker": 2,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 29.99,
+      "to": 30.47,
+      "speaker": 2,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 30.53,
+      "to": 30.78,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 30.78,
+      "to": 30.98,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              31.62,
+              32.03
+            ],
+            [
+              "first",
+              32.06,
+              32.49
+            ],
+            [
+              "of",
+              32.49,
+              32.64
+            ],
+            [
+              "all",
+              32.64,
+              33.09
+            ],
+            [
+              "I",
+              33.13,
+              33.33
+            ]
+          ],
+          "transcript": "well first of all I "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 3
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              31.62,
+              32.03
+            ],
+            [
+              "first",
+              32.06,
+              32.49
+            ],
+            [
+              "of",
+              32.49,
+              32.64
+            ],
+            [
+              "all",
+              32.64,
+              33.09
+            ],
+            [
+              "I",
+              33.13,
+              33.38
+            ],
+            [
+              "need",
+              33.38,
+              33.71
+            ],
+            [
+              "a",
+              33.71,
+              33.76
+            ],
+            [
+              "few",
+              33.76,
+              34.04
+            ],
+            [
+              "details",
+              34.04,
+              34.8
+            ],
+            [
+              "from",
+              34.8,
+              35.06
+            ],
+            [
+              "you",
+              35.06,
+              35.3
+            ]
+          ],
+          "transcript": "well first of all I need a few details from you "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 3
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              31.62,
+              32.03
+            ],
+            [
+              "first",
+              32.06,
+              32.49
+            ],
+            [
+              "of",
+              32.49,
+              32.64
+            ],
+            [
+              "all",
+              32.64,
+              33.09
+            ],
+            [
+              "I",
+              33.13,
+              33.38
+            ],
+            [
+              "need",
+              33.38,
+              33.71
+            ],
+            [
+              "a",
+              33.71,
+              33.76
+            ],
+            [
+              "few",
+              33.76,
+              34.04
+            ],
+            [
+              "details",
+              34.04,
+              34.8
+            ],
+            [
+              "from",
+              34.8,
+              35.06
+            ],
+            [
+              "you",
+              35.06,
+              35.4
+            ],
+            [
+              "fine",
+              35.68,
+              36.1
+            ]
+          ],
+          "transcript": "well first of all I need a few details from you fine "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 3
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              31.62,
+              32.03
+            ],
+            [
+              "first",
+              32.06,
+              32.49
+            ],
+            [
+              "of",
+              32.49,
+              32.64
+            ],
+            [
+              "all",
+              32.64,
+              33.09
+            ],
+            [
+              "I",
+              33.13,
+              33.38
+            ],
+            [
+              "need",
+              33.38,
+              33.71
+            ],
+            [
+              "a",
+              33.71,
+              33.76
+            ],
+            [
+              "few",
+              33.76,
+              34.04
+            ],
+            [
+              "details",
+              34.04,
+              34.8
+            ],
+            [
+              "from",
+              34.8,
+              35.06
+            ],
+            [
+              "you",
+              35.06,
+              35.4
+            ],
+            [
+              "fine",
+              35.68,
+              36.1
+            ]
+          ],
+          "confidence": 0.84,
+          "transcript": "well first of all I need a few details from you fine "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 3
+},{
+  "speaker_labels": [
+    {
+      "from": 0.92,
+      "to": 1.1,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 1.1,
+      "to": 1.22,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 1.22,
+      "to": 1.46,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 1.46,
+      "to": 1.53,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 1.53,
+      "to": 2.17,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 2.17,
+      "to": 2.96,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 2.96,
+      "to": 3.34,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 3.34,
+      "to": 3.4,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 3.4,
+      "to": 4.06,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 4.1,
+      "to": 4.27,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.27,
+      "to": 4.37,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.37,
+      "to": 4.89,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 5.09,
+      "to": 5.2,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 5.2,
+      "to": 5.28,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 5.28,
+      "to": 5.75,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 5.75,
+      "to": 5.93,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 5.93,
+      "to": 6.27,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 6.27,
+      "to": 6.78,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 6.78,
+      "to": 7.34,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 7.34,
+      "to": 8.16,
+      "speaker": 2,
+      "confidence": 0.4,
+      "final": false
+    },
+    {
+      "from": 31.62,
+      "to": 32.03,
+      "speaker": 1,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 32.06,
+      "to": 32.49,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 32.49,
+      "to": 32.64,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 32.64,
+      "to": 33.09,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 33.13,
+      "to": 33.38,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 33.38,
+      "to": 33.71,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 33.71,
+      "to": 33.76,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 33.76,
+      "to": 34.04,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 34.04,
+      "to": 34.8,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 34.8,
+      "to": 35.06,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 35.06,
+      "to": 35.4,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 35.68,
+      "to": 36.1,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              36.52,
+              36.72
+            ],
+            [
+              "I",
+              36.72,
+              36.84
+            ],
+            [
+              "take",
+              36.84,
+              37.13
+            ],
+            [
+              "your",
+              37.13,
+              37.28
+            ],
+            [
+              "name",
+              37.28,
+              37.75
+            ],
+            [
+              "it's",
+              38.07,
+              38.26
+            ]
+          ],
+          "transcript": "can I take your name it's "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 4
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              36.52,
+              36.72
+            ],
+            [
+              "I",
+              36.72,
+              36.84
+            ],
+            [
+              "take",
+              36.84,
+              37.13
+            ],
+            [
+              "your",
+              37.13,
+              37.28
+            ],
+            [
+              "name",
+              37.28,
+              37.75
+            ],
+            [
+              "it's",
+              38.07,
+              38.28
+            ],
+            [
+              "Jacob",
+              38.28,
+              38.75
+            ],
+            [
+              "and",
+              38.75,
+              38.97
+            ]
+          ],
+          "transcript": "can I take your name it's Jacob and "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 4
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              36.52,
+              36.72
+            ],
+            [
+              "I",
+              36.72,
+              36.84
+            ],
+            [
+              "take",
+              36.84,
+              37.13
+            ],
+            [
+              "your",
+              37.13,
+              37.28
+            ],
+            [
+              "name",
+              37.28,
+              37.75
+            ],
+            [
+              "it's",
+              38.07,
+              38.28
+            ],
+            [
+              "Jacob",
+              38.28,
+              38.75
+            ],
+            [
+              "and",
+              38.75,
+              38.97
+            ]
+          ],
+          "confidence": 0.95,
+          "transcript": "can I take your name it's Jacob and "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 4
+},{
+  "speaker_labels": [
+    {
+      "from": 36.52,
+      "to": 36.72,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 36.72,
+      "to": 36.84,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 36.84,
+      "to": 37.13,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 37.13,
+      "to": 37.28,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 37.28,
+      "to": 37.75,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 38.07,
+      "to": 38.28,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 38.28,
+      "to": 38.75,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 38.75,
+      "to": 38.97,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              40.13,
+              40.36
+            ],
+            [
+              "you",
+              40.36,
+              40.54
+            ],
+            [
+              "spell",
+              40.54,
+              40.9
+            ],
+            [
+              "your",
+              40.9,
+              41.13
+            ],
+            [
+              "surname",
+              41.13,
+              41.64
+            ],
+            [
+              "play",
+              41.64,
+              41.86
+            ]
+          ],
+          "transcript": "can you spell your surname play "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 5
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              40.13,
+              40.36
+            ],
+            [
+              "you",
+              40.36,
+              40.54
+            ],
+            [
+              "spell",
+              40.54,
+              40.9
+            ],
+            [
+              "your",
+              40.9,
+              41.1
+            ],
+            [
+              "name",
+              41.38,
+              41.64
+            ],
+            [
+              "please",
+              41.64,
+              42.2
+            ],
+            [
+              "yes",
+              42.4,
+              42.77
+            ],
+            [
+              "it's",
+              42.8,
+              43.22
+            ],
+            [
+              "M.",
+              43.25,
+              43.73
+            ]
+          ],
+          "transcript": "can you spell your name please yes it's M. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 5
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              40.13,
+              40.36
+            ],
+            [
+              "you",
+              40.36,
+              40.54
+            ],
+            [
+              "spell",
+              40.54,
+              40.9
+            ],
+            [
+              "your",
+              40.9,
+              41.1
+            ],
+            [
+              "name",
+              41.38,
+              41.64
+            ],
+            [
+              "please",
+              41.64,
+              42.2
+            ],
+            [
+              "yes",
+              42.4,
+              42.77
+            ],
+            [
+              "it's",
+              42.8,
+              43.22
+            ],
+            [
+              "M.",
+              43.25,
+              43.73
+            ],
+            [
+              "K.",
+              43.76,
+              44.32
+            ],
+            [
+              "E.",
+              44.43,
+              44.9
+            ],
+            [
+              "R.",
+              44.93,
+              45.4
+            ],
+            [
+              "E.",
+              45.44,
+              45.83
+            ]
+          ],
+          "transcript": "can you spell your name please yes it's M. K. E. R. E. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 5
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              40.13,
+              40.36
+            ],
+            [
+              "you",
+              40.36,
+              40.54
+            ],
+            [
+              "spell",
+              40.54,
+              40.9
+            ],
+            [
+              "your",
+              40.9,
+              41.1
+            ],
+            [
+              "name",
+              41.38,
+              41.64
+            ],
+            [
+              "please",
+              41.64,
+              42.2
+            ],
+            [
+              "yes",
+              42.4,
+              42.77
+            ],
+            [
+              "it's",
+              42.8,
+              43.22
+            ],
+            [
+              "M.",
+              43.25,
+              43.73
+            ],
+            [
+              "K.",
+              43.76,
+              44.32
+            ],
+            [
+              "E.",
+              44.43,
+              44.9
+            ],
+            [
+              "R.",
+              44.93,
+              45.4
+            ],
+            [
+              "E.",
+              45.44,
+              45.85
+            ]
+          ],
+          "transcript": "can you spell your name please yes it's M. K. E. R. E. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 5
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "can",
+              40.13,
+              40.36
+            ],
+            [
+              "you",
+              40.36,
+              40.54
+            ],
+            [
+              "spell",
+              40.54,
+              40.9
+            ],
+            [
+              "your",
+              40.9,
+              41.1
+            ],
+            [
+              "name",
+              41.38,
+              41.64
+            ],
+            [
+              "please",
+              41.64,
+              42.2
+            ],
+            [
+              "yes",
+              42.4,
+              42.77
+            ],
+            [
+              "it's",
+              42.8,
+              43.22
+            ],
+            [
+              "M.",
+              43.25,
+              43.73
+            ],
+            [
+              "K.",
+              43.76,
+              44.32
+            ],
+            [
+              "E.",
+              44.43,
+              44.9
+            ],
+            [
+              "R.",
+              44.93,
+              45.4
+            ],
+            [
+              "E.",
+              45.44,
+              45.85
+            ]
+          ],
+          "confidence": 0.68,
+          "transcript": "can you spell your name please yes it's M. K. E. R. E. "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 5
+},{
+  "speaker_labels": [
+    {
+      "from": 40.13,
+      "to": 40.36,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 40.36,
+      "to": 40.54,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 40.54,
+      "to": 40.9,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 40.9,
+      "to": 41.1,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 41.38,
+      "to": 41.64,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 41.64,
+      "to": 42.2,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 42.4,
+      "to": 42.77,
+      "speaker": 2,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 42.8,
+      "to": 43.22,
+      "speaker": 2,
+      "confidence": 0.55,
+      "final": false
+    },
+    {
+      "from": 43.25,
+      "to": 43.73,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 43.76,
+      "to": 44.32,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 44.43,
+      "to": 44.9,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 44.93,
+      "to": 45.4,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 45.44,
+      "to": 45.85,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "is",
+              46.56,
+              46.85
+            ],
+            [
+              "that",
+              46.85,
+              47.17
+            ],
+            [
+              "M.",
+              47.24,
+              47.69
+            ],
+            [
+              "for",
+              47.72,
+              47.96
+            ],
+            [
+              "mother",
+              47.96,
+              48.29
+            ]
+          ],
+          "transcript": "is that M. for mother "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 6
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "is",
+              46.56,
+              46.85
+            ],
+            [
+              "that",
+              46.85,
+              47.17
+            ],
+            [
+              "M.",
+              47.24,
+              47.69
+            ],
+            [
+              "for",
+              47.72,
+              47.96
+            ],
+            [
+              "mother",
+              47.96,
+              48.47
+            ],
+            [
+              "yes",
+              48.82,
+              49.23
+            ]
+          ],
+          "transcript": "is that M. for mother yes "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 6
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "is",
+              46.56,
+              46.85
+            ],
+            [
+              "that",
+              46.85,
+              47.17
+            ],
+            [
+              "M.",
+              47.24,
+              47.69
+            ],
+            [
+              "for",
+              47.72,
+              47.96
+            ],
+            [
+              "mother",
+              47.96,
+              48.47
+            ],
+            [
+              "yes",
+              48.82,
+              49.23
+            ]
+          ],
+          "confidence": 0.73,
+          "transcript": "is that M. for mother yes "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 6
+},{
+  "speaker_labels": [
+    {
+      "from": 46.56,
+      "to": 46.85,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 46.85,
+      "to": 47.17,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 47.24,
+      "to": 47.69,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 47.72,
+      "to": 47.96,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 47.96,
+      "to": 48.47,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 48.82,
+      "to": 49.23,
+      "speaker": 2,
+      "confidence": 0.51,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "thank",
+              49.69,
+              50.1
+            ],
+            [
+              "you",
+              50.1,
+              50.41
+            ]
+          ],
+          "transcript": "thank you "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 7
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "thank",
+              49.69,
+              50.1
+            ],
+            [
+              "you",
+              50.1,
+              50.41
+            ]
+          ],
+          "confidence": 0.93,
+          "transcript": "thank you "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 7
+},{
+  "speaker_labels": [
+    {
+      "from": 49.69,
+      "to": 50.1,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 50.1,
+      "to": 50.41,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              51.06,
+              51.54
+            ],
+            [
+              "you",
+              51.57,
+              51.78
+            ],
+            [
+              "say",
+              51.78,
+              52.08
+            ],
+            [
+              "that",
+              52.08,
+              52.24
+            ],
+            [
+              "you",
+              52.24,
+              52.37
+            ],
+            [
+              "will",
+              52.37,
+              52.51
+            ],
+            [
+              "be",
+              52.51,
+              52.63
+            ]
+          ],
+          "transcript": "and you say that you will be "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 8
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              51.06,
+              51.54
+            ],
+            [
+              "you",
+              51.57,
+              51.78
+            ],
+            [
+              "say",
+              51.78,
+              52.08
+            ],
+            [
+              "that",
+              52.08,
+              52.24
+            ],
+            [
+              "you",
+              52.24,
+              52.37
+            ],
+            [
+              "will",
+              52.37,
+              52.51
+            ],
+            [
+              "be",
+              52.51,
+              52.64
+            ],
+            [
+              "sending",
+              52.64,
+              53.21
+            ],
+            [
+              "the",
+              53.21,
+              53.32
+            ],
+            [
+              "box",
+              53.32,
+              53.78
+            ],
+            [
+              "to",
+              53.78,
+              53.92
+            ],
+            [
+              "Kenya",
+              53.92,
+              54.58
+            ]
+          ],
+          "transcript": "and you say that you will be sending the box to Kenya "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 8
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              51.06,
+              51.54
+            ],
+            [
+              "you",
+              51.57,
+              51.78
+            ],
+            [
+              "say",
+              51.78,
+              52.08
+            ],
+            [
+              "that",
+              52.08,
+              52.24
+            ],
+            [
+              "you",
+              52.24,
+              52.37
+            ],
+            [
+              "will",
+              52.37,
+              52.51
+            ],
+            [
+              "be",
+              52.51,
+              52.64
+            ],
+            [
+              "sending",
+              52.64,
+              53.21
+            ],
+            [
+              "the",
+              53.21,
+              53.32
+            ],
+            [
+              "box",
+              53.32,
+              53.78
+            ],
+            [
+              "to",
+              53.78,
+              53.92
+            ],
+            [
+              "Kenya",
+              53.92,
+              54.58
+            ],
+            [
+              "that's",
+              54.94,
+              55.18
+            ],
+            [
+              "right",
+              55.18,
+              55.55
+            ]
+          ],
+          "transcript": "and you say that you will be sending the box to Kenya that's right "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 8
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              51.06,
+              51.54
+            ],
+            [
+              "you",
+              51.57,
+              51.78
+            ],
+            [
+              "say",
+              51.78,
+              52.08
+            ],
+            [
+              "that",
+              52.08,
+              52.24
+            ],
+            [
+              "you",
+              52.24,
+              52.37
+            ],
+            [
+              "will",
+              52.37,
+              52.51
+            ],
+            [
+              "be",
+              52.51,
+              52.64
+            ],
+            [
+              "sending",
+              52.64,
+              53.21
+            ],
+            [
+              "the",
+              53.21,
+              53.32
+            ],
+            [
+              "box",
+              53.32,
+              53.78
+            ],
+            [
+              "to",
+              53.78,
+              53.92
+            ],
+            [
+              "Kenya",
+              53.92,
+              54.58
+            ],
+            [
+              "that's",
+              54.94,
+              55.18
+            ],
+            [
+              "right",
+              55.18,
+              55.55
+            ]
+          ],
+          "confidence": 0.89,
+          "transcript": "and you say that you will be sending the box to Kenya that's right "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 8
+},{
+  "speaker_labels": [
+    {
+      "from": 51.06,
+      "to": 51.54,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 51.57,
+      "to": 51.78,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 51.78,
+      "to": 52.08,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 52.08,
+      "to": 52.24,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 52.24,
+      "to": 52.37,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 52.37,
+      "to": 52.51,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 52.51,
+      "to": 52.64,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 52.64,
+      "to": 53.21,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 53.21,
+      "to": 53.32,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 53.32,
+      "to": 53.78,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 53.78,
+      "to": 53.92,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 53.92,
+      "to": 54.58,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 54.94,
+      "to": 55.18,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 55.18,
+      "to": 55.55,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              56.53,
+              57.02
+            ],
+            [
+              "where",
+              57.05,
+              57.44
+            ],
+            [
+              "would",
+              57.44,
+              57.59
+            ],
+            [
+              "you",
+              57.59,
+              57.69
+            ],
+            [
+              "like",
+              57.69,
+              57.94
+            ],
+            [
+              "the",
+              57.94,
+              58.06
+            ],
+            [
+              "book",
+              58.06,
+              58.26
+            ]
+          ],
+          "transcript": "and where would you like the book "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 9
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              56.53,
+              57.02
+            ],
+            [
+              "where",
+              57.05,
+              57.44
+            ],
+            [
+              "would",
+              57.44,
+              57.59
+            ],
+            [
+              "you",
+              57.59,
+              57.69
+            ],
+            [
+              "like",
+              57.69,
+              57.94
+            ],
+            [
+              "the",
+              57.94,
+              58.06
+            ],
+            [
+              "books",
+              58.06,
+              58.46
+            ],
+            [
+              "picked",
+              58.46,
+              58.81
+            ],
+            [
+              "up",
+              58.81,
+              59.01
+            ],
+            [
+              "from",
+              59.01,
+              59.45
+            ]
+          ],
+          "transcript": "and where would you like the books picked up from "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 9
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              56.53,
+              57.02
+            ],
+            [
+              "where",
+              57.05,
+              57.44
+            ],
+            [
+              "would",
+              57.44,
+              57.59
+            ],
+            [
+              "you",
+              57.59,
+              57.69
+            ],
+            [
+              "like",
+              57.69,
+              57.94
+            ],
+            [
+              "the",
+              57.94,
+              58.06
+            ],
+            [
+              "books",
+              58.06,
+              58.46
+            ],
+            [
+              "picked",
+              58.46,
+              58.81
+            ],
+            [
+              "up",
+              58.81,
+              59.01
+            ],
+            [
+              "from",
+              59.01,
+              59.45
+            ]
+          ],
+          "confidence": 0.8,
+          "transcript": "and where would you like the books picked up from "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 9
+},{
+  "speaker_labels": [
+    {
+      "from": 56.53,
+      "to": 57.02,
+      "speaker": 1,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 57.05,
+      "to": 57.44,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 57.44,
+      "to": 57.59,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 57.59,
+      "to": 57.69,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 57.69,
+      "to": 57.94,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 57.94,
+      "to": 58.06,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 58.06,
+      "to": 58.46,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 58.46,
+      "to": 58.81,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 58.81,
+      "to": 59.01,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 59.01,
+      "to": 59.45,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "from",
+              59.9,
+              60.25
+            ],
+            [
+              "college",
+              60.25,
+              60.79
+            ],
+            [
+              "if",
+              60.79,
+              61.03
+            ],
+            [
+              "possible",
+              61.03,
+              61.51
+            ]
+          ],
+          "transcript": "from college if possible "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 10
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "from",
+              59.9,
+              60.25
+            ],
+            [
+              "college",
+              60.25,
+              60.79
+            ],
+            [
+              "if",
+              60.79,
+              61.03
+            ],
+            [
+              "possible",
+              61.03,
+              61.51
+            ]
+          ],
+          "confidence": 0.9,
+          "transcript": "from college if possible "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 10
+},{
+  "speaker_labels": [
+    {
+      "from": 59.9,
+      "to": 60.25,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 60.25,
+      "to": 60.79,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 60.79,
+      "to": 61.03,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 61.03,
+      "to": 61.51,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              62.12,
+              62.49
+            ],
+            [
+              "of",
+              62.49,
+              62.62
+            ],
+            [
+              "course",
+              62.62,
+              63.35
+            ],
+            [
+              "I",
+              63.73,
+              63.84
+            ]
+          ],
+          "transcript": "yes of course I "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 11
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              62.12,
+              62.49
+            ],
+            [
+              "of",
+              62.49,
+              62.62
+            ],
+            [
+              "course",
+              62.62,
+              63.35
+            ],
+            [
+              "I'll",
+              63.72,
+              64.06
+            ],
+            [
+              "take",
+              64.06,
+              64.38
+            ],
+            [
+              "down",
+              64.38,
+              64.63
+            ],
+            [
+              "the",
+              64.63,
+              64.74
+            ],
+            [
+              "address",
+              64.74,
+              65.25
+            ],
+            [
+              "now",
+              65.25,
+              65.68
+            ]
+          ],
+          "transcript": "yes of course I'll take down the address now "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 11
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              62.12,
+              62.49
+            ],
+            [
+              "of",
+              62.49,
+              62.62
+            ],
+            [
+              "course",
+              62.62,
+              63.35
+            ],
+            [
+              "I'll",
+              63.72,
+              64.06
+            ],
+            [
+              "take",
+              64.06,
+              64.38
+            ],
+            [
+              "down",
+              64.38,
+              64.63
+            ],
+            [
+              "the",
+              64.63,
+              64.74
+            ],
+            [
+              "address",
+              64.74,
+              65.25
+            ],
+            [
+              "now",
+              65.25,
+              65.68
+            ]
+          ],
+          "confidence": 0.98,
+          "transcript": "yes of course I'll take down the address now "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 11
+},{
+  "speaker_labels": [
+    {
+      "from": 62.12,
+      "to": 62.49,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 62.49,
+      "to": 62.62,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 62.62,
+      "to": 63.35,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 63.72,
+      "to": 64.06,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 64.06,
+      "to": 64.38,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 64.38,
+      "to": 64.63,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 64.63,
+      "to": 64.74,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 64.74,
+      "to": 65.25,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 65.25,
+      "to": 65.68,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.9
+            ]
+          ],
+          "transcript": "it's Wessel college "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 12
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.93
+            ],
+            [
+              "is",
+              68.29,
+              68.52
+            ],
+            [
+              "that",
+              68.52,
+              68.89
+            ],
+            [
+              "W.",
+              68.94,
+              69.59
+            ],
+            [
+              "H.",
+              69.59,
+              69.93
+            ]
+          ],
+          "transcript": "it's Wessel college is that W. H. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 12
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.93
+            ],
+            [
+              "is",
+              68.29,
+              68.52
+            ],
+            [
+              "that",
+              68.52,
+              68.89
+            ],
+            [
+              "W.",
+              68.94,
+              69.6
+            ],
+            [
+              "E.",
+              69.6,
+              70.08
+            ],
+            [
+              "S.",
+              70.11,
+              70.67
+            ],
+            [
+              "T.",
+              70.81,
+              71.35
+            ],
+            [
+              "A.",
+              71.38,
+              71.88
+            ]
+          ],
+          "transcript": "it's Wessel college is that W. E. S. T. A. "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 12
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.93
+            ],
+            [
+              "is",
+              68.29,
+              68.52
+            ],
+            [
+              "that",
+              68.52,
+              68.89
+            ],
+            [
+              "W.",
+              68.94,
+              69.6
+            ],
+            [
+              "E.",
+              69.6,
+              70.08
+            ],
+            [
+              "S.",
+              70.11,
+              70.67
+            ],
+            [
+              "T.",
+              70.81,
+              71.35
+            ],
+            [
+              "A.",
+              71.38,
+              71.88
+            ],
+            [
+              "double",
+              71.91,
+              72.21
+            ],
+            [
+              "L.",
+              72.21,
+              72.8
+            ],
+            [
+              "yes",
+              73.17,
+              73.76
+            ]
+          ],
+          "transcript": "it's Wessel college is that W. E. S. T. A. double L. yes "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 12
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.93
+            ],
+            [
+              "is",
+              68.29,
+              68.52
+            ],
+            [
+              "that",
+              68.52,
+              68.89
+            ],
+            [
+              "W.",
+              68.94,
+              69.6
+            ],
+            [
+              "E.",
+              69.6,
+              70.08
+            ],
+            [
+              "S.",
+              70.11,
+              70.67
+            ],
+            [
+              "T.",
+              70.81,
+              71.35
+            ],
+            [
+              "A.",
+              71.38,
+              71.88
+            ],
+            [
+              "double",
+              71.91,
+              72.21
+            ],
+            [
+              "L.",
+              72.21,
+              72.8
+            ],
+            [
+              "yes",
+              73.17,
+              73.76
+            ],
+            [
+              "college",
+              73.87,
+              74.35
+            ]
+          ],
+          "transcript": "it's Wessel college is that W. E. S. T. A. double L. yes college "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 12
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              66.2,
+              66.58
+            ],
+            [
+              "Wessel",
+              66.66,
+              67.3
+            ],
+            [
+              "college",
+              67.3,
+              67.93
+            ],
+            [
+              "is",
+              68.29,
+              68.52
+            ],
+            [
+              "that",
+              68.52,
+              68.89
+            ],
+            [
+              "W.",
+              68.94,
+              69.6
+            ],
+            [
+              "E.",
+              69.6,
+              70.08
+            ],
+            [
+              "S.",
+              70.11,
+              70.67
+            ],
+            [
+              "T.",
+              70.81,
+              71.35
+            ],
+            [
+              "A.",
+              71.38,
+              71.88
+            ],
+            [
+              "double",
+              71.91,
+              72.21
+            ],
+            [
+              "L.",
+              72.21,
+              72.8
+            ],
+            [
+              "yes",
+              73.17,
+              73.76
+            ],
+            [
+              "college",
+              73.87,
+              74.35
+            ]
+          ],
+          "confidence": 0.77,
+          "transcript": "it's Wessel college is that W. E. S. T. A. double L. yes college "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 12
+},{
+  "speaker_labels": [
+    {
+      "from": 66.2,
+      "to": 66.58,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 66.66,
+      "to": 67.3,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 67.3,
+      "to": 67.93,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 68.29,
+      "to": 68.52,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 68.52,
+      "to": 68.89,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 68.94,
+      "to": 69.6,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 69.6,
+      "to": 70.08,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 70.11,
+      "to": 70.67,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 70.81,
+      "to": 71.35,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 71.38,
+      "to": 71.88,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 71.91,
+      "to": 72.21,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 72.21,
+      "to": 72.8,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 73.17,
+      "to": 73.76,
+      "speaker": 2,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 73.87,
+      "to": 74.35,
+      "speaker": 2,
+      "confidence": 0.59,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Wes",
+              75.17,
+              75.49
+            ],
+            [
+              "still",
+              75.49,
+              75.98
+            ],
+            [
+              "college",
+              76.01,
+              76.86
+            ]
+          ],
+          "transcript": "Wes still college "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 13
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Wes",
+              75.17,
+              75.49
+            ],
+            [
+              "still",
+              75.49,
+              75.98
+            ],
+            [
+              "college",
+              76.01,
+              76.92
+            ]
+          ],
+          "transcript": "Wes still college "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 13
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Wes",
+              75.17,
+              75.49
+            ],
+            [
+              "still",
+              75.49,
+              75.98
+            ],
+            [
+              "college",
+              76.01,
+              76.92
+            ]
+          ],
+          "confidence": 0.68,
+          "transcript": "Wes still college "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 13
+},{
+  "speaker_labels": [
+    {
+      "from": 75.17,
+      "to": 75.49,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 75.49,
+      "to": 75.98,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 76.01,
+      "to": 76.92,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "address",
+              77.55,
+              78.04
+            ],
+            [
+              "that",
+              78.04,
+              78.56
+            ],
+            [
+              "it's",
+              78.93,
+              79.21
+            ]
+          ],
+          "transcript": "address that it's "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 14
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "address",
+              77.55,
+              78.04
+            ],
+            [
+              "that",
+              78.04,
+              78.56
+            ],
+            [
+              "it's",
+              78.93,
+              79.19
+            ],
+            [
+              "downlands",
+              79.19,
+              80.1
+            ],
+            [
+              "road",
+              80.13,
+              80.81
+            ],
+            [
+              "in",
+              80.84,
+              81.04
+            ],
+            [
+              "bridge",
+              81.04,
+              81.28
+            ]
+          ],
+          "transcript": "address that it's downlands road in bridge "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 14
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "address",
+              77.55,
+              78.04
+            ],
+            [
+              "that",
+              78.04,
+              78.56
+            ],
+            [
+              "it's",
+              78.93,
+              79.19
+            ],
+            [
+              "downlands",
+              79.19,
+              80.1
+            ],
+            [
+              "road",
+              80.13,
+              80.81
+            ],
+            [
+              "in",
+              80.84,
+              81.04
+            ],
+            [
+              "Bristol",
+              81.04,
+              81.54
+            ]
+          ],
+          "transcript": "address that it's downlands road in Bristol "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 14
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "address",
+              77.55,
+              78.04
+            ],
+            [
+              "that",
+              78.04,
+              78.56
+            ],
+            [
+              "it's",
+              78.93,
+              79.19
+            ],
+            [
+              "downlands",
+              79.19,
+              80.1
+            ],
+            [
+              "road",
+              80.13,
+              80.81
+            ],
+            [
+              "in",
+              80.84,
+              81.04
+            ],
+            [
+              "Bristol",
+              81.04,
+              81.54
+            ]
+          ],
+          "confidence": 0.68,
+          "transcript": "address that it's downlands road in Bristol "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 14
+},{
+  "speaker_labels": [
+    {
+      "from": 77.55,
+      "to": 78.04,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 78.04,
+      "to": 78.56,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 78.93,
+      "to": 79.19,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 79.19,
+      "to": 80.1,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 80.13,
+      "to": 80.81,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 80.84,
+      "to": 81.04,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 81.04,
+      "to": 81.54,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              81.99,
+              82.34
+            ],
+            [
+              "yes",
+              82.34,
+              82.74
+            ],
+            [
+              "I",
+              82.74,
+              82.85
+            ],
+            [
+              "know",
+              82.85,
+              83.23
+            ],
+            [
+              "it",
+              83.23,
+              83.7
+            ]
+          ],
+          "transcript": "%HESITATION yes I know it "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 15
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              81.99,
+              82.34
+            ],
+            [
+              "yes",
+              82.34,
+              82.74
+            ],
+            [
+              "I",
+              82.74,
+              82.85
+            ],
+            [
+              "know",
+              82.85,
+              83.23
+            ],
+            [
+              "it",
+              83.23,
+              83.7
+            ]
+          ],
+          "confidence": 0.83,
+          "transcript": "%HESITATION yes I know it "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 15
+},{
+  "speaker_labels": [
+    {
+      "from": 81.99,
+      "to": 82.34,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 82.34,
+      "to": 82.74,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 82.74,
+      "to": 82.85,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 82.85,
+      "to": 83.23,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 83.23,
+      "to": 83.7,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              84.38,
+              84.71
+            ],
+            [
+              "the",
+              84.71,
+              84.79
+            ],
+            [
+              "post",
+              84.79,
+              85.2
+            ],
+            [
+              "code",
+              85.2,
+              85.82
+            ]
+          ],
+          "transcript": "and the post code "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 16
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              84.38,
+              84.71
+            ],
+            [
+              "the",
+              84.71,
+              84.79
+            ],
+            [
+              "post",
+              84.79,
+              85.2
+            ],
+            [
+              "code",
+              85.2,
+              85.82
+            ],
+            [
+              "it's",
+              86.04,
+              86.32
+            ],
+            [
+              "B.",
+              86.35,
+              86.76
+            ],
+            [
+              "S.",
+              86.76,
+              87.18
+            ],
+            [
+              "eight",
+              87.22,
+              87.69
+            ],
+            [
+              "nine",
+              87.79,
+              88.14
+            ]
+          ],
+          "transcript": "and the post code it's B. S. eight nine "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 16
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              84.38,
+              84.71
+            ],
+            [
+              "the",
+              84.71,
+              84.79
+            ],
+            [
+              "post",
+              84.79,
+              85.2
+            ],
+            [
+              "code",
+              85.2,
+              85.82
+            ],
+            [
+              "it's",
+              86.04,
+              86.32
+            ],
+            [
+              "B.",
+              86.35,
+              86.76
+            ],
+            [
+              "S.",
+              86.76,
+              87.18
+            ],
+            [
+              "eight",
+              87.22,
+              87.69
+            ],
+            [
+              "nine",
+              87.79,
+              88.34
+            ],
+            [
+              "P.",
+              88.37,
+              88.67
+            ],
+            [
+              "you",
+              88.67,
+              89.11
+            ]
+          ],
+          "transcript": "and the post code it's B. S. eight nine P. you "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 16
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              84.38,
+              84.71
+            ],
+            [
+              "the",
+              84.71,
+              84.79
+            ],
+            [
+              "post",
+              84.79,
+              85.2
+            ],
+            [
+              "code",
+              85.2,
+              85.82
+            ],
+            [
+              "it's",
+              86.04,
+              86.32
+            ],
+            [
+              "B.",
+              86.35,
+              86.76
+            ],
+            [
+              "S.",
+              86.76,
+              87.18
+            ],
+            [
+              "eight",
+              87.22,
+              87.69
+            ],
+            [
+              "nine",
+              87.79,
+              88.34
+            ],
+            [
+              "P.",
+              88.37,
+              88.67
+            ],
+            [
+              "you",
+              88.67,
+              89.11
+            ]
+          ],
+          "confidence": 0.78,
+          "transcript": "and the post code it's B. S. eight nine P. you "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 16
+},{
+  "speaker_labels": [
+    {
+      "from": 84.38,
+      "to": 84.71,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 84.71,
+      "to": 84.79,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 84.79,
+      "to": 85.2,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 85.2,
+      "to": 85.82,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 86.04,
+      "to": 86.32,
+      "speaker": 2,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 86.35,
+      "to": 86.76,
+      "speaker": 2,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 86.76,
+      "to": 87.18,
+      "speaker": 2,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 87.22,
+      "to": 87.69,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 87.79,
+      "to": 88.34,
+      "speaker": 2,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 88.37,
+      "to": 88.67,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 88.67,
+      "to": 89.11,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              89.78,
+              90.37
+            ]
+          ],
+          "transcript": "right "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 17
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              89.78,
+              90.54
+            ]
+          ],
+          "confidence": 0.77,
+          "transcript": "right "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 17
+},{
+  "speaker_labels": [
+    {
+      "from": 89.78,
+      "to": 90.54,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              91.58,
+              92.06
+            ],
+            [
+              "I",
+              92.09,
+              92.29
+            ],
+            [
+              "need",
+              92.29,
+              92.62
+            ],
+            [
+              "to",
+              92.62,
+              92.75
+            ],
+            [
+              "know",
+              92.75,
+              92.93
+            ],
+            [
+              "the",
+              92.93,
+              93.05
+            ],
+            [
+              "sun",
+              93.05,
+              93.29
+            ]
+          ],
+          "transcript": "and I need to know the sun "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 18
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              91.58,
+              92.06
+            ],
+            [
+              "I",
+              92.09,
+              92.29
+            ],
+            [
+              "need",
+              92.29,
+              92.62
+            ],
+            [
+              "to",
+              92.62,
+              92.75
+            ],
+            [
+              "know",
+              92.75,
+              92.93
+            ],
+            [
+              "the",
+              92.93,
+              93.05
+            ],
+            [
+              "size",
+              93.05,
+              93.83
+            ]
+          ],
+          "transcript": "and I need to know the size "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 18
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              91.58,
+              92.06
+            ],
+            [
+              "I",
+              92.09,
+              92.29
+            ],
+            [
+              "need",
+              92.29,
+              92.62
+            ],
+            [
+              "to",
+              92.62,
+              92.75
+            ],
+            [
+              "know",
+              92.75,
+              92.93
+            ],
+            [
+              "the",
+              92.93,
+              93.05
+            ],
+            [
+              "size",
+              93.05,
+              93.83
+            ]
+          ],
+          "confidence": 0.95,
+          "transcript": "and I need to know the size "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 18
+},{
+  "speaker_labels": [
+    {
+      "from": 91.58,
+      "to": 92.06,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 92.09,
+      "to": 92.29,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 92.29,
+      "to": 92.62,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 92.62,
+      "to": 92.75,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 92.75,
+      "to": 92.93,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 92.93,
+      "to": 93.05,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 93.05,
+      "to": 93.83,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              94.22,
+              94.63
+            ],
+            [
+              "%HESITATION",
+              94.99,
+              95.28
+            ]
+          ],
+          "transcript": "yes %HESITATION "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 19
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              94.22,
+              94.63
+            ],
+            [
+              "I've",
+              95.01,
+              95.3
+            ],
+            [
+              "measured",
+              95.3,
+              95.6
+            ],
+            [
+              "it",
+              95.6,
+              95.72
+            ],
+            [
+              "carefully",
+              95.72,
+              96.27
+            ],
+            [
+              "and",
+              96.27,
+              96.5
+            ],
+            [
+              "it's",
+              96.5,
+              96.78
+            ],
+            [
+              "one",
+              96.81,
+              97.14
+            ],
+            [
+              "point",
+              97.14,
+              97.5
+            ],
+            [
+              "five",
+              97.5,
+              97.87
+            ]
+          ],
+          "transcript": "yes I've measured it carefully and it's one point five "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 19
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              94.22,
+              94.63
+            ],
+            [
+              "I've",
+              95.01,
+              95.3
+            ],
+            [
+              "measured",
+              95.3,
+              95.6
+            ],
+            [
+              "it",
+              95.6,
+              95.72
+            ],
+            [
+              "carefully",
+              95.72,
+              96.27
+            ],
+            [
+              "and",
+              96.27,
+              96.5
+            ],
+            [
+              "it's",
+              96.5,
+              96.78
+            ],
+            [
+              "one",
+              96.81,
+              97.14
+            ],
+            [
+              "point",
+              97.14,
+              97.5
+            ],
+            [
+              "five",
+              97.5,
+              98.03
+            ],
+            [
+              "meters",
+              98.06,
+              98.47
+            ],
+            [
+              "long",
+              98.47,
+              98.92
+            ]
+          ],
+          "transcript": "yes I've measured it carefully and it's one point five meters long "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 19
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              94.22,
+              94.63
+            ],
+            [
+              "I've",
+              95.01,
+              95.3
+            ],
+            [
+              "measured",
+              95.3,
+              95.6
+            ],
+            [
+              "it",
+              95.6,
+              95.72
+            ],
+            [
+              "carefully",
+              95.72,
+              96.27
+            ],
+            [
+              "and",
+              96.27,
+              96.5
+            ],
+            [
+              "it's",
+              96.5,
+              96.78
+            ],
+            [
+              "one",
+              96.81,
+              97.14
+            ],
+            [
+              "point",
+              97.14,
+              97.5
+            ],
+            [
+              "five",
+              97.5,
+              98.03
+            ],
+            [
+              "meters",
+              98.06,
+              98.47
+            ],
+            [
+              "long",
+              98.47,
+              98.92
+            ]
+          ],
+          "confidence": 0.9,
+          "transcript": "yes I've measured it carefully and it's one point five meters long "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 19
+},{
+  "speaker_labels": [
+    {
+      "from": 94.22,
+      "to": 94.63,
+      "speaker": 2,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 95.01,
+      "to": 95.3,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 95.3,
+      "to": 95.6,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 95.6,
+      "to": 95.72,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 95.72,
+      "to": 96.27,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 96.27,
+      "to": 96.5,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 96.5,
+      "to": 96.78,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 96.81,
+      "to": 97.14,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 97.14,
+      "to": 97.5,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 97.5,
+      "to": 98.03,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 98.06,
+      "to": 98.47,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 98.47,
+      "to": 98.92,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              99.44,
+              100.25
+            ],
+            [
+              "note",
+              100.56,
+              101.02
+            ]
+          ],
+          "transcript": "right note "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 20
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              99.44,
+              100.25
+            ],
+            [
+              "note",
+              100.56,
+              101.01
+            ],
+            [
+              "point",
+              101.04,
+              101.37
+            ],
+            [
+              "seven",
+              101.37,
+              101.71
+            ],
+            [
+              "five",
+              101.71,
+              102.17
+            ],
+            [
+              "meters",
+              102.17,
+              102.52
+            ],
+            [
+              "wide",
+              102.52,
+              103.12
+            ]
+          ],
+          "transcript": "right note point seven five meters wide "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 20
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              99.44,
+              100.25
+            ],
+            [
+              "note",
+              100.56,
+              101.01
+            ],
+            [
+              "point",
+              101.04,
+              101.37
+            ],
+            [
+              "seven",
+              101.37,
+              101.71
+            ],
+            [
+              "five",
+              101.71,
+              102.17
+            ],
+            [
+              "meters",
+              102.17,
+              102.52
+            ],
+            [
+              "wide",
+              102.52,
+              103.12
+            ]
+          ],
+          "confidence": 0.85,
+          "transcript": "right note point seven five meters wide "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 20
+},{
+  "speaker_labels": [
+    {
+      "from": 99.44,
+      "to": 100.25,
+      "speaker": 1,
+      "confidence": 0.59,
+      "final": false
+    },
+    {
+      "from": 100.56,
+      "to": 101.01,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 101.04,
+      "to": 101.37,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 101.37,
+      "to": 101.71,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 101.71,
+      "to": 102.17,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 102.17,
+      "to": 102.52,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 102.52,
+      "to": 103.12,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "K.",
+              103.98,
+              104.79
+            ],
+            [
+              "and",
+              105.04,
+              105.43
+            ]
+          ],
+          "transcript": "K. and "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 21
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "K.",
+              103.98,
+              104.79
+            ],
+            [
+              "and",
+              105.04,
+              105.42
+            ],
+            [
+              "it's",
+              105.42,
+              105.91
+            ],
+            [
+              "no",
+              105.94,
+              106.16
+            ],
+            [
+              "point",
+              106.16,
+              106.53
+            ],
+            [
+              "five",
+              106.53,
+              106.91
+            ],
+            [
+              "meters",
+              106.91,
+              107.3
+            ],
+            [
+              "high",
+              107.3,
+              107.46
+            ]
+          ],
+          "transcript": "K. and it's no point five meters high "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 21
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "K.",
+              103.98,
+              104.79
+            ],
+            [
+              "and",
+              105.04,
+              105.42
+            ],
+            [
+              "it's",
+              105.42,
+              105.91
+            ],
+            [
+              "no",
+              105.94,
+              106.16
+            ],
+            [
+              "point",
+              106.16,
+              106.53
+            ],
+            [
+              "five",
+              106.53,
+              106.91
+            ],
+            [
+              "meters",
+              106.91,
+              107.3
+            ],
+            [
+              "high",
+              107.3,
+              107.8
+            ],
+            [
+              "%HESITATION",
+              107.83,
+              108.34
+            ],
+            [
+              "deep",
+              108.54,
+              108.93
+            ]
+          ],
+          "transcript": "K. and it's no point five meters high %HESITATION deep "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 21
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "K.",
+              103.98,
+              104.79
+            ],
+            [
+              "and",
+              105.04,
+              105.42
+            ],
+            [
+              "it's",
+              105.42,
+              105.91
+            ],
+            [
+              "no",
+              105.94,
+              106.16
+            ],
+            [
+              "point",
+              106.16,
+              106.53
+            ],
+            [
+              "five",
+              106.53,
+              106.91
+            ],
+            [
+              "meters",
+              106.91,
+              107.3
+            ],
+            [
+              "high",
+              107.3,
+              107.8
+            ],
+            [
+              "%HESITATION",
+              107.83,
+              108.34
+            ],
+            [
+              "deep",
+              108.54,
+              108.93
+            ]
+          ],
+          "confidence": 0.82,
+          "transcript": "K. and it's no point five meters high %HESITATION deep "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 21
+},{
+  "speaker_labels": [
+    {
+      "from": 103.98,
+      "to": 104.79,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 105.04,
+      "to": 105.42,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 105.42,
+      "to": 105.91,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 105.94,
+      "to": 106.16,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 106.16,
+      "to": 106.53,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 106.53,
+      "to": 106.91,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 106.91,
+      "to": 107.3,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 107.3,
+      "to": 107.8,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 107.83,
+      "to": 108.34,
+      "speaker": 2,
+      "confidence": 0.59,
+      "final": false
+    },
+    {
+      "from": 108.54,
+      "to": 108.93,
+      "speaker": 2,
+      "confidence": 0.61,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "great",
+              109.5,
+              110.06
+            ]
+          ],
+          "transcript": "great "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 22
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "great",
+              109.5,
+              110.06
+            ]
+          ],
+          "confidence": 0.95,
+          "transcript": "great "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 22
+},{
+  "speaker_labels": [
+    {
+      "from": 109.5,
+      "to": 110.06,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              110.7,
+              111.22
+            ],
+            [
+              "I'll",
+              111.27,
+              111.52
+            ],
+            [
+              "calculate",
+              111.52,
+              112.2
+            ],
+            [
+              "the",
+              112.2,
+              112.29
+            ],
+            [
+              "vault",
+              112.29,
+              112.57
+            ]
+          ],
+          "transcript": "so I'll calculate the vault "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 23
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              110.7,
+              111.22
+            ],
+            [
+              "I'll",
+              111.27,
+              111.52
+            ],
+            [
+              "calculate",
+              111.52,
+              112.2
+            ],
+            [
+              "the",
+              112.2,
+              112.29
+            ],
+            [
+              "volume",
+              112.29,
+              112.76
+            ],
+            [
+              "in",
+              112.76,
+              112.87
+            ],
+            [
+              "a",
+              112.87,
+              112.92
+            ],
+            [
+              "moment",
+              112.92,
+              113.62
+            ],
+            [
+              "and",
+              113.7,
+              114.02
+            ],
+            [
+              "get",
+              114.02,
+              114.24
+            ],
+            [
+              "some",
+              114.24,
+              114.4
+            ]
+          ],
+          "transcript": "so I'll calculate the volume in a moment and get some "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 23
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              110.7,
+              111.22
+            ],
+            [
+              "I'll",
+              111.27,
+              111.52
+            ],
+            [
+              "calculate",
+              111.52,
+              112.2
+            ],
+            [
+              "the",
+              112.2,
+              112.29
+            ],
+            [
+              "volume",
+              112.29,
+              112.76
+            ],
+            [
+              "in",
+              112.76,
+              112.87
+            ],
+            [
+              "a",
+              112.87,
+              112.92
+            ],
+            [
+              "moment",
+              112.92,
+              113.62
+            ],
+            [
+              "and",
+              113.7,
+              114.02
+            ],
+            [
+              "get",
+              114.02,
+              114.24
+            ],
+            [
+              "some",
+              114.24,
+              114.39
+            ],
+            [
+              "quotes",
+              114.39,
+              114.83
+            ],
+            [
+              "for",
+              114.83,
+              114.94
+            ],
+            [
+              "that",
+              114.94,
+              115.45
+            ]
+          ],
+          "transcript": "so I'll calculate the volume in a moment and get some quotes for that "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 23
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              110.7,
+              111.22
+            ],
+            [
+              "I'll",
+              111.27,
+              111.52
+            ],
+            [
+              "calculate",
+              111.52,
+              112.2
+            ],
+            [
+              "the",
+              112.2,
+              112.29
+            ],
+            [
+              "volume",
+              112.29,
+              112.76
+            ],
+            [
+              "in",
+              112.76,
+              112.87
+            ],
+            [
+              "a",
+              112.87,
+              112.92
+            ],
+            [
+              "moment",
+              112.92,
+              113.62
+            ],
+            [
+              "and",
+              113.7,
+              114.02
+            ],
+            [
+              "get",
+              114.02,
+              114.24
+            ],
+            [
+              "some",
+              114.24,
+              114.39
+            ],
+            [
+              "quotes",
+              114.39,
+              114.83
+            ],
+            [
+              "for",
+              114.83,
+              114.94
+            ],
+            [
+              "that",
+              114.94,
+              115.45
+            ]
+          ],
+          "confidence": 0.93,
+          "transcript": "so I'll calculate the volume in a moment and get some quotes for that "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 23
+},{
+  "speaker_labels": [
+    {
+      "from": 110.7,
+      "to": 111.22,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 111.27,
+      "to": 111.52,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 111.52,
+      "to": 112.2,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 112.2,
+      "to": 112.29,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 112.29,
+      "to": 112.76,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 112.76,
+      "to": 112.87,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 112.87,
+      "to": 112.92,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 112.92,
+      "to": 113.62,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 113.7,
+      "to": 114.02,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 114.02,
+      "to": 114.24,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 114.24,
+      "to": 114.39,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 114.39,
+      "to": 114.83,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 114.83,
+      "to": 114.94,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 114.94,
+      "to": 115.45,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              115.87,
+              116.25
+            ],
+            [
+              "first",
+              116.25,
+              116.72
+            ],
+            [
+              "can",
+              116.83,
+              117.05
+            ],
+            [
+              "you",
+              117.05,
+              117.15
+            ],
+            [
+              "tell",
+              117.15,
+              117.36
+            ],
+            [
+              "me",
+              117.36,
+              117.61
+            ]
+          ],
+          "transcript": "but first can you tell me "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 24
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              115.87,
+              116.25
+            ],
+            [
+              "first",
+              116.25,
+              116.72
+            ],
+            [
+              "can",
+              116.83,
+              117.05
+            ],
+            [
+              "you",
+              117.05,
+              117.15
+            ],
+            [
+              "tell",
+              117.15,
+              117.36
+            ],
+            [
+              "me",
+              117.36,
+              117.61
+            ]
+          ],
+          "confidence": 0.97,
+          "transcript": "but first can you tell me "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 24
+},{
+  "speaker_labels": [
+    {
+      "from": 115.87,
+      "to": 116.25,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 116.25,
+      "to": 116.72,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 116.83,
+      "to": 117.05,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 117.05,
+      "to": 117.15,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 117.15,
+      "to": 117.36,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 117.36,
+      "to": 117.61,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              118.04,
+              118.17
+            ],
+            [
+              "know",
+              118.17,
+              118.3
+            ],
+            [
+              "very",
+              118.3,
+              118.58
+            ],
+            [
+              "generally",
+              118.58,
+              119.4
+            ],
+            [
+              "what",
+              119.43,
+              119.74
+            ],
+            [
+              "we",
+              119.74,
+              119.8
+            ]
+          ],
+          "transcript": "you know very generally what we "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 25
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              118.04,
+              118.17
+            ],
+            [
+              "know",
+              118.17,
+              118.3
+            ],
+            [
+              "very",
+              118.3,
+              118.58
+            ],
+            [
+              "generally",
+              118.58,
+              119.4
+            ],
+            [
+              "what",
+              119.43,
+              119.75
+            ],
+            [
+              "will",
+              119.75,
+              119.9
+            ],
+            [
+              "be",
+              119.9,
+              120.11
+            ],
+            [
+              "in",
+              120.14,
+              120.32
+            ],
+            [
+              "the",
+              120.32,
+              120.41
+            ],
+            [
+              "box",
+              120.41,
+              121.03
+            ]
+          ],
+          "transcript": "you know very generally what will be in the box "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 25
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              118.04,
+              118.17
+            ],
+            [
+              "know",
+              118.17,
+              118.3
+            ],
+            [
+              "very",
+              118.3,
+              118.58
+            ],
+            [
+              "generally",
+              118.58,
+              119.4
+            ],
+            [
+              "what",
+              119.43,
+              119.75
+            ],
+            [
+              "will",
+              119.75,
+              119.9
+            ],
+            [
+              "be",
+              119.9,
+              120.11
+            ],
+            [
+              "in",
+              120.14,
+              120.32
+            ],
+            [
+              "the",
+              120.32,
+              120.41
+            ],
+            [
+              "box",
+              120.41,
+              121.07
+            ]
+          ],
+          "confidence": 0.86,
+          "transcript": "you know very generally what will be in the box "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 25
+},{
+  "speaker_labels": [
+    {
+      "from": 118.04,
+      "to": 118.17,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 118.17,
+      "to": 118.3,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 118.3,
+      "to": 118.58,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 118.58,
+      "to": 119.4,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 119.43,
+      "to": 119.75,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 119.75,
+      "to": 119.9,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 119.9,
+      "to": 120.11,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 120.14,
+      "to": 120.32,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 120.32,
+      "to": 120.41,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    },
+    {
+      "from": 120.41,
+      "to": 121.07,
+      "speaker": 1,
+      "confidence": 0.64,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              121.36,
+              121.76
+            ],
+            [
+              "%HESITATION",
+              121.76,
+              122.12
+            ],
+            [
+              "this",
+              122.15,
+              122.59
+            ],
+            [
+              "mostly",
+              122.59,
+              122.92
+            ],
+            [
+              "to",
+              122.92,
+              123.06
+            ]
+          ],
+          "transcript": "yes %HESITATION this mostly to "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 26
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              121.36,
+              121.76
+            ],
+            [
+              "%HESITATION",
+              121.76,
+              122.12
+            ],
+            [
+              "this",
+              122.15,
+              122.59
+            ],
+            [
+              "must",
+              122.59,
+              122.84
+            ],
+            [
+              "be",
+              122.84,
+              122.92
+            ],
+            [
+              "close",
+              122.92,
+              123.58
+            ]
+          ],
+          "transcript": "yes %HESITATION this must be close "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 26
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yes",
+              121.36,
+              121.76
+            ],
+            [
+              "%HESITATION",
+              121.76,
+              122.12
+            ],
+            [
+              "this",
+              122.15,
+              122.59
+            ],
+            [
+              "must",
+              122.59,
+              122.84
+            ],
+            [
+              "be",
+              122.84,
+              122.92
+            ],
+            [
+              "close",
+              122.92,
+              123.58
+            ]
+          ],
+          "confidence": 0.8,
+          "transcript": "yes %HESITATION this must be close "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 26
+},{
+  "speaker_labels": [
+    {
+      "from": 121.36,
+      "to": 121.76,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 121.76,
+      "to": 122.12,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 122.15,
+      "to": 122.59,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 122.59,
+      "to": 122.84,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 122.84,
+      "to": 122.92,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 122.92,
+      "to": 123.58,
+      "speaker": 2,
+      "confidence": 0.66,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              124.12,
+              125.04
+            ],
+            [
+              "and",
+              125.28,
+              125.77
+            ]
+          ],
+          "transcript": "okay and "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 27
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              124.12,
+              125.04
+            ],
+            [
+              "and",
+              125.28,
+              125.87
+            ],
+            [
+              "there's",
+              125.9,
+              126.15
+            ],
+            [
+              "some",
+              126.15,
+              126.39
+            ],
+            [
+              "books",
+              126.39,
+              126.92
+            ]
+          ],
+          "transcript": "okay and there's some books "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 27
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              124.12,
+              125.04
+            ],
+            [
+              "and",
+              125.28,
+              125.87
+            ],
+            [
+              "there's",
+              125.9,
+              126.15
+            ],
+            [
+              "some",
+              126.15,
+              126.39
+            ],
+            [
+              "books",
+              126.39,
+              126.92
+            ]
+          ],
+          "confidence": 0.68,
+          "transcript": "okay and there's some books "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 27
+},{
+  "speaker_labels": [
+    {
+      "from": 124.12,
+      "to": 125.04,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 125.28,
+      "to": 125.87,
+      "speaker": 2,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 125.9,
+      "to": 126.15,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 126.15,
+      "to": 126.39,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 126.39,
+      "to": 126.92,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              127.88,
+              128.48
+            ],
+            [
+              "good",
+              128.71,
+              129.17
+            ]
+          ],
+          "transcript": "okay good "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 28
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              127.88,
+              128.48
+            ],
+            [
+              "good",
+              128.71,
+              129.17
+            ],
+            [
+              "%HESITATION",
+              129.62,
+              129.99
+            ],
+            [
+              "anything",
+              130.24,
+              130.58
+            ],
+            [
+              "else",
+              130.58,
+              131.12
+            ]
+          ],
+          "transcript": "okay good %HESITATION anything else "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 28
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              127.88,
+              128.48
+            ],
+            [
+              "good",
+              128.71,
+              129.17
+            ],
+            [
+              "%HESITATION",
+              129.62,
+              129.99
+            ],
+            [
+              "anything",
+              130.24,
+              130.58
+            ],
+            [
+              "else",
+              130.58,
+              131.12
+            ]
+          ],
+          "confidence": 0.95,
+          "transcript": "okay good %HESITATION anything else "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 28
+},{
+  "speaker_labels": [
+    {
+      "from": 127.88,
+      "to": 128.48,
+      "speaker": 1,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 128.71,
+      "to": 129.17,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 129.62,
+      "to": 129.99,
+      "speaker": 1,
+      "confidence": 0.54,
+      "final": false
+    },
+    {
+      "from": 130.24,
+      "to": 130.58,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 130.58,
+      "to": 131.12,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              131.54,
+              131.67
+            ],
+            [
+              "yes",
+              131.67,
+              132.15
+            ],
+            [
+              "this",
+              132.18,
+              132.62
+            ]
+          ],
+          "transcript": "%HESITATION yes this "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 29
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              131.54,
+              131.67
+            ],
+            [
+              "yes",
+              131.67,
+              132.15
+            ],
+            [
+              "there's",
+              132.18,
+              132.63
+            ],
+            [
+              "also",
+              132.63,
+              132.91
+            ],
+            [
+              "some",
+              132.91,
+              133.12
+            ],
+            [
+              "toys",
+              133.12,
+              133.76
+            ]
+          ],
+          "transcript": "%HESITATION yes there's also some toys "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 29
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              131.54,
+              131.67
+            ],
+            [
+              "yes",
+              131.67,
+              132.15
+            ],
+            [
+              "there's",
+              132.18,
+              132.63
+            ],
+            [
+              "also",
+              132.63,
+              132.91
+            ],
+            [
+              "some",
+              132.91,
+              133.12
+            ],
+            [
+              "toys",
+              133.12,
+              133.76
+            ]
+          ],
+          "confidence": 0.73,
+          "transcript": "%HESITATION yes there's also some toys "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 29
+},{
+  "speaker_labels": [
+    {
+      "from": 131.54,
+      "to": 131.67,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 131.67,
+      "to": 132.15,
+      "speaker": 2,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 132.18,
+      "to": 132.63,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 132.63,
+      "to": 132.91,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 132.91,
+      "to": 133.12,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 133.12,
+      "to": 133.76,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              134.66,
+              135.21
+            ],
+            [
+              "and",
+              135.27,
+              135.57
+            ],
+            [
+              "what",
+              135.68,
+              135.94
+            ],
+            [
+              "is",
+              135.94,
+              136.06
+            ],
+            [
+              "the",
+              136.06,
+              136.16
+            ],
+            [
+              "tell",
+              136.16,
+              136.38
+            ]
+          ],
+          "transcript": "okay and what is the tell "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 30
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              134.66,
+              135.21
+            ],
+            [
+              "and",
+              135.27,
+              135.57
+            ],
+            [
+              "what",
+              135.68,
+              135.94
+            ],
+            [
+              "is",
+              135.94,
+              136.06
+            ],
+            [
+              "the",
+              136.06,
+              136.16
+            ],
+            [
+              "total",
+              136.16,
+              136.6
+            ],
+            [
+              "value",
+              136.6,
+              137.25
+            ],
+            [
+              "do",
+              137.28,
+              137.38
+            ],
+            [
+              "you",
+              137.38,
+              137.46
+            ],
+            [
+              "think",
+              137.46,
+              137.9
+            ],
+            [
+              "of",
+              137.93,
+              138.19
+            ],
+            [
+              "the",
+              138.19,
+              138.38
+            ]
+          ],
+          "transcript": "okay and what is the total value do you think of the "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 30
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              134.66,
+              135.21
+            ],
+            [
+              "and",
+              135.27,
+              135.57
+            ],
+            [
+              "what",
+              135.68,
+              135.94
+            ],
+            [
+              "is",
+              135.94,
+              136.06
+            ],
+            [
+              "the",
+              136.06,
+              136.16
+            ],
+            [
+              "total",
+              136.16,
+              136.6
+            ],
+            [
+              "value",
+              136.6,
+              137.25
+            ],
+            [
+              "do",
+              137.28,
+              137.38
+            ],
+            [
+              "you",
+              137.38,
+              137.46
+            ],
+            [
+              "think",
+              137.46,
+              137.9
+            ],
+            [
+              "of",
+              137.93,
+              138.19
+            ],
+            [
+              "the",
+              138.19,
+              138.28
+            ],
+            [
+              "content",
+              138.28,
+              139.06
+            ]
+          ],
+          "transcript": "okay and what is the total value do you think of the content "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 30
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "okay",
+              134.66,
+              135.21
+            ],
+            [
+              "and",
+              135.27,
+              135.57
+            ],
+            [
+              "what",
+              135.68,
+              135.94
+            ],
+            [
+              "is",
+              135.94,
+              136.06
+            ],
+            [
+              "the",
+              136.06,
+              136.16
+            ],
+            [
+              "total",
+              136.16,
+              136.6
+            ],
+            [
+              "value",
+              136.6,
+              137.25
+            ],
+            [
+              "do",
+              137.28,
+              137.38
+            ],
+            [
+              "you",
+              137.38,
+              137.46
+            ],
+            [
+              "think",
+              137.46,
+              137.9
+            ],
+            [
+              "of",
+              137.93,
+              138.19
+            ],
+            [
+              "the",
+              138.19,
+              138.28
+            ],
+            [
+              "contents",
+              138.28,
+              139.12
+            ]
+          ],
+          "confidence": 0.85,
+          "transcript": "okay and what is the total value do you think of the contents "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 30
+},{
+  "speaker_labels": [
+    {
+      "from": 134.66,
+      "to": 135.21,
+      "speaker": 1,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 135.27,
+      "to": 135.57,
+      "speaker": 1,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 135.68,
+      "to": 135.94,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 135.94,
+      "to": 136.06,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 136.06,
+      "to": 136.16,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 136.16,
+      "to": 136.6,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 136.6,
+      "to": 137.25,
+      "speaker": 1,
+      "confidence": 0.66,
+      "final": false
+    },
+    {
+      "from": 137.28,
+      "to": 137.38,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 137.38,
+      "to": 137.46,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 137.46,
+      "to": 137.9,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 137.93,
+      "to": 138.19,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 138.19,
+      "to": 138.28,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    },
+    {
+      "from": 138.28,
+      "to": 139.12,
+      "speaker": 1,
+      "confidence": 0.65,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              139.92,
+              140.3
+            ],
+            [
+              "the",
+              140.56,
+              140.77
+            ],
+            [
+              "main",
+              140.77,
+              141.06
+            ],
+            [
+              "cost",
+              141.06,
+              141.64
+            ]
+          ],
+          "transcript": "well the main cost "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 31
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              139.92,
+              140.3
+            ],
+            [
+              "the",
+              140.56,
+              140.77
+            ],
+            [
+              "main",
+              140.77,
+              141.06
+            ],
+            [
+              "costs",
+              141.06,
+              141.63
+            ],
+            [
+              "other",
+              141.63,
+              141.91
+            ],
+            [
+              "clothes",
+              141.91,
+              142.35
+            ],
+            [
+              "on",
+              142.35,
+              142.46
+            ],
+            [
+              "the",
+              142.46,
+              142.55
+            ],
+            [
+              "books",
+              142.55,
+              143.15
+            ],
+            [
+              "they'll",
+              143.18,
+              143.47
+            ],
+            [
+              "be",
+              143.47,
+              143.58
+            ],
+            [
+              "a",
+              143.58,
+              143.64
+            ]
+          ],
+          "transcript": "well the main costs other clothes on the books they'll be a "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 31
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              139.92,
+              140.3
+            ],
+            [
+              "the",
+              140.56,
+              140.77
+            ],
+            [
+              "main",
+              140.77,
+              141.06
+            ],
+            [
+              "costs",
+              141.06,
+              141.63
+            ],
+            [
+              "other",
+              141.63,
+              141.91
+            ],
+            [
+              "clothes",
+              141.91,
+              142.35
+            ],
+            [
+              "on",
+              142.35,
+              142.46
+            ],
+            [
+              "the",
+              142.46,
+              142.55
+            ],
+            [
+              "books",
+              142.55,
+              143.15
+            ],
+            [
+              "they'll",
+              143.18,
+              143.47
+            ],
+            [
+              "be",
+              143.47,
+              143.58
+            ],
+            [
+              "about",
+              143.58,
+              144.03
+            ],
+            [
+              "one",
+              144.11,
+              144.42
+            ],
+            [
+              "thousand",
+              144.42,
+              144.82
+            ],
+            [
+              "five",
+              144.82,
+              145.16
+            ],
+            [
+              "hundred",
+              145.16,
+              145.44
+            ]
+          ],
+          "transcript": "well the main costs other clothes on the books they'll be about one thousand five hundred "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 31
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              139.92,
+              140.3
+            ],
+            [
+              "the",
+              140.56,
+              140.77
+            ],
+            [
+              "main",
+              140.77,
+              141.06
+            ],
+            [
+              "costs",
+              141.06,
+              141.63
+            ],
+            [
+              "other",
+              141.63,
+              141.91
+            ],
+            [
+              "clothes",
+              141.91,
+              142.35
+            ],
+            [
+              "on",
+              142.35,
+              142.46
+            ],
+            [
+              "the",
+              142.46,
+              142.55
+            ],
+            [
+              "books",
+              142.55,
+              143.15
+            ],
+            [
+              "they'll",
+              143.18,
+              143.47
+            ],
+            [
+              "be",
+              143.47,
+              143.58
+            ],
+            [
+              "about",
+              143.58,
+              144.03
+            ],
+            [
+              "one",
+              144.11,
+              144.42
+            ],
+            [
+              "thousand",
+              144.42,
+              144.82
+            ],
+            [
+              "five",
+              144.82,
+              145.16
+            ],
+            [
+              "hundred",
+              145.16,
+              145.44
+            ],
+            [
+              "pounds",
+              145.44,
+              145.96
+            ]
+          ],
+          "transcript": "well the main costs other clothes on the books they'll be about one thousand five hundred pounds "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 31
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              139.92,
+              140.3
+            ],
+            [
+              "the",
+              140.56,
+              140.77
+            ],
+            [
+              "main",
+              140.77,
+              141.06
+            ],
+            [
+              "costs",
+              141.06,
+              141.63
+            ],
+            [
+              "other",
+              141.63,
+              141.91
+            ],
+            [
+              "clothes",
+              141.91,
+              142.35
+            ],
+            [
+              "on",
+              142.35,
+              142.46
+            ],
+            [
+              "the",
+              142.46,
+              142.55
+            ],
+            [
+              "books",
+              142.55,
+              143.15
+            ],
+            [
+              "they'll",
+              143.18,
+              143.47
+            ],
+            [
+              "be",
+              143.47,
+              143.58
+            ],
+            [
+              "about",
+              143.58,
+              144.03
+            ],
+            [
+              "one",
+              144.11,
+              144.42
+            ],
+            [
+              "thousand",
+              144.42,
+              144.82
+            ],
+            [
+              "five",
+              144.82,
+              145.16
+            ],
+            [
+              "hundred",
+              145.16,
+              145.44
+            ],
+            [
+              "pounds",
+              145.44,
+              145.96
+            ]
+          ],
+          "confidence": 0.81,
+          "transcript": "well the main costs other clothes on the books they'll be about one thousand five hundred pounds "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 31
+},{
+  "speaker_labels": [
+    {
+      "from": 139.92,
+      "to": 140.3,
+      "speaker": 2,
+      "confidence": 0.6,
+      "final": false
+    },
+    {
+      "from": 140.56,
+      "to": 140.77,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 140.77,
+      "to": 141.06,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 141.06,
+      "to": 141.63,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 141.63,
+      "to": 141.91,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 141.91,
+      "to": 142.35,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 142.35,
+      "to": 142.46,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 142.46,
+      "to": 142.55,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 142.55,
+      "to": 143.15,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 143.18,
+      "to": 143.47,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 143.47,
+      "to": 143.58,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 143.58,
+      "to": 144.03,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 144.11,
+      "to": 144.42,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 144.42,
+      "to": 144.82,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 144.82,
+      "to": 145.16,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 145.16,
+      "to": 145.44,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 145.44,
+      "to": 145.96,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    }
+  ]
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              146.6,
+              146.86
+            ],
+            [
+              "then",
+              146.86,
+              147.0
+            ],
+            [
+              "the",
+              147.0,
+              147.08
+            ],
+            [
+              "toys",
+              147.08,
+              147.48
+            ],
+            [
+              "are",
+              147.48,
+              147.57
+            ],
+            [
+              "about",
+              147.57,
+              147.95
+            ],
+            [
+              "another",
+              147.95,
+              148.32
+            ]
+          ],
+          "transcript": "but then the toys are about another "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 32
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              146.6,
+              146.86
+            ],
+            [
+              "then",
+              146.86,
+              147.0
+            ],
+            [
+              "the",
+              147.0,
+              147.08
+            ],
+            [
+              "toys",
+              147.08,
+              147.48
+            ],
+            [
+              "are",
+              147.48,
+              147.57
+            ],
+            [
+              "about",
+              147.57,
+              147.95
+            ],
+            [
+              "another",
+              147.95,
+              148.26
+            ],
+            [
+              "%HESITATION",
+              148.26,
+              148.74
+            ],
+            [
+              "two",
+              149.24,
+              149.43
+            ],
+            [
+              "hundred",
+              149.43,
+              149.98
+            ],
+            [
+              "so",
+              150.11,
+              150.35
+            ],
+            [
+              "I",
+              150.35,
+              150.38
+            ]
+          ],
+          "transcript": "but then the toys are about another %HESITATION two hundred so I "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 32
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              146.6,
+              146.86
+            ],
+            [
+              "then",
+              146.86,
+              147.0
+            ],
+            [
+              "the",
+              147.0,
+              147.08
+            ],
+            [
+              "toys",
+              147.08,
+              147.48
+            ],
+            [
+              "are",
+              147.48,
+              147.57
+            ],
+            [
+              "about",
+              147.57,
+              147.95
+            ],
+            [
+              "another",
+              147.95,
+              148.26
+            ],
+            [
+              "%HESITATION",
+              148.26,
+              148.74
+            ],
+            [
+              "two",
+              149.24,
+              149.43
+            ],
+            [
+              "hundred",
+              149.43,
+              149.98
+            ],
+            [
+              "so",
+              150.11,
+              150.38
+            ],
+            [
+              "I",
+              150.38,
+              150.55
+            ],
+            [
+              "put",
+              150.55,
+              150.78
+            ],
+            [
+              "down",
+              150.78,
+              151.13
+            ],
+            [
+              "one",
+              151.13,
+              151.32
+            ],
+            [
+              "thousand",
+              151.32,
+              151.78
+            ],
+            [
+              "seven",
+              151.78,
+              152.04
+            ],
+            [
+              "hundred",
+              152.04,
+              152.38
+            ]
+          ],
+          "transcript": "but then the toys are about another %HESITATION two hundred so I put down one thousand seven hundred "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 32
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              146.6,
+              146.86
+            ],
+            [
+              "then",
+              146.86,
+              147.0
+            ],
+            [
+              "the",
+              147.0,
+              147.08
+            ],
+            [
+              "toys",
+              147.08,
+              147.48
+            ],
+            [
+              "are",
+              147.48,
+              147.57
+            ],
+            [
+              "about",
+              147.57,
+              147.95
+            ],
+            [
+              "another",
+              147.95,
+              148.26
+            ],
+            [
+              "%HESITATION",
+              148.26,
+              148.74
+            ],
+            [
+              "two",
+              149.24,
+              149.43
+            ],
+            [
+              "hundred",
+              149.43,
+              149.98
+            ],
+            [
+              "so",
+              150.11,
+              150.38
+            ],
+            [
+              "I",
+              150.38,
+              150.55
+            ],
+            [
+              "put",
+              150.55,
+              150.78
+            ],
+            [
+              "down",
+              150.78,
+              151.13
+            ],
+            [
+              "one",
+              151.13,
+              151.32
+            ],
+            [
+              "thousand",
+              151.32,
+              151.78
+            ],
+            [
+              "seven",
+              151.78,
+              152.04
+            ],
+            [
+              "hundred",
+              152.04,
+              152.34
+            ],
+            [
+              "pounds",
+              152.34,
+              152.85
+            ]
+          ],
+          "transcript": "but then the toys are about another %HESITATION two hundred so I put down one thousand seven hundred pounds "
+        }
+      ],
+      "final": false
+    }
+  ],
+  "result_index": 32
+},{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              146.6,
+              146.86
+            ],
+            [
+              "then",
+              146.86,
+              147.0
+            ],
+            [
+              "the",
+              147.0,
+              147.08
+            ],
+            [
+              "toys",
+              147.08,
+              147.48
+            ],
+            [
+              "are",
+              147.48,
+              147.57
+            ],
+            [
+              "about",
+              147.57,
+              147.95
+            ],
+            [
+              "another",
+              147.95,
+              148.26
+            ],
+            [
+              "%HESITATION",
+              148.26,
+              148.74
+            ],
+            [
+              "two",
+              149.24,
+              149.43
+            ],
+            [
+              "hundred",
+              149.43,
+              149.98
+            ],
+            [
+              "so",
+              150.11,
+              150.38
+            ],
+            [
+              "I",
+              150.38,
+              150.55
+            ],
+            [
+              "put",
+              150.55,
+              150.78
+            ],
+            [
+              "down",
+              150.78,
+              151.13
+            ],
+            [
+              "one",
+              151.13,
+              151.32
+            ],
+            [
+              "thousand",
+              151.32,
+              151.78
+            ],
+            [
+              "seven",
+              151.78,
+              152.04
+            ],
+            [
+              "hundred",
+              152.04,
+              152.34
+            ],
+            [
+              "pounds",
+              152.34,
+              152.85
+            ]
+          ],
+          "confidence": 0.92,
+          "transcript": "but then the toys are about another %HESITATION two hundred so I put down one thousand seven hundred pounds "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 32
+},{
+  "speaker_labels": [
+    {
+      "from": 146.6,
+      "to": 146.86,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 146.86,
+      "to": 147.0,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 147.0,
+      "to": 147.08,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 147.08,
+      "to": 147.48,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 147.48,
+      "to": 147.57,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 147.57,
+      "to": 147.95,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 147.95,
+      "to": 148.26,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 148.26,
+      "to": 148.74,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 149.24,
+      "to": 149.43,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 149.43,
+      "to": 149.98,
+      "speaker": 2,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 150.11,
+      "to": 150.38,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 150.38,
+      "to": 150.55,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 150.55,
+      "to": 150.78,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 150.78,
+      "to": 151.13,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 151.13,
+      "to": 151.32,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 151.32,
+      "to": 151.78,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 151.78,
+      "to": 152.04,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 152.04,
+      "to": 152.34,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 152.34,
+      "to": 152.85,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": false
+    }
+  ]
+},{
+  "speaker_labels": [
+    {
+      "from": 152.34,
+      "to": 152.85,
+      "speaker": 2,
+      "confidence": 0.62,
+      "final": true
+    }
+  ]
+}]

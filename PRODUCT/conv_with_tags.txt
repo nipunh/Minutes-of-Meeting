@@ -1,0 +1,33 @@
+2:you will hear a telephone conversation between a customer and an agent of the company which ships large boxes overseas 
+1:good morning how can I shipping agents can I help you %HESITATION yes I'm ringing to make enquiries about sending a large box %HESITATION a container back come to Kenya from the U. K. yes of course 
+2:would you like me to try and find some quotations for you yes that'd be great thank you 
+2:well first of all I need a few details from you fine 
+2:can I take your name it's Jacob and 
+2:can you spell your name please yes it's M. K. E. R. E. 
+2:is that M. for mother yes 
+1:thank you 
+2:and you say that you will be sending the box to Kenya that's right 
+1:and where would you like the books picked up from 
+2:from college if possible 
+1:yes of course I'll take down the address now 
+2:it's Wessel college is that W. E. S. T. A. double L. yes college 
+1:Wes still college 
+2:address that it's downlands road in Bristol 
+1:%HESITATION yes I know it 
+2:and the post code it's B. S. eight nine P. you 
+1:right 
+1:and I need to know the size 
+2:yes I've measured it carefully and it's one point five meters long 
+2:right note point seven five meters wide 
+2:K. and it's no point five meters high %HESITATION deep 
+1:great 
+1:so I'll calculate the volume in a moment and get some quotes for that 
+1:but first can you tell me 
+1:you know very generally what will be in the box 
+2:yes %HESITATION this must be close 
+2:okay and there's some books 
+1:okay good %HESITATION anything else 
+2:%HESITATION yes there's also some toys 
+1:okay and what is the total value do you think of the contents 
+2:well the main costs other clothes on the books they'll be about one thousand five hundred pounds 
+2:but then the toys are about another %HESITATION two hundred so I put down one thousand seven hundred pounds 

@@ -1,0 +1,9 @@
+https://www.ibm.com/watson/services/speech-to-text/
+
+Click on Get started free
+
+Create an account
+
+Select the service you want to use and select the Lite pack for 100 mins/month for speech to text IBM service
+
+Select the location you want to deploy the service and acquire the IAM key and url

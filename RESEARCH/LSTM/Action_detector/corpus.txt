@@ -1,0 +1,2191 @@
+0   Betty, Hello.
+0   I'm fnally back in Houston for good.
+0   I've been trying to contact you for a while.
+0   I hope you've gotten the e-mails that I sent.
+1   Please call me at home 713-528-1997, cellphone at 713-870-8211, or email me back.
+0   Look forward to talking to you, Errol
+1   Please take a few minutes to completely fill out the following survey.
+0   When you finish, simply click on the 'Reply' button then hit 'Send' Your survey will automatically be sent to the Outlook 2000 Migration Mailbox.
+0   Thank you.
+0   Login ID: emclaug Extension: 345-8274 Office Location: EBE 3248C What type of computer do you have?
+0   Does anyone have permission to access your Email Calendar?
+0   If yes, who?
+0   Liz Soto, Irena Hogan Are you responsible for updating anyone else's address book?
+0   Is anyone else responsible for updating your address book?
+0   If yes, who?
+0   Do you have any Distribution Groups that Messaging maintains for you for mass mailings ?
+0   Torrey, Attached are the options for the days that you requested.
+0   Thanks, Errol, X5-8274
+0   Per your request, attached is the NG curve through Dec.
+0   2024.
+1   Please call with any questions that you have Errol McLaughlin, X5-8274.
+0   Please find attached the Sched C form for the amount in the NG Price Book Sched C on 09 29 2000.
+0   If you have any questions please call me at X5-8274.
+0   Thanks, Errol McLaughlin
+0   Done.
+1   can you change 23 and 375 to Nymex
+1   Daniel, Can you E-mail Susan and I the location of the schedule E form.
+0   Thank you, Errol McLaughlin
+0   PC: emclaug - errol5enter Sun: emclaug - secure4u
+0   Attached is a forwards detail model in Excel format that will allow you to view and manipulate new deals for a particular date.
+0   You will need to enter the Post I.D.
+0   for the date you wish to view see below in cell B4 in the worksheet titled Run Query and then click the Fetch Detail macro button.
+0   The deals can then be viewed in the Results worksheet.
+0   Post I.D.
+0   Date 816900 5 17 2000 816962 5 25 2000 816963 5 31 2000 Please call me at X5-8274 with any questions you have.
+0   I will have the options shortly.
+0   Errol McLaughlin
+0   I did get it Thanks for your help.
+0   Errol L. McLaughlin
+0   How are you doing?
+0   I hope your day is going well.
+0   Let me apologize for anything I said last night, because I don't remember anything.
+0   We went out for a COUPLE of drinks with a recruit, and I forgot that I only got 2 hours of sleepTuesday night.
+0   I had 2 beers and 2 shots and was at home by 10 PM, but Tuesday nite took its toll.
+0   I sat down for 5 minutes and only woke up when I heard the cell phone ring.
+0   I only remember picking the phone up to call you, but I don't remember anything I said I'm so sorry .
+0   Have a good rest of the day and call me when you get home.
+0   ELM
+0   John, Could you do me a big favor.
+0   Sherry has been really working hard and doing a good job.
+1   Do you think that you could talk with one of your contacts and get her a pair of Rockets tickets.
+0   I know they are a playing the Clippers tommorrow night.
+0   I know that no one else wants to see the Clippers, but she's never been to a game and would really appreciate it.
+0   Thanks, Errol, X5-8274
+1   Please disregard the first e-mail I sent.
+0   I am sorry for the confusion.
+0   This file has the correct positions, both NYMEX and OTC, that you requested.
+0   Thanks, Errol
+0   Chris, Attached is a list of all the books for the financial desk.
+0   Thanks, Errol, X5-8274
+0   Dawne, I looked at the Gas Daily swaps and they look good.
+0   QV0345 booked as a June deal instead of May 01.
+0   The NYMEX swap booked with NXB2 as the expiration.
+0   If I'm not mistaken, the swaps should be NX1.
+0   Thanks, Errol From: Dawn C Kenne ENRON enronXgate on 04 23 2001 05:45 PM To: Errol McLaughlin Corp Enron ENRON, Kathy Reeves CAL ECT ECT cc: Jeffrey C Gossett HOU ECT ECT, Torrey Moorer ENRON enronXgate, Tara Sweitzer ENRON enronXgate Subject: Test deals for your review The tagg team has made some changes to the bridge.
+1   Please review the following deals in tagg stage and let me know if they meet to your approval.
+0   Dawn 3-9353
+0   I'm there.
+0   That will be great.
+0   Thanks
+0   Attached is the MTM for the 3 Tudor entities as of 12 29 2000.
+0   Thanks, Errol Jeffrey C Gossett ECT 03 21 2001 09:54 AM To: Kam Keiser HOU ECT ECT, Darron C Giron HOU ECT ECT, David Baumbach HOU ECT ECT, Errol McLaughlin Corp Enron ENRON, Phillip M Love HOU ECT ECT cc: Wendi LeBrocq Corp Enron Subject: 12 29 2000 - MTM Two more counterparties need MTM values for Dec.
+0   29, 2000.
+0   The Tudor BVI global portfolio Osprey Portfolio Group Please provide the total MTM value for that date within your region.
+0   Thanks
+1   Irena, Can we get 8 tickets for Shell Houston Open.
+0   Thanks, Errol
+0   Attached is the book request for the Chase-Stoneville-Mahonia prepay.
+0   I have to have this by 10 am.
+0   Thanks, Errol
+0   The total mark to market value for US Gas EOL deals as of 09 29 2000 was: 513,520,526 Physical deals totalled 1,961,760.
+0   Financial deals totalled 511,558,766.
+1   Let me know if you have any questions.
+0   The MTM values provided should be as of close of business 9 30 2000 and should be broken out between physical and financial.
+1   Just give me a call at x36218 if you have any questions or need any additional information.
+0   Thanks Torrey
+0   Please find attached the file that Dawn sent to me.
+0   Sorry for the delay.
+0   Next month I'll be more prepared.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Hey I hope you are having a good day.
+0   I hate that I missed you last night.
+0   We had a good time at the game.
+0   The seats we had were on the floor behind the basket on the visiting team's side of the court.
+0   We were all drinking and acting a fool so the cameraman put us up on the big screen.
+0   A few of us went out after the game, so I am pretty tired today.
+0   Being the alcoholic that I am, you know I couldn't just have one drink ha ha .
+0   I didn't want anything special.
+0   I just wanted to catch you before you left Be careful, and I'll talk to you tonite.
+0   See you soon, E.L.M.
+0   I would like to purchase 2 of the 20 General Admin Tickets fo New Year's Eve.
+1   Please call me at work 713-345-8274 with info on how to pick them up.
+0   Thank You, Errol L. McLaughlin Enron, NA Lead - Nat ural Gas Financial Trading Risk Mgmt 713-345-8274 wk 713-305-1502 cell 713-707-1353 pgr
+0   I reserved EBE3270 at 10am on Friday.
+0   Thanks, Errol
+1   Please sign me up for one of the UT Alumni teams.
+0   My extension is 713-345-8274 or you can contact me by cell phone at 713-305-1502.
+0   Thanks, Errol McLaughlin
+0   ELM
+0   Thanks, Amy.
+0   Amy Cavazos 04 02 2001 12:53 PM To: Stacey Vallejo CAL ECT ECT cc: Errol McLaughlin Corp Enron ENRON Subject: NG-Price deals to be flipped Sherry is out of the office today but I've completed your ENA transactions.
+0   Thank you for the coupon.
+0   Unfortunately the link in the e-mail is not working, so I can't get to the part of the website to print off the coupon.
+1   Could you resend this e-mail to me please.
+0   McLaughlin, April is a hopping month here at Bubbles Not only do we have a great Easter special for you this month, but we also have a great way for YOU to help the March of Dimes Just take a look: First, Bubbles Car Wash, Inc.
+0   is pleased to announce their participation in the 2001 March of Dimes WalkAmerica Campaign.
+0   Many Bubbles employees have volunteered their time and effort to help raise funds for this worthy cause and participate in WalkAmerica on Sunday April 29, 2001.
+0   In an effort to assist this years Clean Team , Bill and Kathy Lawrence have generously offered to donate 3.00 of every Ultimate Car Wash Package 29.95 purchased the week of April 14th - April 21st to the Bubbles Car Wash Clean Team .
+1   To participate, please print and bring in the Helping Bubbles Help Babies certificate available at the link below.
+0   Then we have our Extreme Clean package Featuring some of our most popular a la carte services combined to bring you a great new package designed to make your Audi A4 look great in no time Your Easter Extreme Clean includes A Bubbles Hand Wash, Wheel Magic Tire Dressing, Interior Doors Dash Dressing Complete Exterior Dressing all for only 24.95 That's over a 30 savings off the individual prices Just print out the certificate and bring it to any Bubbles Location April 14th - April 21st, 2001.
+0   Even the Easter Bunny can't beat that deal To pick up either certificate, just visit: Just visit: www.BubblesCarWash.com Promotions April2001.jpg You are welcome to print several certificates to give to family and friends Do you know someone that might enjoy receiving Bubbles Email specials?
+1   Send their Name and E-mail address to: mailto:Rwheeler BubblesCarWash.com 
+0   If you would like to be removed from our mailing list please use this link: mailto:remove bubblescarwash.com subject XVK03C Don't forget to visit the Bubbles Web Site at www.BubblesCarWash.com
+0   Sure.
+0   Have a good time.
+0   Amy Cavazos 03 30 2001 12:49 PM To: Errol McLaughlin Corp Enron ENRON cc: Subject: June 1 - 8 would be a perfect time for vacation for me.............approved?
+1   Please let me know asap because reservations are booking quickly.
+0   Thanks
+0   John -- any day would be great Thanks, Errol
+0   The previous two nights I have attempted to split out the Positions and P L as we discussed.
+0   I now feel confident in the Positions part of this process Mike's swaps in the Exotic book, new blotters, etc.
+0   The P L portion of the process has been significantly more difficult, but after working through last night , I will have the P L completely split out by the end of today.
+0   Thanks for your help patience, Errol
+0   Hey Johnelle, It's great to here from you again.
+0   Yeah, I'm over at Enron now.
+0   I manage the group responsible for all of the natural gas financial trading risk management.
+0   I've been here for a little over a year now.
+0   It's a great job and company, but the hours are unbelievable The family's good.
+1   How are Janna, Gina, sp and your mom.
+1   I'm afraid to ask --- how old is Janna now?
+0   When you tell me, I'm going to feel really old Tell everyone I said, 'Hi'.
+0   The NYMEX was only open for half the day, so I'm taking advantage.
+1   Call me when you get a minute
+0   How are things going for you?
+0   How's your family doing?
+0   I am good...just working at Sprint in Finance and going to school for my MBA.
+0   Well, holler back when you get a moment.
+0   Irena can I get a parking pass.
+0   Thanks, Errol
+0   I will be there.
+0   thanks
+0   Frank, After looking the packet over in detail, I found the questions to be a great tool, especially the ones aimed at the 'soft skills'.
+0   Previously when interviewing people I always struggled for a way to ask these type of questions legally and ethically.
+0   I think the packet also will aid in my organization and will keep the interview moving at an efficient pace.
+0   Thanks, Errol McLaughlin
+0   Thanks for your prompt reply.
+0   I figured it out after I e-mailed you.
+0   How do I get to the internet sign up portion of the web page so that I can sign up for the discounted TimeWarner Roadrunner service.
+0   Bruce, Please launch the attached file to see a list of deals with the counterparty GiroTondo Corp that need to changed as noted in the attachment.
+1   If you could please do this ASAP as I need to get back to Joe Hunter.
+0   NG Price Crude for 03 30 2001 - 1090267.
+0   Thanks, Errol, X5-8274 From: Shannon McPearson ENRON enronXgate on 04 04 2001 12:58 PM To: Errol McLaughlin Corp Enron ENRON cc: 20 Subject: NG Crude What is the Post ID for NG Price Crude??
+0   01 Thanks Shannon McPearson Enron North America 713-853-5944 Shannon.McPearson enron.com 20
+0   I have the same room, EBE 3270, for 9:30 am tommorrow.
+0   Thanks, Errol
+0   I am aware we have several pending items outstanding with Crosstimbers.
+0   I am awaiting instructions from Charlie Otto, as he is negotiating discussing the deals with Crosstimbers.
+0   I just wanted to give you an update and let you know I have not forgottem about them.
+0   Thanks, Errol
+0   Sue, I am sending you this e-mail because I received your voice message well after you left it today.
+0   I reviewed the text files that are sent out by the book administrators on my desks and none of them contain any deals booked to the counterparty El Paso Gas Marketing.
+0   All of the deals from people on my desk are booked to the valid El Paso counterparty per our conversations.
+0   I will be out of the office tomorrow, but I will be checking my voicemail frequently and communicating with my group.
+1   If the same problem arises tomorrow, please call me at 713-305-1502 so that we can discuss, because there has to be some other explanation for the erroneous counterparty showing up on your report.
+0   Thank you, Errol McLaughlin, X5-8274
+1   Could you send me the post ID's for the NG Price book and the NG Price 20 Options book??
+0   We moved a total of 72,352 from Middle Market NYMEX to Middle Market - East on 11 2 2000 in our Orig schedule.
+0   Craig Taylor I think you guys have already taken care of this, but I can't remember if you have moved the orig from April forward to East from MM Nymex for Craig.
+0   WK
+0   Done.
+1   Please let me know when they have been revised.
+0   Thank you: Derek
+0   done.
+0   Enron North America Corp.
+1   Can you adjust in TAGG?
+0   Thanks, Joe
+0   I'll be there.
+0   And for those of you that are here on Friday, I would like to take her to lunch as well.
+1   Let me know if you are coming.
+0   Shirley, Please find attached the excel file for the Financial desk.
+1   Please provide the information that was requested and distributed to you below on April 4.
+0   This information is needed to establish the TRV Trader Report Viewer security setup.
+0   In order to meet scheduled TRV development, test, and implementation dates please provide your region's information to me by 2:00pm tomorrow, Thursday, April 19.
+0   Thank you for your immediate response.
+1   Please let me know if you have any questions or need additional information.
+0   Thank you for your prompt attention.
+0   Jeff, The spa at the MET has gift certicates for manicures, pedicures, massages, etc.
+1   If you guys have any ideas for Elizabeth or Irena let me know.
+0   Thanks
+0   Changed.
+0   I spoke with Kori Loibl, the book administrator for the NG Price Affiliate Books regarding the status of the Affiliate Basis book last night not officialized .
+0   Dutch and I are working with Jeramy Wong in IT support to put together a program that will let Dutch and myself know the status of every book that should be officialized at the end of each night, so that these problems can be fixed before the morning.
+0   The book in question was officialized this morning and has zero 0 value.
+1   Please call me at X5-8274 with any questions, Errol L. McLaughlin
+0   Will do.
+0   This has been changed to NYMEX swap.
+0   TAGG is showing these deals as Gas Daily, but the counterparty states that they should be changed to Nymex trades.
+0   They also stated that they were told by Mike Maggi that the deals would be changed to Nymex deals: Q21523 
+1   Hey, man would you let me know when it is done?
+0   Thanks
+0   Got the E-invite and wanted to RSVP.
+1   Sign me up for the free drink.
+1   Thanks, Errol McLaughlin Enron Financial Gas Risk Mgmt.
+0   713-345-8274
+0   This is correct.
+1   Please review the following deals in tagg stage and let me know if this is correct.
+0   QQ7966 Call Option QQ7967 Hedge If this is the way it should be booked in tagg, it is all contingent on Mike Maggi deleting the current option suites active on option manager, recreating them and selecting NG-Exotic as the risk book under the auto hedge selection.
+0   We will be more than happy to provide assistance, if needed.
+0   If you approve, we will place this logic into production this evening after trading.
+1   If this does not look correct or if you have any further questions, please contact Dawn 3-9353 or Tara 3-4523 .
+0   Thank you for your help Dawn
+0   Sharon, How does Thursday at 1pm sound?
+0   Thanks, Errol
+0   What's your login
+0   EOL Logon: emclaug errol5enter
+0   Vikas, Attached are excel files for the different subsidiaries.
+0   Each file has a tab for the swap position and the option position.
+0   For the options I have added an auto filter at the top of the file so you can sort by strike price.
+0   I apologize for the delay, but I was trying to drop the info into an appropriate format.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Agustin, Per our discussion on Friday, I have changed this deal so that Enron is selling leg 1.
+0   I can't remember.
+0   Did you say that we have already received a check back from the counterparty?
+1   Let me know, b c this deal has price and basis and I'm sure the desk that had the basis risk wants the money owed them.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Sharon, Friday at 10 am is great.
+0   Thanks, Errol McLaughlin
+0   Looks good.
+0   Errol
+0   Kam, 100 sounds like a good idea.
+0   I'm not close to a golfsmith, though.
+0   sorry Errol
+1   Please review QU0179 in tagg stage and let me know if it looks alright.
+1   Also, this is going out Monday so please keep a close eye on these trades to make sure they are bridging correctly.
+0   Thanks, Dawn
+0   Deal NN6788.1 with Citibank has been killed.
+0   This was an EOL deal that Citibank and John Arnold agreed to cut in half.
+0   Deal QF9221.1 was booked in Dec.
+0   for half the volume of the original deal.
+0   Unfortunately, deal NN6788.1 was not killed when we booked the new deal.
+1   Please call me with any questions.
+0   Thanks, Errol, X5-8274
+0   I'm sorry I will not be able to attend.
+1   Please respond Carr is hosting an enymex presentation at our office in New York this Monday, May 7th from 2-4 PM.
+0   We are double checking our head count to make sure that we will be ready for the people attending the presentation.
+1   If you would, please reply to this email with a yes or a no to indicate your intentions of attending this enymex presentation.
+0   Thank you.
+0   Carr Futures 150 S. Wacker Dr., Suite 1500 Chicago, IL 60606 USA Tel: 312-368-6149 Fax: 312-368-2281 soblander carrfut.com http: www.carrfut.com
+0   BT is no longer a valid counterparty according to TAGG when you go into the deal .
+0   One can not save a deal w an invalid c p name in the deal.
+0   Jennifer Blay is currently trying to get us the correct counterparty name.
+0   Thanks, Errol Enron North America Corp.
+0   There are two Bankers Trust Deals that you changed to Bankers Trust International.
+0   I pulled the trades from EOL and they say Bankers Trust.
+0   The Deal Nos are QT6916 and QT7116.
+0   Were these changed in error?
+0   Thanks.
+0   Julie
+0   Frank, Below are a list of technical questions for prospective candidates for my group.
+1   Draw out the interaction between buyer and seller.
+1   Are you familiar with option valuation models How does the NYMEX work -- i.e.
+1   Explain what is meant by the term 'zero-sum-gain' Margin, etc.
+0   This deal is an option and is booked to NG-Exotic.
+0   It should be booked to NG-PR-OPT.
+1   Errol, can you look at these deals in tagg stage and let me know if this is how they are supposed to look?
+0   These are the deals with the option having NG-PR-OPT, but the swap remaining the same as before.
+0   If everything looks ok we will put into production this evening.
+1   Let me know... QS7544 and QS7545 Dawn
+0   It's done.
+0   Robin Rodrigue with the benchmark group has pulled this P L in.
+0   Thanks, Errol
+1   Please see Q71102.2 for the reversal of the original deal done on EOL.
+0   Kevin, Cook, has called to verbal the reversal of this deal and I do not find in Tagg where this deal has been reversed.
+1   Please check and let me know that you find so that I can call Kevin back.
+0   Thanks.
+0   Reversal: Cook Buys and pays 4.555 20,000 day, December, 2000 ENA sells and pays last day Jean
+0   Frank, Attached is a forwards detail of a Sithe deal from 1993.
+0   It is an annuity totalling 234MM.
+1   Let me know if this is the deal you were looking for.
+0   Thanks, Errol, X5-8274
+0   Thanks, Errol McLaughlin
+1   Let me know as soon as possible when you can do Sherry's review and the others as well, so I can get with Liz to schedule something that works for everyone.
+0   They want the regular ones to be done by the end of next week, and Sherry's has to be done by Jan 19, 2001.
+0   Thanks -- I know it's a pain, Errol
+0   The basis curves corresponding to deals listed are saved in O: Dropbox Errol natsourcebasiscurves.
+0   I.T.
+0   is still working on a fix for the Gas Daily curves.
+0   I will let you know when we have something from them.
+0   Thanks, Errol
+0   Thanks a lot.
+0   Congratulations on your promotion Congratulations on your recent promotion.
+0   I am glad to see that you are doing well.
+0   Mark, I have the confirmations for deals QE1352.2, QF4333.1, QF4333.3, QF6287.1, QF6446.1.
+0   I have printed out a forwards detail of deals N60753.3, .4, .6.
+0   These were internal unwinds of a deal already in the book.
+1   Errol, At your earliest convenience, could you please provide the applicable deal ticket and confirmation for each of the following deals?
+1   Also, could you please provide the Forwards Detail for 12 19 00 as earlier requested?
+0   Other outstanding items include: A Deal Tickets for Deals NZ9791.1 NZ9950.1, B Exotic Book Detail, C Gas Daily EOL Book Detail, D Support for MGMT P L - Nov.
+0   130 Dec.
+0   274 , and E the December Management P L Top Page.
+0   Thank You, Mark Austin ext.
+0   68680
+0   Done
+0   Deal QQ9854 does not become a NX3 swap until after Dec.
+0   21, 2001, if it assigned.
+0   Before then it has to be booked as a swaption expiring on Dec 21, 2001.
+0   Thank you - Janie
+0   I just wanted to say 'Hi '.
+0   I really enjoyed talking to you last night and every other night .
+0   I hope you have a great day.
+0   More later, Errol McLaughlin
+1   Please speak with Jason Wolfe regarding this file.
+0   It is for the West desk.
+0   I am sorry, from the original sheet you showed me I thought it was ours.
+0   I have forwarded your request to him.
+0   Thanks, Errol McLaughlin
+0   Allready in the works, but thanks for the reminder.
+0   Errol
+0   George, How are you doing.
+0   Well, I hope.
+1   Could you just give me a quick shout and let me know when you think you will be able to start in our group.
+0   Thanks, Errol McLaughlin, X5-8274
+0   I cannot get anyone to answer the the fax number that attached to your messages.
+1   Please attach the correct number, answer the present one, or let me respond to the affadavit by e-mail.
+0   Thanks, Errol McLaughlin 713-345-8274 work 713-305-1502 home
+0   I changed the deal to DYNEGYMARAND.
+0   Thanks, Errol Enron North America Corp.
+0   However, I looked in Enron Online and it says that the counterparty is Dynegy Marketing and Trade.
+0   Thanks.
+0   Deal NL3722 is a deal between ECC and another counterparty.
+0   It is not a John Arnold deal.
+1   You will have to contact Ryan in Canada re: this deal.
+0   Thanks, Errol, X5-8274
+0   Thanks Sherry Dawson 04 25 2001 10:28 AM To: Errol McLaughlin Corp Enron ENRON cc: Subject: April Overage The overage for April is completed.
+0   The only variance we had was w counterpartie's.
+0   Thanks Again
+0   No problem.
+0   Thanks for your help.
+0   Errol
+0   Jeff, Deal QN2026.1 EOL 803898 was booked on 01 24 2001 - Enron Buys 15000 d Feb.
+0   01 at 6.90.
+0   Deal QN2004.1 is a duplicate of this deal.
+0   Deal QN5772.1 was booked on 01 25 2001 - Enron Sells 15000 d Feb.
+0   01 at 7.115.
+0   The booking of QN5772.1 generated positive revenue of 90,300.
+0   Annuity deal QN2026 paying Hess 45,143 was booked tonight.
+0   Thanks, Errol
+0   Mark, Deals NZ9791 and NZ9950 were done between John Arnold gas floor and Fletch Sturm power desk .
+0   Deals done between desks inside Enron do not have deal tickets, nor do they get confirmed.
+0   The details for these deals were included in the information picked up Friday.
+0   I apologize for not relaying this sooner, but all question regarding the Management book P L, etc.
+0   need to be directed to Georganne Hodges at 713-853-0430.
+0   Attached below is the forwards detail that you requested for the LTX GD book for 12 7 01 and for the NG Price book for 12 19 2001.
+0   I am getting confirms on the deals in the table below and will call you as soon as I get them.
+0   Please be advised that these deals are in the forwards details that I have already given you.
+0   Also, deals QE6558 QF4044 will not have confirms b c they are intra-desk deals within Enron.
+1   Also, could you please provide the Forwards Detail for 12 19 00 as earlier requested?
+0   I paid extra for the 2 Business Day delivery from UPS.
+0   Per the tracking info on their website they have not tried to deliver to my house yet and it has been three business days.
+0   Do I receive some sort of refund or credit?
+0   Thank you, Errol McLaughlin
+0   Jim, I really appreciate the offer.
+0   Sorry for the delay in responding - things have been a little crazy.
+0   I would like to accept the tickets for myself.
+0   Dutch is on vacation and I have left him a voicemail asking if he's is interested.
+0   I will give you a call a little later in the day when things settle down.
+0   Thanks, Errol McLaughlin
+0   The total mark to market value for US Gas EOL deals as of 07 31 2000 was: 274,477,942 Physical deals totalled 375,805 .
+0   Financial deals totalled 274,853,749.
+1   Let me know if you have any questions.
+0   Thanks, Errol, X5-8274
+0   As a result of restructuring out-of-the-money transactions with BP Capital and T. Boon Pickens, we have a total of 9,530,935 in the Schedule C for the NG Price book.
+0   These values are negative in Schedule C, thus they are positive value to the book.
+0   A total of 9,321,151 will be released out of Schedule C tonite 8 29 2000 .
+0   The remaining 209,784 will be relesed by the end of the week.
+0   We are awaiting word on whether or not this value will be needed for credit reserve.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Errol
+0   This day is good for me.
+0   John, In the Position folder.
+0   I saved a file called 'GammaFile'.
+0   The worksheet we looked at is called calculator .
+0   The password is: price.
+0   Thanks, Errol
+1   Don't forget to execute the options.
+0   Jeff, For a long time John and Mike have been letting counterparties who accidentally click on the Gas Daily stack change the deals to NYMEX swaps.
+0   The counterparty would let John Mike know and then they would tell us.
+0   In addition, at the end of the month, we would get calls from settlements and credit telling us per the counterparty that there were more deals that needed to be changed from GD to Nymex than we had changed.
+0   John would let them change those deals too.
+0   On Friday we changed some Jan.
+0   01deals with Utilicorp that had been done in late November to NYMEX swaps.
+0   Because of the timing there was a P L impact of - 1.3MM.
+0   When John saw this today he asked me what it was, I explained, and he stated that what they click on is what they get.
+0   I relayed this to settlements and credit and that is why Kim is calling you b c Reliant and Utilicorp are 'upset'.
+0   They claim that they have John and Mike on tape letting them out of the GD deals and into NYMEX swaps.
+0   We do not change the actual deals booked by EOL.
+0   We book two new legs that create a NYMEX swap and flip out the GD deal.
+0   Errol
+0   Jeremy, My pager number is 1-877-241-1059.
+0   My home phone is 713-528-1997.
+1   Please call me when the migration is finished.
+0   Merry Christmas Have a great time
+0   I will be there.
+0   Thanks, Errol
+0   Paris?Bellagio?
+0   Venetion?.........................Westward Ho?
+0   just trying to cover all price ranges
+0   This morning it was discovered that a portion of John Arnold's Gas Daily position was being captured incorrectly as a February fixed price position instead of a February Index position.
+0   I am currently working on the problem and the positions will be captured correctly tonight.
+0   John is aware of the situation and has stated that V R does not need to be re-run.
+0   Thanks, Errol L. McLaughlin
+0   Thanks - Errol
+0   Jim, Thanks a lot for great basket - I just got it.
+0   We'll call on Monday.
+0   Errol
+0   Attached is an Excel file containing the Nymex and OTC positions that you requested for the NYMEX exemption application.
+0   Please feel free to contact me at X5-8274 with any questions that you have.
+0   Thanks, Errol McLaughlin
+0   Jeff, Derek stopped by after he talked to his wife over the phone and it looks like he will probably take the job.
+0   He wants to talk to her again tonite, and he will let me know officially tommorrow.
+0   So he can let Joe Hunter know -- any idea on when they'll want him to start?
+0   Thanks, Errol
+0   Andrea, These deals have been changed to NYMEX swaps.
+0   The trader at BNP talked to Dutch about changing the deals from Gas Daily to Nymex please let me know Thanks Angie
+0   Thank you very much Jean.
+0   I apreciate it.
+0   Shannon, I am in the process of cleaning up the February folder.
+0   When finished you will see two DPR's - NG-Price NG-PR-OPT.
+0   Mike and John have decided to split out the old NG-Price book so that swaps futures go to John and options exchange options go to Mike.
+0   I will call you as soon as I have it done.
+0   Will this be a new roll in the NG Price book, associated with the PG book code?
+1   Can you send the resume of L Xu to me in an electronic form?
+0   Also, I noticed that the PG book has three DPR's in the February folder.
+0   Should I be using the 022001NG DPR or the 022001NGmike and 022001NGjohn?
+0   What did you and Todd decide to do with the January variance from the NGP L?
+0   Too many questions Thanks Shannon
+0   The 338,955 Vitro Corporativo Deal QW8224 was not granted to Mexico, but my originator, Agustin Perez, says it should have been.
+1   Please let me know if you are responsible for this deal.
+0   I will be in Monterrey from Wednesday through Friday but will be checking my voicemails e-mails periodically, so please feel free to contact me.
+0   Thanks, NHV x5-3920
+0   Attached is the request for the new book for NG-Price that will include all options.
+0   Thanks, Errol
+0   Per Jeff Gosset, attached is yesterday's natural gas curve.
+0   Please call me with any questions that you have, Errol L. McLaughlin, X5-8274
+0   Sean Boyle, at X3-9288, is your contact.
+0   Yes this is correct.
+0   This is the reason Sherry and Amy have to flip out deals everyday.
+0   EOL is only booking them to one leg.
+0   Thanks, Errol
+0   Tony, How's it going?
+0   I just realized you left the weather group.
+1   When you get a free minute, tell me a little about the new job.
+0   Congratulations, Errol McLaughlin X5-8274
+0   I talk to you about this list.
+0   Attached is a Mark-to-Market for deal QW5582.1-3.
+0   Thanks, Errol
+0   Greg, Deal QD 8473 is not a Reliant deal, nor is it an EOL Gas Daily swap.
+0   Deal QE 7484 was changed to a NYMEX swap today and QE 9432 was changed on 01 04 2001.
+1   Could you take a look the transaction numbers listed below and let me know how they look.
+0   You can find these test deals in Tagg Stage.
+0   The price was .04.
+0   Thanks TARA QS5877 QS5878 QS5895 QS5896 Thanks TARA
+1   Please rebook to Springs Industries, Inc.
+0   Sharon, Robin Rodrigue and I tried to give you a call, but your voice mail says that there is no message recorded.
+0   We looked at the October P L and could not find an Other column with 9.2MM in it.
+1   If you could, please give Robin a call at X5-7478, and she will be happy to answer your questions about this.
+0   Thanks, Errol
+0   A post id for the reports you requested is : 1032675.
+0   Francis
+0   Shannon, I sent Joe Hunter an e-mail aking why this deal wasn't being settled I 20 copied you on it .
+0   The only other deal I see in the system for City of 20 Huntsville is NF8497.1.
+0   It is a Flex Price deal for the same term as the 20 deal mentioned below.
+0   I'll call when Joe lets me know something.
+1   Could you please respond to the message below.
+0   The value for this deal, as of 20 Feb 2001, is 3,020,947 .
+0   Financial settlements is not settling this deal, 20 however it was entered into TAGG as a financial deal.
+0   I don't know what to do 20 with this outstanding value 
+0   This deal liquidated out of the PG Book in December, January an d 20 February.
+0   It is a financial deal and in TAGG it says that the deal is to 20 unwind a storage deal?
+1   Can you tell me what deal number this deal is 20 unwinding and if it should 01 be going to the 364 physical side for OA purp oses?
+0   What day should I expect to receive the item below.
+0   If you are purchasing any of our special sale event items does not include clearance section items , your discount may not be reflected on your order total at this time.
+0   Please be assured that it will be processed on your packing slip and bill.
+0   Thank you for shopping BrooksBrothers.com.
+0   Melissa, I am available.
+1   Please call me at X5-8274 with the room number.
+1   We need to identify responsibilities the analysts could have at each desk.
+0   Please see attached the July first of the month prices corresponding to the deal list you provided me.
+0   Sorry for the delay, but I.T.
+0   ran into a major snag when they tried to pull these.
+0   Thanks, Errol McLaughlin -- X5-8274 GDP-CAL BORDER 4.91 GDP-CGT APPALAC 4.52 GDP-CHI.
+0   Dawne, Starting tommorrow, Mike's options need to be booked to NG-PR-OPT.
+0   The deals that are done online today will be manually switched to the new book by us.
+0   Thanks, Errol McLaughlin
+0   I had the same problems with this that you all do.
+0   That is why I told Gossett that if this is something that has to happen, then only people like Joe Hunter and 1or 2 others should be allowed to change the c p names ONLY.
+0   If we give you the ability to change names then you also have the ability to change other parts of the deals.
+0   Dave Enron North America Corp.
+0   One person will be designated to handle all changes and an email will be sent regarding these changes daily.
+1   Please let me know how you feel about this?
+0   Thanks for your time, Bianca
+0   Thanks, Errol
+0   PG book.
+0   Thanks, Errol McLaughlin
+0   Nancy, Please find attached the form for the new book request for the NG-PR-OPTLT book.
+1   As always I need to get this set up ASAP.
+0   Thans for your help.
+0   Errol, X5-8274
+0   Combined post id is 977346 - it's calc'd against tonite's curve.
+0   Sharon, I have the confirmations on my desk for the deals that you requested, with the exception of two deals.
+0   Deal N60753.4 and N60753.6 were booked to change an existing deal N60753.3 from a financial swap to a physical forward.
+0   We will have the paperwork on those two deals after lunch -- we're getting them from the Structuring group.
+0   The NG price curve, outside of the first 36 months, is set based on market quotes and daily activity, as well as trend calculations and differentials.
+0   I will let you know as soon as I have the confirms for the other two deal.
+0   Thanks, Errol McLaughlin
+0   NG-PR-OPT 1084746 Larry May - 1084727 1084728 1084729 Thanks, Errol, X5-8274
+0   Sorry Dawn, QS7544 is not correct.
+0   This deal is an option and is booked to NG-Exotic.
+1   It should be booked to NG-PR-OPT.
+0   These are the deals with the option having NG-PR-OPT, but the swap remaining the same as before.
+0   If everything looks ok we will put into production this evening.
+1   Let me know... 
+0   I added cames to your gas daily net send.
+0   Thanks, Errol
+0   Frank, Attached is the end of year review and performance agreement for Sherry Dawson.
+0   Also attached are the reviews for the rest of group I lead.
+0   I'm not sure if you need the reviews for the rest of the group, but I attached them anyway.
+0   Thanks, Errol L. McLaughlin
+0   Guys, My new number is 713-870-8211.
+0   Call anytime.
+0   Thanks, Errol
+0   Hey, how are you doing?
+0   You've got the right address.
+0   Errol McLaughlin ENA Financial Trading Risk Mgmt.
+0   713-345-8274
+0   Stacy - These deals have been flipped out.
+0   I need to get an invoice to them within the next few hours as they need to settle with us on Monday.
+1   If you could go through your book and flip any deals between ENA and Duke Energy Marketing LP to the P book to settle with ECC that would help solve some problems.
+1   Please let me know if you have any questions on this.
+0   Just to let you know, Carole Frank took notes this morning when I walked her through running that download in TAGG.
+0   It can be done for any counterparty in any book, so you can also run it for Duke Energy Marketing LP as well.
+0   Thanks Stacey
+0   Isreal, I apologize, but I'm going to have to cancel.
+0   We've got some major problems that I have to handle.
+0   Monday at 10:30 am works for me.
+1   Let me know if it's good for you.
+0   We had tentatively said around 10:30 a.m.
+0   this morning.
+1   Please let me know if this is still okay for you.
+0   Thanks again for your help.
+0   Israel x53224
+0   Sharon, How do I call you?
+0   Each time I call you back, the phone goes to cover and there is no message, so I can't leave you a message.
+0   Thanks, Errol
+0   Marc, Attached is the NG Price curve effective 02 06 2001.
+0   Thanks, Errol McLaughlin
+1   Let me know if you have any questions.
+0   Thanks, Errol, X5-8274
+0   Thanks, Errol, X5-8274
+0   Currently Jeff Gossett is our pilot for this business unit and is testing out all applications associated with your business unit.
+0   We expect to migrate Finance and Administration Wednesday or Thursday of next week 4 4 - 4 5 As a former member of T.S.G.
+0   TradeFloor Support Group - EB31 32 - I'm well aware of the time constraints and schedules you all must work with.
+0   Therefore, I would like to start the migration process first with visiting with each of you, going thru a 'profile process' that should last no more than 10-15min.
+1   so here is what I ask of you: Please reply to this e-mail with your current location, the number of PC's you have and the number of screens displays you have attached to each PC, as well a date time that I can stop by.
+0   Being that most of you sit in the same, general location - I'm hoping this profiling process should take no more than a few days.
+0   These annuities were paid to the counterparty after several deals we had with them were restructured.
+0   George Gilbert the originator responsible has already confirmed the deals with the counterparty.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Jeff, attached is a minibook as of Dec.
+0   29, 2000 for the Sapient deals.
+0   Thanks, Errol
+0   I'll be there.
+0   Errol
+0   If you also need Update Access, in addition to view access please provide a separate list for those as well.
+1   Please send me your lists by end of day tomorrow Wed, 3 14 if possible, or let me know when you can provide the information.
+0   Thank you for your help Shirley
+0   I have all the info you are looking for at my desk.
+0   I am located at 3248c.
+1   Give me a call if you have any questions.
+0   Thanks, Errol McLaughlin
+0   Hector, Monday, Nov 27, Joseph Taylor will be starting in my group - Risk Management, Financial Books.
+0   Dutch Quigley was spearheading the effort with H.R.
+0   to bring Joseph to Enron.
+0   Dutch has moved on to a new group and is currently on vacation.
+1   If you could, please send me Joseph's Social Security number, so that we can get him set up with phones, computers, etc.
+0   Also, who is my main contact in H.R.
+0   with regards to job postings, receiving resume's, interviewing, hiring, etc.
+0   Thanks for your help, Errol McLaughlin Lead - Financial Books Risk Management X5-8274
+0   Done.
+0   Errol
+0   YOU GO, GIRL
+1   Let me know if you get three files -- one for each subsidiary.
+0   That was the only way I could send them out.
+0   Errol
+0   I recently requested access to CQG.
+1   Could you please tell me how the process is moving along and when I will be able to access it.
+0   Thank you, Errol McLaughlin X5-8274
+0   Greg, Sherry Dawson took care of these deals today.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Sunday?
+0   Kam
+0   Bryan, I do not have a comprehensive list, but the post ID for the options book as of 03 30 2001 is 1095031.
+1   Please let me know if I can I can be of any further assistance.
+0   Errol, X5-8274 Bryan Hull ECT 04 03 2001 01:19 PM To: Errol McLaughlin Corp Enron ENRON cc: Subject: GD and Price Options Errol, We are trying to make sure that everyone that is trading options with us off line are aware that we have both GD and Price Options on EOL.
+0   Do you have a list of companies that are trading with us?
+0   If not a post ID would suffice.
+0   I still have some queries that I can run from my risk days.
+0   Thanks for your help.
+0   Bryan Hull 3-9195
+0   Yes
+0   The total mark to market value for US Gas EOL deals as of 10 31 2000 was: 81,935,102 Physical deals totalled 2,260,496.
+0   Financial deals totalled 79,674,606.
+1   Let me know if you have any questions.
+0   Thanks, Errol, X5-8274
+0   Santagio, Attached are the NYMEX settles from Jan '98 forward.
+0   Thanks, Errol
+0   These deals were killed because we have terminated all deals with BP CAPITAL, T BOONE PICKENS, and PICKENS FUEL CORP.
+0   Since there were so many deals we did not put comments in the deals.
+0   However, deal tickets have been provided explicitely explaining what the Middle Market Group is doing w these companies.
+0   Thanks, Errol
+0   NG-PR-OPT - 1080234 Larry May: Price - 1080113, Basis - 1080114, GD Options - 1080116 Thanks, Errol, X5-8274
+1   Please let me know your login ID.
+0   Thanks, Errol
+0   I have not received the package yet.
+1   Please advise.
+0   Thank you, Errol McLaughlin 2610 Palm Houston, TX 77004 United States of America
+0   Frank, I'm sorry, but disregard the first message I sent.
+0   The 234MM value I alluded to is not the value for the one deal booked with a 1993 deal date.
+0   This value represents the MTM value for all active deals w Sithe.
+0   I'm still working to find a deal like your requested.
+0   I'll let you know.
+0   Thanks, Errol
+0   Done
+0   Peter, Enron Compressor Services paid ENA 658,118 for the June 2002 - May 2022 3.35 Put Swaption.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Maurice and Demetrius are doing great, and they just found out that they're pregnant My dad is still working --- I think they are going to have to drag him out kicking and screaming.
+0   Where are you going to school?
+0   How long do you have left?
+0   I'm glad you e-mailed.
+0   It is nice to catch up and see what your doing.
+0   Luchas has been working on them and will be finished within the hour.
+1   Please see the attached new book request for the NG-Price book.
+0   John Arnold is now trading crude on EOL and they are booking to NG-Price.
+0   Of course, we have to have this today.
+0   Thank you, Errol
+0   Trey, I will book this tonight.
+0   The deal begins in January 2003 and runs through December 2005, with a volume of 6 contracts month.
+1   Please call me if you have any questions.
+0   Jay Williams Ext.
+1   Please disregard the comment regarding the options in my last e-mail.
+0   The deals below were changed tonight per John Arnold.
+0   They also stated that they were told by Mike Maggi that the deals would be changed to Nymex deals:
+0   Sharon, I just saw you call.
+0   John Arnold is on my phone so I couldn't pick up.
+0   How does Thursday sound for a meeting.
+0   I am available all day until 2:30.
+0   Friday is also good for me.
+0   Thanks, Errol McLaughlin
+0   Thanks for sending this - the trades look good.
+1   Please verify that these are correct and let either Dawn and Tara or myself know.. Thanks, Torrey
+0   The total mark to market value for US Gas EOL deals as of 08 31 2000 was: 332,200,027 Physical deals totalled 5,441,280 .
+0   Financial deals totalled 337,641,307.
+0   Thanks, Errol, X5-8274
+1   Please run a Mark to Market as of 12 31 2001 for TENASKA III Texas Partners.
+1   Please fax Sheila Trueblood at 402-691-9552 when you have printed the report.
+0   Please go ahead as soon as possible.
+0   Please let me know if you know of any problems this will cause us doing our day-to-day activities.
+0   Jeremy, John and I really need to meet Tuesday for about 30min-1hr with you Dave and Sanjeev, so that we can better understand how the options are being calc'd in the system.
+0   We thought we had a pretty good idea after talking on Friday, but tonight we see that we don't.
+0   John is about one half million dollars off every night in his prediction of the P L for Mike's book, and we're afraid our position might not be correct as well.
+1   Please give me a call.
+0   Smile John: The reason for the large Vega numbers on the TopPage report, while there were no corresponding changes in the Volatility curves, is due to the change in the mid.
+0   price for the current day versus the prior day.
+0   The corresponding volatility skews that are added to the vols.
+0   for the 2 days is causing the large vega numbers.
+0   For example, for deal number QV5087.2 exp.
+0   Cheryl, They were changed when I sent you the e-mail.
+0   Thanks Enron North America Corp.
+0   Deals listed below.
+1   Please let me know when they are completed.
+0   Thanks.
+0   Cheryl x.
+0   54774 Errol McLaughlin 02 07 2001 10:22 AM To: Cheryl Luster NA Enron ENRON cc: Rebecca Ford HOU ECT ECT Subject: Re: EOL deals for Utilicorp The ordeal is finally over These deals are to be settled as NYMEX swaps.
+0   Thanks, Errol Enron North America Corp.
+1   Please confrim how they are to be settled: Nymex or Gas Daily.
+0   54774
+0   This deal needs to be settled financially.
+0   Janie Aguayo had asked me to let you know about this.
+0   Thanks, Errol McLaughlin, X5-8274
+0   Liz, I will be out of the office the morning of Wednesday, Feb.
+0   14, 2001.
+0   Thanks, Errol
+0   I finally got through to your fax at 11:00 am Houston time.
+1   Please call me at 713-345-8274 if you have any questions.
+0   Thanks, Errol McLaughlin
+1   Bianca, Could you please fax up to me confirms for the following deals: QE1352.2 QF4333.2,3 QF6287.1 QF6446.1 N60753.4 6 I'm gathering these for Arthur Andersen auditing purposes, so it would be a great help if I could get this pretty quickly.
+0   The fax is 646-2496.
+0   Thanks, Errol
+0   Everything looks correct, except for Friday, November 23, 2001.
+0   Truong had this day listed as a holiday.
+0   It is not a holiday -- the exchange will close early at 12 noon CST.
+0   Errol
+0   The ordeal is finally over These deals are to be settled as NYMEX swaps.
+0   Thanks, Errol Enron North America Corp.
+1   Please confrim how they are to be settled: Nymex or Gas Daily.
+0   Homer, I just left you a voicemail regarding the natsource study.
+0   We have been able to pull in the basis and price curves, but we are having trouble getting the gas daily curves for June to come in correctly.
+1   Email me and let me know where I can save a file out to you with the curves we do have.
+0   The file is too large to Email.
+0   Thank you, Errol McLaughlin, X5-8274
+0   How do I get a laptop?
+0   EM
+0   Jeromy, The post ID for Mike Maggi's book for 03 20 2001 was 1077514.
+0   Thanks, Errol, X5-8274
+0   Done.
+0   Bob, I have attached an Excel file that values Pete Keavey's Gas Daily swaps and options.
+0   In looking at the spreadsheet that you sent, I found these to be the most incorrectly valued.
+0   In order to get the valuations, I had book administators run calculations in the ERMS system.
+0   These values should correlate with how credit valued these deals.
+0   The file consists of a summary worksheet for each month and a detail worksheet for each month.
+1   Please feel free to call, or have Homer call, with any questions that you have.
+0   Thank you, Errol McLaughlin, X5-8274
+1   Could you let me know when it is changed?
+0   Thanks
+0   I was a member of the pilot program.
+0   How do I get to the internet sign up portion of the web page so that I can sign up for the discounted TimeWarner Roadrunner service.
+0   Sharon, Attached is an Excel file containing Mariner Energy's MTM exposure as 12 29 2000.
+0   This is for the NG-Price book.
+0   Susan Scott will send you another file for the Options book.
+1   Please call with any questions, Errol
+0   Homer, Please find attached the Dow deals as of Dec.
+0   Thanks, Errol McLaufglin, X5-8274
+0   Cecillia, When we choose FIMAT as a broker in Exchange Capture, we can not save a deal because the account number section is blank.
+1   Could you please fix this as soon as possible.
+1   Please call me with any questions at X5-8274.
+0   The name of the new broker.
+0   The commodity s under this new broker.
+0   The account number and the account description for this new broker.
+0   Any sub account number s .
+0   I assume that we going to set this up as a clearing broker, not an exec broker.
+0   Once I got the information from you I'll set this up.
+0   Cecilia x53362
+0   Our relocation to the new building is fast approaching and there are several important move related items that I would like to stress at this time.
+1   I would appreciate your cooperation with the key move issues that are outlined below: IMPORTANT - A special building tour has been scheduled for the EGM business unit heads receiving this message.
+0   Jeff and I, along with Bill Donovan, would like to invite you to join us for a tour on this Friday morning, June 8th, from 8:30 to 9:30 a.m.
+0   Even if you have already had an opportunity to visit the new building, we think this would be a great opportunity for all of us to see the space together and discuss any issues at that time.
+1   Please contact Cathy Phillips at X-36898 if you plan to attend the tour.
+0   New building floor plan modification requests will no longer be accepted.
+0   Any change requests that have already been received are currently being considered and will be conveyed to the appropriate business unit head.
+0   If vacant positions exist and they will be filled before the move on August 3rd, they need to be identified on all reports and floor plans with their name, NH for new hire and an approximate hire date.
+1   Please do not contact Susan Lopez for any space related issues.
+0   Jeff and I have asked Cathy and Jennifer Burns to be responsible for the allocation of space in the new building and they are keeping us well informed as to the progress and any issues as they arise.
+0   Jeff and I are very aware that space is very tight in the new building and we will be addressing growth and additional space needs and issues in the near future.
+0   A limited number of Turret phones will be available in the new building.
+0   The Turret phones will be assigned to traders and their assistants only.
+0   Everyone else on the floor will receive a new upgraded version of the Lucent phone with the existing phone numbers .
+1   Please contact Jennifer Burns if you have any questions or issues related to phones.
+0   All private team rooms, offices and conference rooms have been assigned and there are no more available for assignment to the individual groups or people.
+0   On the 3rd floor we will have the following public conference space available by making reservations specific scheduling details to follow later : 1 Mega conference room 1 Large conference room with videoconference capabilities 1 Large conference room - no videoconference 3 Team rooms File space on the floor is being upgraded and allocations of file space will be made for each group.
+0   Every attempt is being made to have the assigned file space as close to each individual group as possible.
+0   At this time, details related to food deliveries and distribution have not been resolved.
+0   Your patience and flexibility with all food related issues will be appreciated.
+0   It is highly probable that food service in the new building will be very difficult at first and as we get closer to the move date, more information will be provided related to food service, deliveries and distribution.
+0   Since Jeff and I both already keep Cathy and Jennifer very busy, we would appreciate it if you would send all your comments, questions, or issues to them via e-mail.
+0   They have agreed to make themselves available every Monday at 4:30 p.m.
+1   Please make arrangements with them directly to meet regarding your issues.
+0   There will be a 60 day freeze on any building changes once we move into the new building.
+0   I understand that this is a difficult process and that there are a lot of questions and issues, but Jeff and I are convinced that this will be great and everything will work out in time.
+1   Thank you for your cooperation and assistance in making this transition to the new building as smooth as possible.
+0   Mike
+0   Mike McConnell will be out of town and unable to attend.
+0   Thank you.
+0   The festival begins at 10:00am and is scheduled to run through 7:00pm.
+0   The current band line-up includes SoulDecision, Vertical Horizon, Collective Soul, ATC and Wyclef Jean.
+1   To obtain your tickets, please contact me by Wednesday, April 4th, and indicate the number of guests you will be bringing.
+0   When the concert tickets are delivered to your office, you will also receive wristbands required for admission into the Enron VIP Tent and additional details regarding logistics parking.
+1   Please feel free to contact me directly at x35202 if you have any questions regarding the event.
+0   Charla Reese Manager, Employee Involvement Events
+0   All, Attached is a draft copy of a presentation that was created as an internal 20 briefing document on the business activities within EGM.
+0   The purpose of th is 20 presentation is to communicate our activities and provide individuals with a 20 more detailed reference document on these businesses in case they come up i n 20 Q A. This is a confidential and internal document, which includes earnings 20 targets, goals and objectives.
+0   We have a shorter more external version tha t 20 we use to describe our businesses.
+0   I can provide that copy if you are 20 interested.
+0   Please don 01,t hesitate to contact me if you have any questions or would l ike 20 to discuss this in more detail.
+0   20 Thanks, Mike
+0   Tuesday is fine but i do need it.
+1   Brent, I would like this to become formal policy within EGM as well.
+0   I know that it exists and is around but no one is familiar with this or exactly how it works.
+0   We have made strides with credibility with RAC regarding coal and we are doing a better job of seeing deals in general but I would like to put out a policy like this for us.
+1   Please take a look at this and draft a memo that can be sent out addressing the approval procedures and the guidelines and limits around them.
+0   After Credit and Legal, and in most cases RAC, look at transactions, a VP or higher will sign the Dash.
+0   For Doug to sign the Bahamas option contract, I need to know the premium.
+1   Please contact Brent Price for our DASH.
+0   In London, everyone fills out a CACS form Contract A uthorisation Control Sheet , and if the deal is 0.5m, then a DASH is required as well.
+0   Brad seems to think that if a DASH is not required, then the business unit head signs off on the expenditure?
+0   Is there a formalised global-markets process for this, or is this a product-by-product thing?
+0   in which case, I'll assume LNG has no process, and I'll direct Eric to implement one... Doug Arnell needs to purchase his option for the Bahamas land thing, thus the reason for the question .
+0   fyi, attached is European CACS form.
+0   Thanks, Merritt
+0   Wade, Thanks for the email and invitation.
+0   You never know when I may show up I look forward to learning more about this and how our groups work together.
+0   Is John's group doing a good job for you?
+0   Obviously, this is very exciting for you and for us.
+1   You probably took this job to get away from India, but actually John Nowlan's group serves as the fuel manager for liquid fuels naphtha and distillate on the Dabhol project.
+0   So the standing invitation we issued to you when you visited us last still stands.
+1   Come over when your schedule allows.
+0   Marc de la Roche in your group has been threatening to get me out on one of the tankers during unloading while bucking in the monsoon tidal flow.
+0   Maybe you can join me.
+0   Wade
+0   Sweet-um, I love you too My first really nice email for a while.
+0   Don't go for wealth even that fades away.
+0   Go for someone who makes you smile because it takes only a smile to make a dark day seem bright.
+0   Find the one that makes your heart smile.
+0   You make me smile.
+0   And you have the rest as well.
+0   I love you
+0   Sanjay, thanks.
+0   I think ur experiences with EBS relate to some people who may have visited ur region before I took over.
+0   I do not think that u will have a problem working with Anil.
+0   He understands the sensitivities and has worked in the Middle East earlier for over 5 years.
+0   I have asked him to co-ordinate with ur team.
+1   Pls help him get started.
+0   At the time I presented a piece on the MetGas equity sale and opportunities of cooperation with the Indian Oil Company.
+0   Following Sanjay's new role in the organisation, he has now charged me with developing the EBS business in the Middle East.
+0   In this regard I had a telecon with Mac McClelland yesterday, the details of which are copied in the mail below.
+0   I would like to visit Dubai possibly next week to see the Dubai Internet City, meet with senior officials at the Internet and Media cities to identify what opportunities there could be for EBS.
+0   We look forward to closely cooperating with you and your team in Dubai.
+0   We are currently wanting to develop an EBS strategy for the Middle East.
+0   For this objective Amr Ibrahim Director, Regulatory and myself would like to plan a visit to Dubai in the near future possibly early next week .
+1   We would like to have a half hour conference call with you today to discuss this visit.
+1   Based on your exposure and presence in Dubai, we would like to seek advise from you on the below, which would be the objective of our trip Dubai Internet City.
+0   We are well aware of this tremendous infrastructure that has been developed in Dubai.
+0   Our information is based on what was available on the web.
+0   We would like to see this facility, meet with the relevant people in the Communications group and establish what business opportunities could be available for EBS.
+0   From our understanding, the DIC infrastructure has being developed by Siemens, Sun and Cisco.
+0   Fibre connectivity is provided by a local telecom party.
+0   Business potential.
+0   We would be developing a business plan for the Middle East region and would like to identify what support we could get from Enron's immendate presence in the region, in the way of direction.
+0   Immediate business opportunity.
+0   What are the low hanging fruit for EBS in the Middle East region and what are the first areas we should focus on that would give us success, to quickly neutralize cost.
+0   How do we get multiple entry visas for Dubai.
+0   Is it possible to get a one or three month visa.
+0   Can we them for coming Sunday or would it be a rush?
+0   We have Canadian and Danish passports.
+1   I will call you at 12 noon Dubai time this morning.
+0   With best regards, Anil
+0   Have it sent to me and I'll make sure it gets looked at.
+0   cheers, m
+0   Greg, Thanks for the clarification.
+0   I guess I was too serious and in a business mode.
+0   By the way, I don't have any photos, all they would do is scare people, especially me.
+0   I don't think we need a picture of you presently unless you have any nudes, especially a picture of you with a morning missile .
+0   What I was trying to say was that I saw one or more pictures of you in the brochure the actives prepared for last year's President's Trophy competition.
+0   What I was hoping was that the actives could have some more of those brochures printed up for distribution.
+0   You might enjoy a copy.
+0   I'm not sure, but I assume they will do another one next year.
+1   If so, they might appreciate a new photo if they include an alumni section.
+0   It is basically their deal.
+0   The alumni did not help them on this project.
+0   Greg
+0   Dan, I have read the Synfuel marketing plan, it is excellent work and I would like to see this duplicated or amended with AIG or other concepts like this as they develop.
+0   Thanks, Mike
+0   This year may be more fun.
+0   We are very thin and if our QB goes down or doesn't perform, it will be a long year.
+0   It will definitely be more fun however.
+0   Guys, I had an interview with a reporter from the Economist yesterday.
+0   He is doing a big story on business changes, online changes, Jeff Skilling and Enron.
+0   Coal came up a lot and i described my enthusiasm for our coal business and our growth.
+1   He wants to put some focus on the coal business and i need some facts to get back to him.
+0   What percentage of our coal transactions or business is online?
+0   Speed changes on a typical transaction post and pre online?
+1   Please feed me this info and if there is something specific that you don't want me to say let me know that too but go ahead and give me the answer.
+1   I need this information pretty quickly.
+0   Thanks, m
+0   Approved.
+1   To grant approval, send a reply to lpharr enron.com NotesMail: LeRea Pharr HOU ECT ECT .
+1   Be sure to include employee's name and class number in reply.
+0   I couldn't sleep so ive been doing emails, its looking a little better.
+0   And I didn't get up in the middle of the night and come into the office.
+0   I think I'll try again and can still get a few hours sleep.
+0   I will be in a little later than I expected, I must drop young Michael off to school and cant leave there until 8.
+0   See you in the morning.
+0   Sleepy
+0   John, I like the report.
+0   Nice job.
+0   m
+1   Cathy would you please review daily for updates and make the changes on a running list.
+0   I'll read for info only and you can update them.
+0   After I read them and waiting 1 day, I'll delete from the system.
+0   thanks, mike
+0   Doug, Thanks for the email.
+0   I am glad that you had a good meeting.
+0   These guys are good and we are committed to this business.
+0   I'll be at the Masters Wed - Fri.
+0   Are you going to be there during those days?
+0   As you may know, George brought his full team to our office today to review certain operational issues in connection with our deal, and to introduce key members of the team going forward.
+0   It was very helpful to meet the team members, and to understand a bit better how your coal group is gearing up to be in a position to fulfill Enron's end of the deal once we get the synfuel facility relocated and up and running.
+0   There are a lot of administrative and operational issues that AIG-FP, Enron and Aquila, collectively, are going to have to work through between now and the production start date to ensure that this deal gets off to as smooth a start as possible, but this meeting was a good first step, and appreciated on our end.
+0   Cliff, Thanks for lunch.
+0   I always really enjoy getting together and talking about life and our businesses.
+0   Attached are the two presentations we discussed.
+0   A little airplane or boat, sorry, ship reading.
+1   I would appreciate any feedback.
+0   I'll be making significant changes as I get ready for the analyst meetings.
+0   Thanks, Mike
+0   Mike, I just had my schedule changed dramatically for tomorrow and will not be able to talk.
+0   How about Friday 10am?
+0   Sorry, but we have a situation I must get involved with and change a direction.
+0   I did review the email, and passed it on to others.
+0   I do not see much from this site nor how it is actually going to develop real liquidity in the market.
+1   If there are a couple of items that you want me to specifically be ready for , please send me a couple of comments via email or voicemail.
+0   Thanks, Mike
+1   Doug, Last week, you referenced that there are a lot of deals that come up during the day for various regions and companies around Enron that your group doesn't get any monetary recognition for but that they need to be done or are provided as a service to save money.
+0   By the way, saving money is real money to Enron.
+1   Would you please provide me with some examples of that so I can put it in context?
+0   Thanks, Mike
+0   Hi John - Mike McConnell asked me to respond to your message on his behalf.
+0   He said thank you and yes, he would like for you to draft the message for the EGM staff.
+0   Thanks.
+0   We would be pleased to prepare a draft for your consideration, if you would like to send out such an e-mail to the EGM staff.
+0   John
+0   Virginia, Thanks for the update.
+0   I will not have an opportunity to talk with you right now.
+0   I am in Tokyo and my next destination may change due to business events in the middle east.
+0   I am very interested in acquiring Blue note, however, I do want to know more about the price.
+0   I was close to locating one via a gallery via ebay for a lot less.
+0   Also, your price was 4,500 for the same piece framed.
+1   Is there room on the price if I give you a firm commitment.
+0   The ebay price is significantly discounted but they are not ready to close the deal yet either.
+0   If you can't get them down on the price, it is worth me chasing down the other option for a while.
+1   Please let me know via email and I will attempt to be responsive via odd time zones.
+0   Thanks, mike Virginia E. Repasky virginia clarkfineart.com on 09 25 2000 11:04:57 PM Please respond to virginia clarkfineart.com To: Mike.McConnell enron.com cc: Subject: Re: Lichtenstein's Blue Note Dear Mike: Glad to hear from you.
+0   The Lichtenstein Composition No.
+0   4 is exactly like the one you saw except that it would be a different number in the signed and numbered edition.
+0   The price is 4,500.00.
+0   That is unframed.
+0   We can frame the artwork like the Liechtenstein you saw here or if you prefer like the Matisse.
+0   You have that option.
+0   I will contact the owner and send you an image either by e-mail or by mail.
+0   The window of opportunity to acquire the artwork is limited.
+1   I would love to talk to you personally about the Matisse Icarus artwork.
+1   When would be the best time to contact you and Chris?
+0   As I mentioned to you this artwork is hard to find and cannot be easily replaced.
+0   Please keep in mind that several of our consultants are working with clients and galleries to place this artwork.
+0   I mention this only to encourage to contact me if you have serious interest in adding this artwork to your collection.
+0   I look forward to hearing from you tomorrow.
+0   Most sincerely, Virginia Repasky Christopher-Clark Fine Art Mike.McConnell enron.com wrote: Virgina, Hello from Singapore.
+0   Thanks for the email.
+0   I am interested in the Lichtenstein.
+0   Is the 4 the same as the one you had in the gallery?
+0   What is the price and what does the frame look like?
+0   Do you have a picture or could you put it on your website?
+0   I am still interested in the Matisse but Chris isn't so sure.
+0   We are still thinking about that one.
+1   If you are serious about the artwork we will need a commitment from you to acquire the piece for you.
+1   Please contact me as soon as possible since this is a time sensitive matter.?
+0   I will be in the gallery late this evening till 9pm PST and from 9:30am-6:00pm PST Tues. through Fri.
+0   Have you received the package on the Matisse??
+0   What do you think about the artwork?
+0   I look forward to hearing from you and Chris.
+0   Most sincerely, Virginia Repasky Christopher-Clark Fine Art
+0   Thanks for the update.
+0   Mark, Attached, for your information, is a copy of a general presentation that I prepared to illustrate and describe EGM's businesses.
+0   This is a presentation that will become a living document to communicate our businesses and growth.
+0   I will be making numerous changes as we move closer to the analyst meeting in January but I wanted to give everyone a copy of this version.
+0   Please don't hesitate to call me if you have any questions or comments.
+0   Mike
+0   Stuart, A quick second follow up.
+0   I talked again with Cindy Olson and she has discussed the issue in detail with the Astros organization.
+0   They are going to think about this and examine for next season.
+0   They did say that this was the first time this was brought up but they want to be sensitive and will consider at change.
+0   Thanks for bringing this to my attention.
+0   Mike
+0   John, Rick Bergsieker is the key here.
+0   He can certainly direct you to the right people or others on his staff to help from Abu Dabai.
+0   Bob, I hope all is well.
+1   I appreciate your thoughts of including me and sending me emails but I need you to take me off your distribution list.
+0   This type of emails are not allowed at Enron and there are consequences with opening them.
+0   I hope you understand.
+0   Mike
+0   Me too.
+0   It does help everyonce in a while.
+0   Thanks.
+0   m
+1   Laura, I would like 2 Champions pavillion tickets for all 4 days.
+0   I am not sure who I will take as of yet.
+0   thanks, mike
+0   Richard, I sent your info on to my direct reports for evaluation.
+0   I've also sent on to others as well.
+0   If there is an interest, you will be hearing from us.
+0   Good luck, Mike
+0   Jeff, here is the 2001 plan.
+0   Sorry, I did send it to Dave D. , John S. and you but I must have blown your address somehow.
+0   Dave and John got theirs.
+0   Mike
+0   Thanks for including me.
+0   Sorry I was unable to attend.
+0   m
+0   Hello Dr.
+0   Jacobs - Mike asked me to follow up with you to pass along his schedule for his visit to OU in April.
+0   Due to Mike's heavy schedule, he said that he plans to be there on Thursday for the lecture and he will be happy to join the group at The Mont following the lecture, but unfortunately he will need to return to Houston on Friday morning.
+0   He asked me to pass along his regrets for being unable to attend the banquet on Friday evening and the Board meeting on Saturday.
+0   I have contacted the Montford Inn to reserve a cottage for Mike, but they said they are booked.
+0   They also said that they are holding 6 rooms for the OU Special Events group for April 19th.
+1   If one of the six rooms is not being held for Mike, can you please suggest another hotel or inn.
+0   Please do not hesitate to contact me if you have any questions.
+0   Thank you.
+0   Thanks for the prompt response and the quotes.
+0   I will certainly use one of them and will use the picture we currently have of Mike on file in the Penney's Leadership Program.
+0   Mike, I think there might be several of the Board of Advisor members attending your class on April 19th.
+0   Was wondering if you might consider joining some of them for a beer at The Mont afterwards, since it appears you will not be able to attend the Board of Advisors meeting on Saturday, April 21st.
+0   I know they would like to have the opportunity to meet and visit with you.
+0   Again, thanks for the promptness in getting back to me.
+0   Mike wanted me to pass along that he graduated from OU with a BBA in 1982.
+0   His major was Petroleum Land Management with an emphasis on Law.
+0   I have attached the most recent copy of his bio for any additional information you may need.
+0   See attached file: MSM BIO CEO EGM.doc Quotes: The Energy Management Program is the reason Enron began recruiting at OU.
+0   The Program's course study reflects the changing energy business and gets students prepared for tomorrow.
+0   The changes that have occurred in the creation of the Energy Management Program is the primary reason Enron is recruiting at OU.
+0   The innovative Energy Management Program reflects the changes that are occurring throughout the energy industry.
+0   I hope this will help.
+0   Please let me know if you have any questions.
+0   Thanks.
+0   Cathy Phillips for Mike McConnell 713-853-6898
+0   Hi Chris - Mike asked me to respond on his behalf to find out exactly which dates you are referring to in your message below.
+0   We were assuming January 3rd and 4th, but we did not want to assume incorrectly.
+0   If you are indeed referring to January 3rd and 4th, please note that Mike McConnell will be out of town January 2nd through the 4th, returning to the office on January 5th.
+1   Please let us know if you will be available on any other dates.
+0   Thank you.
+0   I would like to catch up with all of you.
+0   not sure of people's schedules but please advise me of your availability and hope most of you can make it for dinner on thur.
+0   I will list some important things to me that I would like to discuss and propose some thoughts on positive changes for 2001. teamwork communication teaching guidance leadership - these are the major areas we should be thinking about how we can improve.
+1   try to identify team leaders to provide direction for that business, establish resources required to meet proposed budgets, and work on individual limits for the traders in those groups.
+0   communication - once we have established global teams this should improve significantly.
+0   'the road to hell is paved with good intentions' and until traders bonuses are directly tied to the profitability of someone in another office I don't think we will communicate as effectively we need to.
+0   we have very few niche markets to exploit that provide us with guaranteed revenues or allow most of our physical traders the ability to trade well without a strong understanding of the push pull forces at work from the other centers.
+0   for the last two years this has been cited a main area for improvement.
+0   to get to where we want to be I feel it has to be done through global books.
+0   teaching - given that the growth of the group has shifted away from hiring from the outside and toward internal recruiting we need to focus on how we develop and keep young talent.
+0   also, given the lack of depth in our trading group it is important that our best traders be given the additional responsibility for development of talent in their teams.
+0   guidance - I feel that if we move toward smaller business units it will be easier for individuals to understand what the strategy is and what their specific role in that strategy is.
+0   we lost a lot of people at this time last year and the common complaint amongst all of them was they couldn't see where this group was headed.
+0   leadership - with a group of 114 people at last count it is important to start thinking about ways to encourage more people to make a greater personal investment in making this group a success.
+0   not just meeting a budget but also in creating a business that will survive the exit of any individual.
+0   a business that will have a competitive advantage and that those involved in it will be highly motivated to keep growing.
+0   if there is consensus on the need to improve upon the above then we can analyse how we go about it.
+0   I believe that by going toward global books we could improve upon many of our weaknesses.
+0   chemistry is the major concern on a such move but best looked at in context of each group.
+0   there are many other important issues such as eol, marketing team, research group, recruitment, etc but I honestly think we have to focus first on how do we make most with the exisitng group and then figure out how to try to build upon it.
+0   look forward to seeing you on weds aftn or thursday and please email when if you have free time to meet up.
+0   thanks, chris.
+0   Eric, I was examining EGM's businesses for 2001 and I wanted to ask you a question about your specific business.
+0   As you examine your goals and objectives, I would like to know what you think I could do to help you accomplish your plan.
+1   Please send me a return email with 3 specific items that I could do personally to add to your business.
+0   Thanks, Mike
+0   Howdy, I could not open the attachment.
+1   Could you please resend or cut and paste it into the body of the email.
+0   thanks, i like the letter.
+0   m
+0   Kathie, Thank you for your email.
+0   I've been out and all over the world.
+0   I appreciate your help on this article.
+0   Attached is a copy of a presentation that will fill you in on some of the businesses that we are working on.
+0   This should give you some ideas and clarifications on the first draft.
+0   Here are a few other points of emphasis.
+0   EGM was created to provide sharpened focus on very large global markets and commodities to enable them to grow quickly These markets are huge and we will become a big player rather than being active in them EGM provideds true network for market making opportunities related to commodities that are highly liquid in physical and financial terms and are enormous in market size EGM leverages the value of Enron's existing network and international asset positions EGM's operation will coordinate with leveraging all of our wholesale businesses EGM has very aggressive growth targets in transactions and earnings EGM has contributed almost 200 million in gross margin in its first 2 quarters in existence Go big or go home philosophy EGM will represent a clear transfer of Enron wholesale market making model into other commodities this year GROWTH is the key Thanks for your help.
+0   Mark Frevert has requested that the Executive Letter be rotated among the presidents of EWS.
+0   This is the inside cover message and should be 300 words.
+0   I hope that you will be able to squeeze this into your busy schedule.
+0   Here is a suggested outline.
+0   If you want to fill in the outline with information, I will be happy to turn it into a letter for you.
+0   I. An overview of EWS EGM as we move forward.
+0   II. A short-term retrospective about EGM activities and successes 
+0   III. Future plans initiatives for EGM strategic vision of the group, opportunities, expectations, etc.
+1   Please feel free to modify as you see fit.
+0   I have attached Greg Whalley's letter from our last issue to give you an idea of the format.
+1   Let me know if there is anything I can do to help you.
+1   I need your letter by June 15, if possible.
+0   Hope to hear from you soon.
+0   Kathie Grabstald ENA Public Relations x 3-9610
+0   John, I previously asked you to quantify the global size of your business in Billions and you sent me a voice mail on it.
+0   I have misplaced that note and don't remember the global size for the presentation.
+1   Please re-provide as a return email.
+0   Sorry for the inconvenience.
+0   Mike
+0   Dan Reck
+0   LK, Nice presentation, I'll give other comments later.
+0   mike
+0   David, Thanks for the email.
+0   It did cause an interesting conversation without knowing what the situation was.
+0   We all have very open relationships around here it is why we are so successful as a company .
+1   Please don't think twice about responding to Greg or any senior manager on an issue - but he would also have no issue with your response being cc back to Jeff and or myself at the same time.
+0   Thanks, Mike PS we are all thinking about P constantly.
+1   John and all, Please keep me informed on the progress.
+0   Mark Frevert and I would like to meet him.
+0   Greg has confirmed that the Astros have tentatively planned for President Chavez to throw out the first pitch on May 18.
+0   We are exploring the possibility of a reception or other opportunity in cooperation with the Astros.
+0   As you suggested, we'll also look into other potential contacts.
+0   I will be back in Houston on Thursday and Keith Miceli will be next Monday.
+1   Since it will likely take several weeks to flesh out the opportunities, I'd like to suggest that we limit e-mails to a work group of Habiba, Keith, Greg, you and me until we have more details to review with Mike and Eric.
+1   If you are going to be in Houston during the next two weeks, I'd recommend that we meet.
+0   In the interim, we will keep you apprised of further developments.
+0   In a meeting between Jeff Skilling and President Chavez in late-2000 I was in the meeting , Jeff invited Chavez to Enron Field as our guess.
+0   Obviously, Chavez was only visiting the city for a just hours and I believe the season started just a few days later.
+0   In any case, we have already done some previous lobby to get President Chavez to the Stadium.
+0   This may help whoever is managing the contant with the Astros probably David T. .
+0   I will probably not get much additional input from Caracas.
+0   Nevertheless, I strongly suggest that we position Enron as close as we can to this opportunity we will later see if President Chavez actually make it to Houston 2.
+0   In addition, in previous trips to Houston and in several ocassions, I believe Chavez has always met with George Bush senior and Mr.
+0   Mosbacher.
+0   I would not be surprised if he do it again.
+0   Probably your team can also target these efforts and keep the action at all fronts Please keep me informed.
+0   I would like to be involved as much as possible to move this ahead.
+0   While we are out of pocket, I'm asking Habiba Bayi, who directs PR support for EGM, to coordinate our involvement.
+0   Although international PR will manage meetings, functions, and general support strategy for this, I also am copying Dennis Vegas since sports marketing reports into him.
+0   As soon as they have information on the potential opportunities, we will get back to you with that information and a suggested program.
+0   If your contacts in Venezuela yield additional details, please let us know.
+0   Otherwise we will pursue it from this end and keep you apprised and involved in the decision making process.
+0   The Astros played some exhibition games in Venezuela last weekend.
+0   This is obviously a wonderful opportunity for us to get closer to Chavez.
+1   Can we do something to be part of this activity with the Astros?, I copied John Ambler to see how we can coordinate the efforts from today.
+0   We should not miss this opportunity if it really happen Emilio
+0   What about David Turlip?
+0   Also are there some other general announcements and or clarifications that you want to address?
+0   eg mid marketing, other new efforts or goals for the upcoming year.
+0   Mike Brown currently reporting to me and responsible for Asian as well as North and South American origination will continue to report to me and will focus on South American ,Carribean and Mexican origination.
+0   Doug Leach currently reporting to Mike Brown, and focusing on fuel supply will continue to focus his efforts on current fuel supply arrangements and work at developing new fuel supply contracts.
+0   Doug will report to me in this role.
+0   Victor Santos currently reporting to Mike Brown working on Asian origination will continue his focus on Asian origination and in this role will report to John Chismar.
+0   Suzanne, I glanced at the presentation.
+0   It looks good.
+0   Two comments: 1.
+0   Could we use our older machines for home use?
+0   They are still very good they just aren't the newest technology.
+0   All are fast, CD ready with plenty of memory.
+0   It could knock the cost down significantly.
+0   I would have the cost of Houston only to start with as a pilot.
+0   That would reduce our initial costs significantly even for NA.
+0   I recommend that you at least know what that cost is as a fall back position.
+0   Good luck.
+0   Your teams hard work really shows here.
+0   mike
+0   Bob, Hello from S America.
+0   I would recommend 2 people.
+0   Both are obvious but Louise Kitchen should do EOL and Ken Rice is the best candidate for EBS.
+0   If they aren't available they can pick an appropriate person.
+0   With such a broad cross-section of the state's senior leaders participating, including Skilling, Interactive Texas is going to be a major event.
+0   We need to make certain Enron gets early access to exhibit or sponsorship opportunities.
+0   Bob
+0   Joe, Howdy from Houston.
+0   I would really like to discuss.
+0   I've been out the last 2 Mondays and missed your calls.
+0   I know your were out yesterday.
+0   How about 5pm on thursday - Houston time.
+0   Does that work?
+0   I am not implying that the relationship is not working, but as I will describe to you these opportunities are very large and I believe that we will need to ensure that a concerted effort is put forward.
+0   I have briefly alluded to some of these with Jeff and with Gary as he was in Japan last week and they both seem interested.
+0   Do you have a timeslot tomorrow where I can discuss these with you further?
+0   Yes it was a very difficult decision to leave our group.
+0   I've really enjoyed working with you and your group I think we have a great group.
+0   I know you that you are working on this side of the business already and I will be giving you a call to get your input and direction.
+1   Let me know how we can help you efforts in Europe We're already doing many thing in this area
+0   Wade, Thanks for the email.
+0   I would be an angle investor in your 24 hour a day extension machine.
+0   If anyone could do it, it would be Sanjay.
+0   I would very much like to meet with you.
+0   Jeff as well.
+0   I ve got several openings that I can create on Wed Sept 13th.
+0   Let me know what works.
+0   This is great news, and congratulations.
+0   And as soon as I fine tune my invention for Sanjay of granting more than 24 hours in a day, I'll forward it to you also, as you both need it.
+0   I would like for Sanjay and me to have an opportunity to discuss India and its LNG potential with you.
+0   Both Sanjay and I are in town next week for the PRC process, and I am tied up Monday in that and you and Sanjay are busy Tuesday with PRC.
+0   Would it be possible to visit with you sometime on Wednesday, Sept.
+0   I'll put together a brief overview presentation, and we can walk you through that presentation.
+0   After our meeting with you, I would be happy to discuss this with other members of your new team as well.
+1   Please let me know if a meeting on Wednesday works for your schedule.
+0   Thanks, Wade
+1   Please contact Cathy Phillips at 20 713-853-6898 or cathy.phillips enron.com if you have any questions.
+0   Thank 20 you.
+0   It's free.
+0   It's easy.
+0   Why don't we just pick you guys up for the game.
+0   We aren't arriving until 3:00 on game day.
+0   We're staying at the Breakwater Hotel on South Beach 305 532-1220.
+0   I will have my mobile phone 512 426-1033.
+0   What Hyatt are you staying at.
+0   Your Spring Break schedule is great.
+0   Talked with your office and got your Telluride number but you guys must be out playing.
+0   OU game is coming quickly.
+0   Chris is not going down, Mark and I only, and we are arriving to Miami on Tuesday afternoon and staying at the Hyatt.
+0   We are out on Thursday afternoon.
+0   Golf on Wednesday afternoon at Doral.
+0   It should make for a fun trip.
+0   When are you guys going down and where are you staying?
+0   We need to set up a time to get together and to get the tickets.
+0   Have you heard anything on Hieple bad spelling arm?
+0   If he is healthy I would take the points We have made reservations for Continental for spring break but need to make sure that the timing is fine before we confirm.
+0   We plan to fly out on Tuesday and return on Saturday.
+0   I have a scheduling problem to get there any earlier.
+1   Give me a call if it is convenient, 713 853-1450.
+0   I've got a very light schedule on Friday, or you can email, whichever is easier.
+0   See you in a couple of days Love to all, Mike Go ENE stock, we back to 85
+0   Mark, Thanks for the updates.
+0   I have big news I'm changing jobs.
+0   This is not announced yet but I am moving to the wholesale group with Frevert to become CEO for a new business unit called Enron Global Markets.
+0   It will contain the global commodities including Crude and products, coal, LNG, weather, insurance, FX interest rates equities, etc.
+0   I think MEC is very cool and i am glad we are pursing it.
+0   Please keep Philippe, Jay and now Jeff McMahon in the loop.
+0   Good luck with this and I look forward to hearing more about it's success.
+0   Please keep this news to yourself until next week.
+0   He is planning a meeting with Jim Tour to due diligence the technology.
+0   I would like to put together a team to drive MEC's strategy, including a consolidation in Houston.
+0   We would trade this commitment for warrants in the company and a right to participate in future fundings.
+0   Effectively, our team could help drive the strategy for the company and due diligence a possible investment at the same time.
+0   Ideally, we could get that confirmation from someone familiar with the technology but without any financial interest in its success.
+0   Their technology pitch sounded good, but I don't know enough to recognize the potential shortcomings.
+0   I want to feel comfortable that you all feel this is real, then I would be happy to have me and my team spend some time with them.
+0   We spoke with Harvey and Jim after the meeting and they took to speed to market comments to heart.
+0   There is an opportunity for Enron to participate with MEC in the early development of their company, but it seems the one thing they want is the one thing we also want, people.
+1   I would appreciate your thoughts and comments on the possiblity of creating a small team that could work directly with MEC as part of a potential investment and strategic relationship.
+0   Given our resource constraints, this would most likely be part of the organization that sees the greatest strategic impact from MEC's development.
+0   Mark, Ouch, that stings.
+0   Hopefully you are the only one that knows I know you can close the deal anyway Mike Mark Frevert ENRON 09 26 2000 08:59 AM To: Mike McConnell HOU ECT ECT cc: Subject: Re: EGM information I dont like your chances if you can't spell Gonzelas right Mark
+0   Billy, I like it.
+0   My only suggestion is to put in a statement like - that after all your discussions with business unit head and AAs we are changing improving the program on the suggestions that you all wanted to see.
+0   I think this could help everyone believe they were a part of the changes personally.
+0   Just an idea, I like it very much as it is.
+0   Good luck, m
+1   Can you please arrange for this message to be sent to all of Enron - Houston this evening.
+0   It should have Mike McConnell's letterhead and we would like an opportunity to preview the final message before it goes out.
+1   Please contact me at X-36898 if you have any questions.
+0   Thanks.
+0   Cathy Phillips It is my sincere honor to once again lead the Enron team in this year's Juvenile Diabetes Foundation JDF walk scheduled to take place on Sunday, November 5, 2000, at the Sam Houston Race Park.
+0   I continue to serve on the board of JDF representing Enron and will be Enron's corporate executive for this year's fundraising efforts.
+0   As many of you may already know, I am an insulin dependent diabetic myself.
+0   Even though I know how difficult this disease can be to manage with the multiple finger pricks for blood samples and several shots each day, I cannot imagine how difficult it is for a small child with this disease.
+0   Taking insulin does not cure the disease nor prevent the development of complications insulin is simply their life support system and without it they would die.
+0   Enron continues to be a major corporate sponsor for JDF again this year.
+0   JDF is a very efficient organization in which approximately 84 of all money raised goes directly to research.
+0   Enron's goal this year is to raise 225,000 and we need your help.
+0   Enron has been the number 1 walk team for 5 years in a row and we are not ready to give up first place We need team leaders, walkers and volunteers to help us reach our goal.
+0   The theme for the walk this year is Knock Out Diabetes and we would like to have you join us for this great event.
+0   The Walk is truly a blast and we had about 500 Enron people participate last year and everyone enjoyed it.
+1   If you are interested in volunteering to be a walker or a team leader, or if you would like to make a pledge, you may call any of the steering committee members listed below.
+1   If you are interested in being a team leader, please contact one of the following people immediately so that you may be included in the first important and informative training session taking place this week.
+0   Thank you very much for your support.
+0   Mike McConnell Steering Committee Members: Blanca Bollom X66091 Rachel Feldt X57629 Deb Gebhardt X39606 Cathy Phillips X36898 John Walt X35379 Debbie Yates X35305
+0   I double clicked 1 person away on my personal mailing list.
+0   I noticed it right after it was sent.
+0   Thanks.
+0   All, At our offsite in Miami next week, each of you are on the agenda to present your business and goals.
+0   This will be very short, only 20 minutes an agenda will soon follow but we will have a business meeting from 8am - 11:30am on Saturday .
+1   Please prepare a few of pages on power point and submit to Cathy Phillips so that she can have all the presentations ready for that Saturday morning.
+0   Attached below is a copy of the abbreviated goals that I submitted to Frevert, summarizing EGM's 2001 goals.
+1   Please do not hesitate to change the list and add to it, it is only a guide and was used as a quick reference of EGM for the Enron board.
+0   After this meeting, I will take each of your presentations and make a more comprehensive goals and objectives list for EGM as a business unit.
+1   Also please add some of your other specific goals that illustrate where you want to be by year end regarding your competitive position and or market share.
+0   For example, to be the largest marketer of coal in the US, to be the largest options player in crude and products, or what ever is appropriate.
+0   Also attached, for your information, is a recent presentation from the coal group.
+0   We thought that this was an excellent format and review.
+0   In the upcoming weeks, we would like to see an update on each of your businesses as well.
+0   I will let you know more in the next few weeks about the timing and format.
+0   Thanks, Mike
+0   Greg and Jeff, Attached is the draft announcement for the organization changes.
+0   I am sure you will want to change the ENW piece, so far the focus was on the wording from the wholesale side but the titles should be correct for ENW.
+1   Please provide your comments and I'll make sure they get included correctly.
+0   Thanks, Mike
+0   CP, Howdy from my hotel room.
+0   I decided not to play golf, big surprise.
+0   I'm resting and working.
+0   Looked at my email lately?
+0   On a more serious note, would you please have Jason burn a disc of the most recent version of EGM.
+0   I will need to have a computer to play it and how to work it for the off-site on Monday.
+0   Thanks, mike
+0   RAC came by and brought up a couple of concerns.
+0   1- the Var on this deal is over 120m more than all of ENE combined they wanted to make me aware of the size, and they know we are working on it.
+0   and 2 - EE CC they were concerned about them doing the deal and their abilities and effects on MTM treatment.
+0   I told them that they can bid on it but we want others to bid and that we probably won't use them.
+0   They stated that the deal guys are acting like EE CC is a done deal.
+0   Lets discuss.
+0   Thanks, mike
+0   Tom, Thanks for the email.
+0   I talk around the group and see if your background fits our needs.
+0   mike Thomas Suffield ENRON 08 28 2000 09:12 AM To: Mike McConnell HOU ECT ECT cc: Subject: Opportunities Global Markets Mike: Randy Maffitt, recommended I send you my resume.
+0   I would be very interested in talking with you about activity within Global Markets at your convenience.
+0   I am currently in ENA, but with the scaling back of our development efforts and my Int'l experience, I thought we would have a lot to talk about.
+0   Thanks, Thomas x58286.
+0   Eric, is this still a problem or did you get what you needed?
+0   What can J Wilson do thru 2010?
+0   I want the crude desk to make us a price and present an acceptable volume.
+0   If we have to suggest to PDVSA only doing a crude index through 2012, I strongly believe we should try if we can create some additional value thru this structure.
+1   Tell me if you would like me to give him a call to explain what the effort potentially create.
+0   Thanks Eric Enron Capital Trade Resources Corp.
+0   If we had 1 3 of our GSA price linked to Brent our exposure for 20 years would be about 30 million barrels notional or about 14 million barrels PV.
+0   At 5 our exposure would still be 5 million notional or 2.3 million PV.
+0   According to John, he would not be comfortable doing anything past 2012 and even out that far he would not consider doing more than about 1 million PV barrels in the years 2010 - 2012.
+0   Given these comments, I would say that the size of our deal basically precludes a look at Crude Oil hedges at this time.
+0   As far as the economics of the deal are concerned, we basically cannot even get an Offer to use to figure out our economics.
+0   I am confident that if we pushed the issue to see if we could get a 20 year offer even for a small portion of the volumes that the hedging costs would be too high, and therefore have left it at that for the time being.
+1   Please advise if you have any thoughts on the issue.
+0   Please see below in blue our observations and answers.
+0   Let's talk later today if you have further questions.
+0   Benefit here is LDs under the EPC for late delivery go to project company and project company has no obligation to lng buyers.
+0   In addition it preserves your 20 year offtake which should still match your GSA.
+0   The agreement should start at commercial hand over of the plant as you say.
+0   The draft as it is now has only outer limits as to when that should happen that being the earlier of 40 months after Financial Close or NTP or Dec 31 2004 .
+0   We will add to this list the earlier of something like: the date on which the plant has produced LNG at at least 90 of its capacity for a period of 10 consecutive days .
+0   We suggest putting something like this as opposed to commercial hand over because this is in the plant's contractor's control and they could, for example, on purpose not meet a noise level requirement for 4 months for example and delay commencement of the offtake contract while the project sells LNG at higher prices than in the term sheets.
+0   With regards to the EPC LDs we agree that they should go only to the project but we, as offtakers, can not wait for ever for the project to be completed with out receiving gas or damages for something that is somehow directly or indirectly under the project's control.
+0   We have 4 months limits to how much the project can be delayed on top of all the conservatism that EECC or another EPC Contractor already built in.
+0   Section 6 I would like to see some language in this section describing the pricing formula associated with expansions.
+0   Structure could be set as in this contract where Pg is to reflect GSA costs and where the combined value of Pcpi and Pa should be derived to provide an equity return to the sponsors of 18 .
+0   We agree that would be better, but we included this section knowing that is something that is going to be a very difficult sell with PDVSA, because they don't want us to sell down and then keep controlling new LNG businesses in Jose.
+0   They will oppose this clause as they violently opposed the limited exclusivity at Jose that we managed to include in the GSA.
+0   We think that adding a restriction to the asset's returns now in the draft will make it very tough to sell to PDVSA the entire Clause.
+0   Thus, jeopardizing our chance to control the output of future plants or expansions.
+0   We never intended to use these off-take agreements as a vehicle to control future LNG volumes.
+0   Nevertheless, we felt it was a good chance for us to start getting partial control of the output.
+0   Pushing it too much will back fire and PDVSA will clearly realize what our intent is.
+0   Section 7 Where is the bonus calculation?
+0   We did not include it now on purpose.
+0   We will include it when ever they remind us to do so.
+0   We want to have another fight about the bonus.
+0   Where is the min price?
+0   The minimum price is in.
+0   We say that one of the terms in the price is Pg x En where En is never less than one I thought you guys were going to trade out CPI for a fixed number?
+0   We are going to try to do it, but that is first a GSA issue, and we don't want to put it here as something firm before we change it in the GSA.
+0   We precisely bracketed the CPI percentage in the formula because of our thought that we want to make it zero Have you decided that a WTI index percentage does not help the economics?
+0   No, we don't have the definitive answer from structuring yet, but our guess and based on our meeting with RAC the other day, in which they told us about the mess created by an oil escalation in Cuiba Brazil power plant , we are pretty much convinced that oil escalation without oil based LNG sales is not convenient.
+0   But since we don't have a definitive answer yet we still included oil as a possible escalator with a zero weighting that should have been bracketed in the term-sheet, though, and it will .
+0   Section 10 you have incorporated the GSA default rate for late payment as opposed to the Equilibrium rate.
+0   Is this your intent to have a mismatch?
+0   Yes, we did it on purpose because this will apply also to PDVSA as off-taker, and they have a record of paying late so we want them to suffer if they do.
+0   you have all new taxes being borne by the project company.
+0   Will the banks accept this as the project company will be thinly capitalized.
+0   See section 18 of the Arcos CTA for ideas if this is an issue.
+0   The exporter of record will be the project, so the buyer has no business in Venezuela other than paying port fees.
+0   We do not see any kind of taxes that could be imposed on Buyer by Venezuela that would eventually be transferred to the project.
+0   Banks should be fine with this as this is a risk that projects typically take all the time the heavy crude projects are some examples in Venezuela .
+0   In addition, the GSA provides for a number of reliefs for the Project Company that will help Banks and equity holders to feel safer.
+0   Although, a large portion of the underlying risk is always there.
+0   Other where are the LD calculations explained?
+0   I think you need LDs for GSA default and another for plant default.
+0   GSA default should match LD's in GSA contract less compensation to plant debt recovery.
+0   In stead of writing an explicit LD calculation our lawyers suggested that the sole use of New York law to rule the deal was simpler and better.
+0   New York law provides for full market based damages market price of commodity plus extra costs which is the maximum you can get in a negotiation for an LD clause.
+0   So, from a legal and commercial point of view we much rather have it as it is.
+0   We are still discussing w Brent Price and Cris Sherman if this is sellable to AA for MTM, but our initial view is that it should be since the level of LD can not be better.
+0   GSA default is market based provided that PDVSA, as we expect, accepts the change we will propose so the Project Company will be able to pay market based damages.
+0   For interruption of gas supply from PDV for Force Majeure reasons our insurance team is finding out if the market will cover such risk so that the project can afford not being relieved from performance in such event this will obviously be to a maximum dollar limit to be determined and for a maximum period of time, say 36 months - we need time to give you precision on this, but some sort of coverage will be available .
+0   suppose the plant produces 5 less that it is supposed to due to design or tech problems not a FM issue at commercial hand over.
+0   What happens under the offtake agreements?
+0   Will the banks accept this revenue short fall?
+0   Will we have to create a reserve?
+0   This may be a big issue with the banks for technology reasons and lack of experience in this industry.
+0   Under the off-take agreements the project pays market based damages if it does not meet the contracted volume.
+0   We believe that the contracted volume that we included in the term sheets though has enough of a cushion for banks and equity holders to bear the risk.
+0   We are contracting for contractually guaranteed production under the EPC which is 3 lower than expected.
+0   On top of that we are considering LNG production with the richest inlet gas possible meaning a lower LNG volume .
+0   This volume is 5 lower than the guaranteed production with Normal or expected feed composition.
+0   Combining these two we have a contracted quantity that is 8 lower than the expected production with expected feed.
+0   On top of this it is important to note that every single LNG plant in the world ended up with a production capacity that is at least 10 above what was expected mostly due to EPC Contractors and tech partners making very safe assumptions on guaranteed volumes to avoid LDs .
+0   Also the EPC contract being negotiated provides for pretty severe LD in case of production shortfalls that are enough to pay for debt and make equity-holders whole.
+0   They don't provide though, for damages payable under off-take contracts nobody will take this potentially huge exposure on LDs .
+0   However, as we explained, we believe that this is a risk that is typically taken by producers and that we have already taken a very conservative assumption in the volume contracted and that should be beard by the Project Co.
+0   Banks will most definitely also take a conservative volume assumption, as we already did.
+0   What happens if plant starts producing less for a few weeks until problem is resolved?
+0   what compensation do the offtakers get?
+0   do the banks suffer here as well?
+0   The term sheet establishes an annual quantity as the only standard to determine failure to deliver by Seller.
+0   It also establishes that deliveries should be at rates and intervals that are reasonably constant.
+0   The bottom line is that the termsheets do not go into all the detail about timing of defaults and price differentials.
+0   It sets, however, a reasonable standard by which if at the end of the year seller did not deliver the full annual quantity and a particular month can be identified where the deficiency occur based on the reasonable constant deliveries provision, damages will be payable based on prices during such month.
+0   Yes banks suffer here to the extent that the cause of the short fall is not insurable.
+0   Nevertheless, short periods weeks of failures to deliver by seller will really not affect the Project Company ability to pay the Banks.
+0   It will have to be some prolonged period for Banks to be affected.
+0   Under a plant FM issue you may not get BI cover for the first 60 days.
+0   Will the banks accept this or will they want a reserve established.
+0   Is this in your model?
+0   We are not sure off what the banks are going to require in this regard although, we agree that some sort of reserve or LC is to be expected .
+0   Our model assumes the cost of an LC for 6 month debt service which should be plenty .
+0   The issue here is if MTM is going to be able to live with the same or longer grace period for damages to kick in under the termsheet and weather damages not BI are insurable and to what extent if FM relief is not permitted for MTM reasons.
+0   The question that follows is: if damages exceed the insured limits in a FM event that does not relief the project from its obligation to deliver, have the damages have to be senior to debt payments for AA to allow MTM to be permitted?
+0   If this is so, are the banks going to be willing to live with this?, probably not.
+1   insert something on planned maintenance timing and scheduling.
+0   It is briefly covered in section 9 second paragraph.
+0   This will be expended in later drafts once the PA is signed and we are home free with regard to PDVSA.
+1   insert termination section In light of the fact that we will end up being more of an off-taker than an asset owner in this project our lawyers suggest that we will get better protection if early termination is ruled by what is provided under NY law than if we try to right an early termination clause.
+0   They point out also that 90 of LNG contracts are done in this way, having NY law rule the game.
+0   They point out also that from the project point of view banks are very used to and prefer having early termination be ruled by NY law.
+1   put something in about the buyer willing to accept entering direct agreements for financing requirements?
+0   Benefit here is LDs under the EPC for late delivery go to project company and project company has no obligation to lng buyers.
+0   In addition it preserves your 20 year offtake which should still match your GSA.
+0   I thought you guys were going to trade out CPI for a fixed number?
+0   Have you decided that a WTI index percentage does not help the economics?
+0   Section 10 you have incorporated the GSA default rate for late payment as opposed to the Equilibrium rate.
+0   Is this your intent to have a mismatch?
+0   you have all new taxes being borne by the project company.
+0   Will the banks accept this as the project company will be thinly capitalised.
+0   See section 18 of the Arcos CTA for ideas if this is an issue.
+0   Other where are the LD calculations explained?
+0   Jeannie, Hello, I'm back this morning from overseas.
+0   I am assuming that you got what you needed but in case you are still waiting on a response, I like the article.
+0   If you still have time or want any additional comments.
+0   I would simply add a couple of products to the list of Enron Global Markets.
+0   The group is also responsible for Global Risk Management insurance products , LNG trading, agriculture trading, and Interest rate trading.
+0   I just don't want to leave any groups out of the article if possible.
+0   Thanks and good luck and i certainly understand if I'm too late.
+1   Please review the article for accuracy and return to me no later than 10 a.m.
+0   Houston time tomorrow Thursday .
+0   Our online publication is uploaded at 5 p.m.
+0   Thursday, so we have to have a short turnaround.
+1   If you have concerns, call me at 914-739-7708.
+0   If you prefer to fax comments, my fax number if 914-736-9504.
+0   Thanks again, Jeannie
+0   Thanks, m Enron North America Corp.
+0   By volunteering this money, we are now able to attend scholarship interviews on Tuesday, March 6 on campus.
+0   This will provide us with the opportunity to target candidates for next fall and lay the groundwork for a more competitive future.
+0   After we have identified our scholarship recipients, we are invited to present our awards at the Scholarship Awards Banquet on Friday, April 20.
+0   Ted will if he has not already approach you, Mike, to see if you are interested in playing a role at this event.
+1   If you are available to attend, please let me know.
+0   I plan to have at least 2 Enron representatives at the event.
+0   I just wanted to give each of you these details to keep you fully informed of our efforts on campus.
+1   If you have any questions or suggestions, please let me know.
+0   Thank you, lexi 3-4585
+1   Lacye, Thank you for your note and help I look forward to seeing you at the walk.
+0   I am on Kathy Benedict's team and am happy to tell you that I have already received pledges for over 500.
+0   I do not see this function as a competition, only as a wonderful opportunity to help so many people fight a disease that touches too many lives.
+0   I have not worked for Enron for very long but I am happy to know that we have been 1 for 5 years I hope that I can help to keep it that way again I think that what you are doing is so great and I just felt like telling you Hope to meet you at the walk Sincerely, Lacye Brymer Trevino
+0   Mark, Listed below are the goals i initially submitted for your group for 2001.
+1   Please take a moment and review, change and add details to make it more 20 clear.
+0   These worked for step 1 but i now need more detail - e.g.
+1   describe 20 your long term transactions again.
+1   Please amend on this email below and 20 return asap.
+0   Weather ?
+0   Thanks, Mike
+0   Haven't i already done this.
+0   Thanks for the update.
+0   You never appeared on camera and we thought that we had a video problem and that you weren't there.
+0   Rick, While in Tokyo, Sanjay grabbed Jeff and me regarding redoing and re-looking at the existing LNG fuel deals for Dabhol.
+0   The bottom line is that he believes that the government may have issues on actually performing post phase 2 and if we could redo the LNG contracts and allow more flexibility we could help them, thus help ourselves.
+0   We need to look into this and I would like your initial opinion.
+0   This is complex to say the least and it would involve using the ship differently than scheduled and diverting some of the Oman LNG to other markets with their approval.
+0   He believes that there is some flexibility in the shipping and Oman contracts to address these issues.
+0   If it works we could create a long physical condition and an extra ship for transport.
+0   Is there an opportunity here if all the cards fall into place?
+0   Lets discuss when I am in Dubai.
+0   Sanjay is not going to let it go so you need to think about who can look into this further.
+0   Mike
+0   George, thanks for the email and update.
+0   We do want an update on a daily basis but don't want you to spend time typing everything up.
+0   I think VMs are faster.
+0   thanks, m
+0   Thanks for your thorough and prompt response
+0   Thank you for the email.
+0   I have forwarded it on for people's consideration.
+0   Mike McConnell
+0   The information for Mike is correct.
+0   He does not have a pager.
+0   Please feel free to contact me if you have any questions.
+0   Thanks.
+0   Sherri, I would be happy to support Jeff.
+0   I've sponsored 5 other people for MS150 also but please put me down for 500 for Jeff.
+0   If i am being cheap, let me know.
+0   Thanks, mike
+0   Ron, I met with him today and steered him in a couple of directions.
+0   He is a very sharp guy and he should be able to find a commercial home somewhere in the near future.
+0   I'll let you know after he talks about opportunities with various groups around EGM.
+0   Thanks, m
+0   All, I came back from the big dance last night.
+0   It was a real privilege to be there.
+0   I've been to 15 OU TX games and the energy, excitement and overall electricity in the orange bowl beat them all put together.
+0   It was wild and a moment that I will never forget.
+0   Bob Stoops for president He is the king.
+0   Have a good weekend,and I hope to see you Tuesday evening at the HEA NYMEX Crawfish Boil Jana
+0   The best was at the end of the game and everyone stayed around celebrating until about 1:30 am when they said, there was the Wilkenson era, there was the Switzer era and welcome to the Stoops era.
+0   Oklahoma is back .
+0   Boomer Sooner, Mike
+0   Gary, I never received your 1 page description of your business to include into the EGM presentation.
+1   Please draft and send me an email with your description of your businesses.
+0   Attached below is the first draft of the overall presentation to use as a guide.
+0   Thanks, mike
+0   John, FYI, here is the presentation we discussed today.
+0   This is internal only but it can act as a guide if you want to know what we are doing or our approach.
+0   This is a first draft and I'll send you an updated one when it is finished.
+0   m
+0   I am back in the country - I've been out for 2 weeks since I picked up the car.
+0   I am very happy with the car and your contact treated me very well.
+0   The transaction went smoothly and they worked with me to get the car before I went off to Asia.
+0   I wanted to thank you again for all your help and efforts.
+0   I have had many comments already and there is not doubt that this will lead to a new wave of Enron purchases of Mercedes.
+0   I am a Mercedes believer.
+0   Sincerely, Mike McConnell
+0   Mike McConnell plans to attend the meeting at 11:30 a.m.
+0   on Tuesday, July 25th.
+0   Thank you.
+0   Working Lunch On Tuesday, July 25, I am meeting with Molecular Electronics Corp.
+0   MEC to discuss the opportunity for establishing this newly formed company in Houston.
+0   For those of you that are not familiar with MEC, they are considered one of the premier companies in the area of molecular computing.
+0   MEC has approached Enron to discuss a possible alliance that would facilitate their development and, in particular, location in the Houston area.
+0   MEC represents the frontier of computing technology.
+1   Will you please let Vanessa Groscrand know if you can attend at 713-853-1769 or please reply by e-mail to me.
+0   Ken Lay
+0   Allison, Thank you very much for the email and request.
+0   As much as i an very proud of our accomplishments while being responsible for Global Technology, I am still of the opinion that Philippe Bibi is the best and most qualified candidate from Enron.
+0   Enron has changed its culture and business around technology and EnronOnline alone changed the way our business operates.
+0   EOL ended the year over with over 330 billion in transactions.
+0   EOL was only 1 part of our transformation however.
+0   Thanks again and good luck with your award.
+0   This annual list identifies and honors the most innovative executives and professionals who are using technology to transform their business operations today.
+0   We are now reviewing the finalists, but still hoping to hear from you in time to include you among those being considered for this prestigious award.
+0   All we need is a small chunk of your time to complete the attached survey, then return it by e-mail to premier100 computerworld.com or fax it to 508 875-8931 by Tuesday, January 9th.
+0   Thank you very much for your time, and we hope to hear from you.
+1   If you have questions, or if I can help in any way, please don't hesitate to call me directly.
+0   Happy New Year and hope you had a good holiday.
+0   I got married in December and am now looking to leave India.
+0   I would like to work in Houston because Jaya, my wife, has applied to US MBA schools for 2001 fall and this will mean that we can be in the same continent if not time zone.
+0   I am coming to Houston next week and was hoping that I could speak with you before then about opportunities in Global Markets and if possible set up a meeting with you in Houston.
+0   Regards Sunil
+0   Hi Craig - Mike McConnell asked me to respond to you on his behalf.
+0   He said thank you for the message, but unfortunately, due to his travel schedule he will be unavailable to meet.
+0   Thanks again.
+0   Al Pennisi is in charge of operations for NY futures swaps and I head up the group.
+0   Our objective is to meet with each of you or anyone else that can help us provide expand internal and external client services for regulated and nonregulated futures and forwards.
+0   We are a U.S.
+0   We also invited Paul and Thor as the only other non-EGM people.
+0   If you can make it would be great but we do know how difficult it is to make it over.
+0   Jeff attached are the first drafts of the following reviews.
+1   Please review and make changes on the document itself.
+0   This is not in any final form and will have numerous errors.
+1   Please make corrections as you go along as well.
+0   There is no spell check on this form.
+0   Gary and George are tomorrow morning.
+0   We'll get started in a couple of months.
+0   Hopefully no sooner Thanks, mike
+0   Good luck and let us know, including Rebecca and her team.
+0   The Denton Hall lawyer that represented Oman in the LNG negotiations, will also be there.
+0   Clay is in Australia and cannot attend, but I will be there for both the dinner and the meeting to manage referree the discussions.
+0   I will return Saturday night and will visit Adgas Adnoc on Sunday to update them.
+0   Rick
+0   Matt, I did send on your email to 3 people at EBS: Ken Rice, CEO David Cox, MD and Kevin Garland, VP of investments.
+0   They are all out of the office thru next week.
+1   If you don't hear back from someone in a couple of weeks, please let me know.
+0   Thanks and good luck.
+0   Eric, I came up with a few goals and objectives for each group within EGM.
+1   These 20 are what i came up with for LNG and which included some information from Ri ck.
+1   Please review and add and change the language as you believe better 20 represents your business.
+0   Also I need additional specifics where possible.
+0   LNG ?
+0   I do large speeches quite often and its all back to our morning meetings and they seem like they were a lifetime ago.
+0   thanks, m
+0   Robert, Thanks, I've talked with EES - Tom White and I will forward on his resume for consideration.
+0   I will also talk with Stan Horton.
+0   Mike
+0   John, You caught me.
+0   I've been hit again with the bug, the 3rd time in November, and the combination of drugs has me wide awake.
+0   I did promise Chris that I wouldn't run off to the office when this occurs but she didn't tell me I couldn't do a lot of emails from home - there is always a catch Actually I'm back to bed to try again after this one.
+0   Hope all is well in merry old England.
+0   She was outstanding.
+0   If you don't want her, I'll take her I have a PRC conflict during the next execom meeting.
+0   If i'm not there please feel free to pass on my strong support.
+0   Cheers, Mike
+0   Richard, Right now I'm scheduled to be out of the country.
+0   The walk is on Sunday, November 5, 9:00 AM - 4.5 miles at Sam Houston Race Park.
+1   If you cannot join in the walk but want to help monetarily, please send your check payable to the Juvenile Diabetes Foundation JDF to my attention - 1400 Smith Street, EB 760 Houston, Tx 77002.
+0   From the bottom of my heart, I thank you.
+0   My son and millions of other kids with diabetes thank you as well.
+0   I would really like that.
+0   I don't have any specific suggestions.
+0   Jim, I just wanted to thank you for participating in the walk.
+0   It means a lot to me.
+0   Thanks for your support.
+0   See you out there.
+0   Mike
+0   Greg, I need to talk with you about your EBS fiber project.
+1   Please give me a call in the morning.
+0   I'll be in first thing in the morning.
+0   I don't have your telephone number.
+0   You are listed on a Houston number.
+0   Mike
+0   Cool, nice job.
+0   He agreed it would be easier for me to manage it in a single unit and will get together with you and Dave D. for agreement.
+0   I suggested that he and all his managers get together with me if additional explanations are needed.
+0   Gary Also, Elsa and I meet with Greg on Monday at 10 am for ag review.
+0   Anyway, Dorothy asked about you and I encouraged her to call you, and I think she will.
+0   JMoore
+0   David, Thanks for the comments and updates.
+0   I didn't know exactly how it was structured.
+0   I am waiting on the revised draft from Frevert.
+0   After I get that one I will circulate it to Greg for his additions for the Net Works pieces.
+0   I don't believe that we are going to add Shankman to the executive committee right now.
+0   I am assuming the same is for Lavo.
+0   There may be an appropriate time in the near future to make changes to the committee and they may be considered then.
+0   I don't think they want to add any additional people at this time.
+0   Mark may have a different opinion and if he does, I am sure he will add it.
+0   I do think we should add that Mark is Chairman of all the organizations.
+0   Thanks, Mike David Oxley 07 27 2000 03:37 PM To: Mike McConnell HOU ECT ECT cc: Subject: Re: draft org.
+0   Paul, I am in the early stages of planning my next run to Singapore and Sydney.
+0   I was thinking about bringing my wife and staying over a couple of days or a week .
+0   What is the weather like in July and are you going to be there?
+0   Thanks, Mike
+0   Mac, I sent it directly to Ahmed via email.
+0   thanks,m Enron North America Corp.
+0   If you want to email them to me I'll make sure they get to the Dolphin office.
+0   Mark, Attached is the information you requested for your presentation to the analysts.
+1   Let me know if you want me to look at a draft copy.
+1   Please remove this brief note and then forward this message fr om 20 Mike McConnell to everyone in your group today.
+0   Philippe and I are in the process of finalizing Regional VPs and 20 focusing Dan to this region this is not finalized yet .
+0   They need serious 20 help in their trading systems and more senior support overall.
+0   Will wait 20 until decision made on Project California.
+0   Enron Japan Joe is building an impressive team and he has a thorough and well thought o ut 20 business plan.
+0   Japan has the opportunity to be really big another Enron 20 Europe?
+0   and we have an excellent opportunity to get it right from the star t 20 and drive this market.
+0   He is in a unique position to develop a huge busine ss 20 and drive it with technology without having the burden of a large legacy 20 problem.
+0   I think they look more like an Enron Net Works type of business 20 than most the other business units.
+0   Enron Japan needs to use the internet to 20 educate and drive this new business to achieve the penetration it needs 20 without an incumbent position.
+0   The competition and market characteristics 20 fit very well with our statements about ENW in our general presentations.
+0   Our technology efforts are paying dividends Inja Chug 01 Sr.
+0   Director was 20 dedicated here a few months ago .
+0   Her impact is significant and will great ly 20 assist in IPO 20 ?
+0   eCommerce ENW will be an enormous impact in increasing the value of 20 SK-Enron when they IPO next year.
+0   The internet and eCommerce technology 20 changes should be able to significantly increase their multiple and provide 20 Enron with a profitable exit option.
+1   I want you to pick the number you want me to reference as our potential market share target and a potential margin number extrapolated from that.
+1   Please respond ASAP with what you feel comfortable with.
+0   Thanks, mike
+0   Vance, I've been attempting to call you .
+0   Your voicemail is full and my return voicemail keeps getting rejected.
+1   I suggest you clear out some room.
+0   I would be happy to change my schedule and meet either at 12 or 12:30.
+0   I don't really want an hour with him but will do what you need.
+0   mike
+0   Thanks.
+0   I am confident we can get it done even though it will be a fire drill.
+0   We had a control or process matrix meeting today and it is all there, it was just being held or managed in four places.
+0   It will all be pulled together by Monday in one place one complete document and will have about 15 major categories with specific tasks under each category with status, person responsible, comments and date to be completed.
+0   It will also have a complete timeline.
+0   We can review that Monday and agree on its content.
+0   Louise agreed to review it as well.
+0   As it relates to the people you mentioned, let me know how and or who you want to pull in after we agree on the control document.
+0   That way we will know which areas I have holes and how we can fill them.
+0   Salley Beck called she mentioned you had called her as well and we agreed that the ClickPaper's back office representative would officially be Scott Earnest he has been unofficially it for months and we have been working with him for months .
+0   She is going to get in place people to be our Product Control Group for CP launch on July 24th.
+0   Scott and Salley will work to source it so that we have 3 or 4 people trained and ready on the 24th to receive password applications, create customer profiles on ClickPaper and start the applications through credit, legal and tax and finally get out user IDs to clients.
+0   We will leverage off the EOL process but not use their people unless there is some emergency.
+0   Remember, we are only setting up people for paper so the process is somewhat simplified.
+0   We also have a help desk person starting next week.
+0   I don't have his name yet, but we have him and one more on the way.
+0   We will create for them a brief manual and train them on the system as fast as we can.
+0   I did have a good meeting with Louise and Dave.
+0   We walked inch by inch through getting a user ID and password to getting a trade done.
+0   We have a few holes, but it is not that far away.
+0   She is going to think about a process document for this and get back to me Monday.
+0   I have a detailed EOL one and we will give it our shot this weekend.
+1   Let me know what Mark Palmer says.
+0   He knows we have been using Margaret.
+0   We will sit down with Margaret again on Monday and detail for her the PR plan and what she needs to do.
+0   We still plan to go out with a fairly inclusive mailing a letter that does not include temporary IDs passwords.
+0   We will tell them that the launch is coming and as special customers, we want to use this time to get them pre-registered.
+0   Besides, there is no way to test a 1000 temporary IDs anyway.
+0   We will send those out later.
+0   as I said earlier, the goal is to replace the splash screen with the unsecure area or garden as Lousie would call it by next for Friday or the following Monday.
+0   That way people can surf the content and get registered.
+0   On legal, I have been using Travis McCullough for at least four months and we had a detailed discussion today about the contracts, what is needed and the deadline.
+0   There is legal work left to do the current draft of the password application doesn't work , but if Taylor can help, that would be great.
+0   We will get our commercial comments back to Travis by Monday.
+0   I have a meeting Monday with Bill Bradford and Ted Murphy with Bob Crane and Hal as well to discuss the issue of a manual interface and the control issues associated with it.
+0   Credit is fine, we have been working with Bradford for months, but Murphy needs to understand the issues with manual posting.
+0   I will also make sure they check with Rick Buy on his approval and views.
+0   The entire ENA Paper group has the link to our site and we will have all their comments by the end of next week.
+0   They will also be given the complete Net Works and ClickPaper story on Thursday at their offsite and are ready to help the roll out.
+0   We also have them scheduled to come in Saturday, July 22nd for the final testing of the system.
+0   Remember, the 24th is a one Enron -to-many launch with a financial market only.
+0   ClickPaper is not the counterparty in the trade section, Enron is so it is simply a new distribution channel for Enron's existing financial offering.
+0   Later, we will build it out for physical probably sooner rather than later .
+0   Finally, I will incorporate the EOL link or transaction loop but Louise said today that is October or November.
+0   It will only be many-to-many if someone comes in and makes a compelling case to do so.
+0   Thanks.
+0   See you tomorrow.
+0   Randy, Thanks for the email.
+0   Yes, life is wild at Enronville.
+0   It was a very difficult decision to leave this group but I am enjoying my first week.
+0   I keep up via old channels with your company.
+0   I am so glad that it all worked out and I know you will have continued success.
+0   I'll give you a call when things settle down.
+0   I hope all is well with you and your family.
+1   Give me a call sometime when you have a break in your schedule ha and I will treat you to lunch.
+0   Take care.
+1   Bob, I just tried to contact you but rolled to your voicemail which told me that your mailbox was full and it wouldn't let me leave a message.
+0   The operator then sent me into a Nuevo message that stated that the office was closed.
+0   Sorry for my late return call but I've been running at full speed since 6:45 am.
+1   Please call when you get a chance.
+1   Also let me know via voicemail if this is urgent.
+0   Mike
+0   Sounds like a plan.
+0   Eric is the key to all your activities.
+0   I will be in CA next week meeting with Socal and PGE.
+0   With Socal, we plan to discuss their storage capabilities - to take vaporized LNG and provide a balancing service.
+0   With PG E we'll be looking for points where they could take gas into their system.
+0   We wanted to be fairly specific, but not tip our hand regarding project timing or exact location.
+0   Socal is scheduled to release their system study to receive LNG tomorrow.
+0   I've requested a meeting next Friday in San Francisco with Jeff Dasovich regulatory and Sandi McCubbin legislative to explain our concept and get their input.
+0   On Thursday, we meet with Samuel Wehn, works for Dave Parquet, who will tell us how he's permitted power plants in CA.
+0   We'll ask for suggestions on local law engineering firms, plus see what Sam can do to help us.
+0   Any instructions?
+0   If not, I'll proceed as planned.
+0   Might be an opportunity to drop the message that we are working on LNG solutions and hope to get the politicians support when we make definitive proposals?
+0   I've been traveling again .
+1   Please give me a call if you are ever in London.
+0   Best regards, John C. LaMaster Vinson Elkins L.L.P.
+1   Please join us in congratulating everyone in their new assignments and in supporting the new Enron Global Markets organization.
+1   Please distribute the following message to all of Enron Wholesale Services 20 this evening.
+1   Please use the Enron Global Markets - Office of the Chairman 20 letterhead.
+1   Please send a copy of the message to Cathy Phillips X-36898 20 for review prior to the message being distributed.
+0   Thank you.
+0   I enjoyed my visit to the middle east and our discussion.
+0   I really appreciate your insight.
+0   I am very committed to the project and many of the other opportunities that Rick's team has put together.
+0   I'll see you in the new year.
+0   Sincerely, Mike
+0   David, you can take me off the distribution list now.
+0   Thanks, mike
+0   Julie, thanks for the update.
+1   Please add one more change i noticed.
+1   Please add Managing Director CTO to Philippe on the org. chart.
+1   Also send next draft and final to Jeff McMahon and Greg Whalley.
+0   thanks, m
+0   I thought it was very thorough and hits all the main points that we are thinking about right now.
+0   Jeff and I are very bullish on the opportunities in Japan are just now focusing on the specifics.
+0   I believe that will also drive the structure.
+0   You should have received an EGM overview yesterday and it will be an excellent brief on what we are doing and our general direction.
+0   I am very interested in having both you and Joe look at that and provide feedback on the opportunities in Japan.
+0   We can talk about all of your issues later, when we are more prepared, but on the PRC issue, the key is not simply P L but on transactions and growing the business.
+0   I believe that these businesses with proper focus and dedication can grow quickly and show success even though the margins may be small.
+0   I am glad that you are coming over and also touring Enron Europe and ENA.
+0   It will help you make a better decision and we will have all of this clarified in the mean time.
+0   Jeff and I will be talking about some of these points tomorrow as well.
+0   Thanks, Mike
+0   Thanks for the update.
+0   Cool, I don't know what it tells me but I love it.
+0   It looks like a map of world domination Mike
+0   All, Attached is the first draft of an EGM update and org memo.
+1   Please take a few minutes and review, add what is necessary for your section and return ASAP.
+0   Other comments are welcome as well.
+0   I would like to get this at on Friday evening or early next week.
+1   Please do so on a hard copy and have brought up.
+0   I will incorporate your changes.
+0   Some of the changes in the memo are still under consideration and need to be considered extremely confidential.
+0   This needs a lot of work and filler.
+1   Also add a one line update or positive statement about your business as an intro line of the section.
+0   Thanks, mike
+0   Attached below is the updated copy of the eCommerce Commercial and Origination Activities Contact List.
+1   Please let me know if you have any additional changes to the list.
+0   Thank you.
+0   Mike McConnell
+0   Renee, Wow I was so happy to get your email.
+0   Congrats.
+0   You guys make a cute couple.
+0   I'll try to attend, it is on the calendar.
+0   mike
+0   They attended business unit staff meetings, and the business units gave constant feedback.
+0   When it came to the review process itself, Global Technology ranked all the employees and peers but the business unit had the greatest influence on where the person actually ranked and was rated.
+0   If it's OK with you, I'd like to put it in the present tense as I understand this is still the case today.
+0   I think it might be confusing to readers in the past tense, as if it no longer applies.
+0   Would that be OK with you?
+0   Thanks much.
+0   Regards, Gary Anthes
+0   Joe, Thanks for the email.
+0   Project Summer does bring up some big questions and issues and I am not up to speed on the current thinking.
+0   We'll talk later and i'll find out the issues and viewpoints.
+0   On your other issue, I understand and we'll discuss.
+0   Given that we have been pursuing this stuff through a matrix approach many questions arise.
+0   I am not sure of the Project Summer view or the Enron view.
+0   I have the feeling it is not a big blip on anyone's radar screen.
+0   I did not bring this up during the weekly call because D'Arcy and Steve do not know anything at least officially and or from me .
+0   Also, for what it is worth, I am assessing personal options at this point.
+0   I am not necessarily wed to the Newco unless Enron puts out a former EI hiring moratorium despite what people may be assuming.
+0   Larry, listed below are the 3 goals i put in for your group.
+0   Create 15 million in gross margin and 12 million in EBIT ?
+1   Can you do us a big favor and please also send the Art Committee messages to me.
+0   When Mike is traveling it makes it much easier if I have been copied on messages that involve putting meetings on Mike calendar.
+0   I hope all is going well for you.
+0   Thanks so much.
+0   We realize that some of the committee members will not be able to attend.
+1   CP, please followup on the 2 email failure messages and delete.
+0   Thanks for the email.
+0   Did you see their mascot get in trouble?
+0   I'm due to meet with you next week on Wednesday, January 10 at 2:00pm.
+0   See you there.
+0   Happy New Year, Doug
+0   Jeff, Interesting.
+0   Do you like this guy?
+0   What about Crude and products origination working for Randy?
+0   On the LNG front we should look at him if you like him but i don't think it is a no brainer.
+0   Neal will be coming on in 2 weeks, do we need him?
+0   Pelt, We have made reservations for Fri.
+0   and Sat, I didn't make yours but i would move quickly.
+0   Would you like me to set up a tee time and massages for the girls?
+0   I figured a 1 pm tee time?
+0   Also what about tickets for the game itself.
+0   Will you have access as years gone by or does the search need to begin?
+0   Possibly a little golf and R R mixed in with the game.
+0   It would be a bit out of the way.
+0   We might go up as early as Friday morning to play golf that afternoon.
+1   Let me know what you think.
+0   I was very moved by it and you know I feel the same way.
+0   I have become very reflective with the more success that I have been fortunate enough to receive.
+0   I am so thankful and appreciative and although I have always been religious and spiritual, it has grown more deeply.
+0   I see so many people that have lost their perspective and I pray that I will remain grounded and truly appreciate the blessings that our family has received.
+0   Chris and I often discuss how we can help others and what can we do to really make a difference.
+0   The Jones and the McConnells are truly very lucky.
+0   Thanks, and give my love to your family.
+1   Can you please send your contact information phone number and location to me and Mike so that we can get you signed up on a team.
+0   I'd be a walker and a pledger.
+0   Joe, As we review all the options for Enron Japan people and commodity business plays , we would like to see how you think it should be organized to facilitate growth and have the biggest impact.
+1   When you get a chance to examine the EGM information and get your thoughts together, lets us know your views and your view of the best way forward.
+0   We have everyone thinking about it and we are solidifying our own thoughts as well.
+0   It will help with Morten Erik as well.
+0   Thanks, Mike
+0   Wow.
+0   I didn't know.
+0   Glad to have you back.
+0   I trade for Bridgeline and am having a blast being back.
+0   Take care Ragan
+0   Doug, that is up to you and John.
+1   Please let me know what the status is with his termination ie timing, etc.
+0   so that I may start the process.
+0   Thanks, Shanna X59386
+0   I don't know her.
+0   Sorry.
+0   He could also report to us obviously like Larry but i think in this case a dual role makes a lot of sense.
+0   What do you think?
+0   If you like Don, he could be an immediate candidate to start doing our Corp Dev work, but that is of course not the best reason.
+0   I thought he was all right and he did have a good understanding of our products and is an innovative thinker.
+0   He has also worked as a trader and although it doesn't seem possible by his personality, having some background is a plus.
+0   Mike
+0   Hi Mary Anne - I am responding to your message on behalf of Mike McConnell.
+0   Mike is in Singapore at this time and we are not sure if he will be successful in dialing up to catch up on his e-mail correspondence.
+0   Thank you very much for your message.
+0   We solicit one time lump-sum contributions to JDF rather than per mile.
+0   In addition, we collect the pledges for the walk - rain or shine.
+0   The reason of course is that our main goal is to raise money to find a cure and we would prefer that weather or other elements beyond our control not impact our ability to raise funds.
+0   However, we have a great time on walk day and we have a lot of people turn out for the walk.
+0   This year we are anticipating in excess of 500 walkers.
+0   The total amount of donations that are turned in by Enron employees are very generously matched dollar-for-dollar by the Enron Foundation.
+0   Therefore, the matching forms are not necessary.
+0   If you happen to be in Houston on November 5th we would enjoy having you join us for the walk.
+0   If you care to make a donation, it may be mailed to Mike at the following address: Mike McConnell Enron Global Markets 1400 Smith Street, EB 3328 Houston, TX 77002 If you donate 25 or more you are entitled to an Enron JDF Walk T-shirt.
+1   If you are interested just send us your size M-L-XL-XXL and location and we will get one to you.
+0   Thanks again.
+0   Although I don't have the funds to fly down to Houston to participate, I'd be happy to at least make a donation How are the donations tallied?
+0   Pledge per mile walked?
+0   Lump sum contribution?
+0   Let me know I too am an insulin dependant diabetic - for 32 years now - and do know what a child goes through when diagnosed with this disease.
+0   I just thank God that I have parents that instilled a strong sense of self and urged me to understand as much about the disease as possible.
+0   I've seen too many kids and young adults, in my association with the Oregon Chapter of the JDF, that didn't understand and didn't want to deal with their diabetes - some of them dying at a very young age due to complications.
+0   I volunteer my time to talk to newly diagnosed diabetic children, so they and their parents can understand that it isn't a death sentence, it's a way of life.
+0   And a way of life that can be long and productive.
+1   Please let me know your views on the tone and message as well.
+0   I will give him the actual review when i get back from Asia.
+1   Let me talk to the boss and let her know that is still and option and see if it still works.
+0   Thanks, Mike Go Sooners.
+0   Shame about Hipel, he has thrown away his Heisman over the last couple of weeks.
+0   Do you agree?
+0   Continental fly's direct from Houston to Montrose, but the flights book pretty early.
+0   I just checked and there are two flights per day and seats are available.
+1   Let me know if you need help with your travel plans.
+0   We will go up on Friday the 9th and return on Sunday the 18th so whatever schedule you can make is great.
+0   My international traveling is over for the year, thank God.
+0   Chris and i were talking about life and vacations and spring break came up.
+0   I thought i would send you our information and see if our breaks co-ordinated and to see if we still wanted to try and get together to go skiing.
+0   We didn't know if you made other plans or moved on since our last discussion a while ago.
+0   Our spring break is March 12-16th .
+1   Please let give an update via email when you get a chance.
+0   I figured that you are in Telluride right now on holiday.
+0   Give my love to all.
+0   Mike PS - How about those Sooners OU TX wasn't a fluke.
+0   No matter, its been a fun year.
+0   It would be good to actually have this meeting in Dallas but I am concerned about attendance.
+0   i2 owns the process and supply downstream management in these industries and we need to really look to see if our combination can accelerate our new efforts and solve any logistic issues.
+0   George's group has already put a presentation together about i2, the products and possible applications.
+1   George, please sent that to John.
+0   I would like that document to be our updated business plan for i2 to be used as a living document as we move forward.
+1   Assign someone to make and co-ordinate the use and full deployment of those products utilize our 10 million spend .
+0   I want someone to have the responsibility for i2 and he or she can also work with EBS on what they are doing also.
+0   To be clear, we have spent the 10 million already but are not using the products.
+0   I want to deploy all if possible and make this investment fully utilized.
+0   I do understand that we don't drive businesses around a pre-purchased product but we should look at is as a sunk cost and rationalize why we shouldn't use if rather that simply considering it as an option.
+0   I didn't see the draft reorg memo we've been talking about for a while.
+1   Please send it to me for my review.
+0   I think it is important to get something out and i believe that people expect some changes Thanks, m.
+0   Matt, I did receive it and sent it on.
+1   If you don't hear anything please let me know.
+0   Also, nice job on the phone today with Whalley.
+0   This event will change your life and bring you true joy.
+0   I am working on the presentation for the analyst meetings that are taking place July 24-26.
+1   Please provide me with these 3 specific items of information.
+0   Your target market share of that total 3.
+1   Put any explanation that you feel is important or needed.
+0   I still can't believe it.
+0   I will have the video in mail overnight on Monday.
+0   Sorry for the delay.
+1   Let me know if you got another copy and don't need it.
+1   call me when you have a minute
+1   Call me or Kelly Johnson if you have any questions.
+0   Sorry for the slow response, vacation.
+1   Call me if you need anything else.
+1   Please contact Cathy Phillips via e-mail or call 713-853-6898 to schedule time with Mike.
+1   Could you call me when you get a chance?
+0   I don't think it was a surprise, said Assemblyman Dick Dickerson, R- Redding.
+1   Lou, I need you to give me the data that we have available on these lines.
+1   Next time you get a chance, I need you to send me 200 to cover the deposit I put down on the fishing trip.
+1   More importantly, I need you to confimr that I got the story and facts correct
+0   We might as well admit that electricity is no longer a nickel.
+1   I need your comments by noon tomorrow.
+1   I need you to run these items by Rick.
+1   ok, just send them to TJ when you can and ask her to put them on my calendar.
+1   could you re-send to everyone and ask them to bring a copy of their one-month and summer basis positions?
+1   please put this on my calendar.
+1   please check Jeff King's VAR...it dosn't look right fletch sturm
+1   Could you call him or refer him to someone at EES?
+0   Sorry, but I've been out of town since you sent this.
+1   Scott, Please take me off the e-mail distribution list...I receive the charts, etc.
+1   Please submit your written application to Joe Thompson at the Dominion Gathering Production Office.
+1   Also include the incremental volume you are wishing to transport under the compression agreement.
+1   If not, please forward it on to the right person and let me know who that is.
+0   I am thinking we should maybe bale the hay.
+1   If you have misplaced it and need it resent, please supply me your fax number.
+1   Done, please review the following zones.
+1   Can you please give us a price quote for getting these volumes to the NIPSCO citygate?
+0   People I need in attendance Mary Theresa or Jeanne Steve Gillespie Angie Sylvia Campos or someone from the contracts group This is what I'm thinking, everyone please think about this before we meet.
+1   Would you verify if ACA and GRI are billed for storage deliveries please?
+0   Please understand I care for you as a friend, and I pray you will be as strong as ever soon.
+1   Wade, please forward this to the person that pays Statoil.
+1   call me when you get a chance
+0   Nicki, Can you believe that we will be working together again soon?
+1   can you please review the following announcement regarding Enron Global 20 Markets and pass back any comments
+1   Can you confirm this is an El Paso only problem and not something Enron is being drawn into?
+1   done at 9:30. can you pick me up.
+1   Jeff, can you hand the case in?
+1   Re: can you send info Just put a call in to him
+1   Maureen, can you print out for Steve, too?
+1   ISO: Allen: Can you guys continue to put the price at that?
+1   Harry can you attend EES San Diego team call ?
+1   In addition to my question regarding the AGL-related transportation adjustment charges in the June 15, 2000 invoice for May 2000 invoice 11738SA , can you also please check on the 200,000 dth sold to CES at the TENN Bear Creek storage facility in June?
+1   I would like to give you both a quick 15 min preview before then if possible.
+1   Please reserve a conference room for up to 7 people for 1 hour on Wednesday, April 12th around 2:30pm.
+0   Customers of Pacific Gas and Electric Company do not have to buy products from these companies in order to continue to receive quality regulated services from the utility.
+1   Please make sure the risk assignment is still ok.
+1   Please email everyone with the end date when you find out.
+1   Please submit your written application to Joe Thompson at the Dominion Gathering Production Office.
+1   Stinson, Can you coordinate these visits?
+1   Please, send me your resume and I shall determine what is the best way to arrange an interview.
+1    call me at home 713-528-1997, cellphone at 713-870-8211, or email me back.
+1    take a few minutes to completely fill out the following survey.
+1    call with any questions that you have Errol McLaughlin, X5-8274.
+0    find attached the Sched C form for the amount in the NG Price Book Sched C on 09 29 2000.
+0   If you have any questions  call me at X5-8274.
+0   Date 816900 5 17 2000 816962 5 25 2000 816963 5 31 2000  call me at X5-8274 with any questions you have.
+1    disregard the first e-mail I sent.
+1    review the following deals in tagg stage and let me know if they meet to your approval.
+0   The Tudor BVI global portfolio Osprey Portfolio Group  provide the total MTM value for that date within your region.
+0    find attached the file that Dawn sent to me.
+1    call me at work 713-345-8274 with info on how to pick them up.
+1    sign me up for one of the UT Alumni teams.
+1   Could you resend this e-mail to me .
+0   is d to announce their participation in the 2001 March of Dimes WalkAmerica Campaign.
+1   To participate,  print and bring in the Helping Bubbles Help Babies certificate available at the link below.
+0   If you would like to be removed from our mailing list  use this link: mailto:remove bubblescarwash.com subject XVK03C Don't forget to visit the Bubbles Web Site at www.BubblesCarWash.com
+1    let me know asap because reservations are booking quickly.
+0   Bruce,  launch the attached file to see a list of deals with the counterparty GiroTondo Corp that need to changed as noted in the attachment.
+1   If you could  do this ASAP as I need to get back to Joe Hunter.
+1   If the same problem arises tomorrow,  call me at 713-305-1502 so that we can discuss, because there has to be some other explanation for the erroneous counterparty showing up on your report.
+1    let me know when they have been revised.
+0   Shirley,  find attached the excel file for the Financial desk.
+1    provide the information that was requested and distributed to you below on April 4.
+0   In order to meet scheduled TRV development, test, and implementation dates  provide your region's information to me by 2:00pm tomorrow, Thursday, April 19.
+1    let me know if you have any questions or need additional information.
+1    call me at X5-8274 with any questions, Errol L. McLaughlin
+1    review the following deals in tagg stage and let me know if this is correct.
+1   If this does not look correct or if you have any further questions,  contact Dawn 3-9353 or Tara 3-4523 .
+1    review QU0179 in tagg stage and let me know if it looks alright.
+1   Also, this is going out Monday so  keep a close eye on these trades to make sure they are bridging correctly.
+1    call me with any questions.
+1    respond Carr is hosting an enymex presentation at our office in New York this Monday, May 7th from 2-4 PM.
+1   If you would,  reply to this email with a yes or a no to indicate your intentions of attending this enymex presentation.
+1    see Q71102.2 for the reversal of the original deal done on EOL.
+1    check and let me know that you find so that I can call Kevin back.
+1   Errol, At your earliest convenience, could you  provide the applicable deal ticket and confirmation for each of the following deals?
+1   Also, could you  provide the Forwards Detail for 12 19 00 as earlier requested?
+1    speak with Jason Wolfe regarding this file.
+1    attach the correct number, answer the present one, or let me respond to the affadavit by e-mail.
+0    be advised that these deals are in the forwards details that I have already given you.
+1   Also, could you  provide the Forwards Detail for 12 19 00 as earlier requested?
+1    call me when the migration is finished.
+0    feel free to contact me at X5-8274 with any questions that you have.
+0   The trader at BNP talked to Dutch about changing the deals from Gas Daily to Nymex  let me know Thanks Angie
+1    let me know if you are responsible for this deal.
+0   I will be in Monterrey from Wednesday through Friday but will be checking my voicemails e-mails periodically, so  feel free to contact me.
+0    call me with any questions that you have, Errol L. McLaughlin, X5-8274
+1    rebook to Springs Industries, Inc.
+1   If you could,  give Robin a call at X5-7478, and she will be happy to answer your questions about this.
+1   Could you  respond to the message below.
+0    be assured that it will be processed on your packing slip and bill.
+1    call me at X5-8274 with the room number.
+0    see attached the July first of the month prices corresponding to the deal list you provided me.
+1    let me know how you feel about this?
+0   Nancy,  find attached the form for the new book request for the NG-PR-OPTLT book.
+1    let me know if you have any questions on this.
+1    let me know if this is still okay for you.
+1   so here is what I ask of you:  reply to this e-mail with your current location, the number of PC's you have and the number of screens displays you have attached to each PC, as well a date time that I can stop by.
+0   If you also need Update Access, in addition to view access  provide a separate list for those as well.
+1    send me your lists by end of day tomorrow Wed, 3 14 if possible, or let me know when you can provide the information.
+1   If you could,  send me Joseph's Social Security number, so that we can get him set up with phones, computers, etc.
+1   Could you  tell me how the process is moving along and when I will be able to access it.
+1    let me know if I can I can be of any further assistance.
+1    let me know your login ID.
+1    advise.
+1    see the attached new book request for the NG-Price book.
+1    call me if you have any questions.
+1    disregard the comment regarding the options in my last e-mail.
+1    verify that these are correct and let either Dawn and Tara or myself know.. Thanks, Torrey
+1    run a Mark to Market as of 12 31 2001 for TENASKA III Texas Partners.
+1    fax Sheila Trueblood at 402-691-9552 when you have printed the report.
+0    go ahead as soon as possible.
+0    let me know if you know of any problems this will cause us doing our day-to-day activities.
+1    give me a call.
+1    let me know when they are completed.
+1    confrim how they are to be settled: Nymex or Gas Daily.
+1    call me at 713-345-8274 if you have any questions.
+1   Bianca, Could you  fax up to me confirms for the following deals: QE1352.2 QF4333.2,3 QF6287.1 QF6446.1 N60753.4 6 I'm gathering these for Arthur Andersen auditing purposes, so it would be a great help if I could get this pretty quickly.
+1    confrim how they are to be settled: Nymex or Gas Daily.
+1    feel free to call, or have Homer call, with any questions that you have.
+1    call with any questions, Errol
+0   Homer,  find attached the Dow deals as of Dec.
+1   Could you  fix this as soon as possible.
+1    call me with any questions at X5-8274.
+1    contact Cathy Phillips at X-36898 if you plan to attend the tour.
+1    do not contact Susan Lopez for any space related issues.
+1    contact Jennifer Burns if you have any questions or issues related to phones.
+1    make arrangements with them directly to meet regarding your issues.
+1   To obtain your tickets,  contact me by Wednesday, April 4th, and indicate the number of guests you will be bringing.
+1    feel free to contact me directly at x35202 if you have any questions regarding the event.
+0    don 01,t hesitate to contact me if you have any questions or would l ike 20 to discuss this in more detail.
+1    take a look at this and draft a memo that can be sent out addressing the approval procedures and the guidelines and limits around them.
+1    contact Brent Price for our DASH.
+1    feed me this info and if there is something specific that you don't want me to say let me know that too but go ahead and give me the answer.
+1   Cathy would you  review daily for updates and make the changes on a running list.
+1   If there are a couple of items that you want me to specifically be ready for ,  send me a couple of comments via email or voicemail.
+1   Would you  provide me with some examples of that so I can put it in context?
+0   We would be d to prepare a draft for your consideration, if you would like to send out such an e-mail to the EGM staff.
+1    let me know via email and I will attempt to be responsive via odd time zones.
+0   Thanks, mike Virginia E. Repasky virginia clarkfineart.com on 09 25 2000 11:04:57 PM  respond to virginia clarkfineart.com To: Mike.McConnell enron.com cc: Subject: Re: Lichtenstein's Blue Note Dear Mike: Glad to hear from you.
+0    keep in mind that several of our consultants are working with clients and galleries to place this artwork.
+1    contact me as soon as possible since this is a time sensitive matter.?
+0    don't hesitate to call me if you have any questions or comments.
+1   If one of the six rooms is not being held for Mike, can you  suggest another hotel or inn.
+0    do not hesitate to contact me if you have any questions.
+0    let me know if you have any questions.
+0   If you are indeed referring to January 3rd and 4th,  note that Mike McConnell will be out of town January 2nd through the 4th, returning to the office on January 5th.
+1    let us know if you will be available on any other dates.
+0   not sure of people's schedules but  advise me of your availability and hope most of you can make it for dinner on thur.
+0   look forward to seeing you on weds aftn or thursday and  email when if you have free time to meet up.
+1    send me a return email with 3 specific items that I could do personally to add to your business.
+1   Could you  resend or cut and paste it into the body of the email.
+1    feel free to modify as you see fit.
+1    re-provide as a return email.
+1    don't think twice about responding to Greg or any senior manager on an issue - but he would also have no issue with your response being cc back to Jeff and or myself at the same time.
+1   John and all,  keep me informed on the progress.
+0   Probably your team can also target these efforts and keep the action at all fronts  keep me informed.
+0   If your contacts in Venezuela yield additional details,  let us know.
+1    let me know if a meeting on Wednesday works for your schedule.
+1    contact Cathy Phillips at 20 713-853-6898 or cathy.phillips enron.com if you have any questions.
+0    keep Philippe, Jay and now Jeff McMahon in the loop.
+0    keep this news to yourself until next week.
+1   Can you  arrange for this message to be sent to all of Enron - Houston this evening.
+1    contact me at X-36898 if you have any questions.
+1   If you are interested in being a team leader,  contact one of the following people immediately so that you may be included in the first important and informative training session taking place this week.
+1    prepare a few of pages on power point and submit to Cathy Phillips so that she can have all the presentations ready for that Saturday morning.
+1    do not hesitate to change the list and add to it, it is only a guide and was used as a quick reference of EGM for the Enron board.
+1   Also  add some of your other specific goals that illustrate where you want to be by year end regarding your competitive position and or market share.
+1    provide your comments and I'll make sure they get included correctly.
+0   On a more serious note, would you  have Jason burn a disc of the most recent version of EGM.
+1    advise if you have any thoughts on the issue.
+0    see below in blue our observations and answers.
+1    review the article for accuracy and return to me no later than 10 a.m.
+1   If you are available to attend,  let me know.
+1   If you have any questions or suggestions,  let me know.
+1    take a moment and review, change and add details to make it more 20 clear.
+1    amend on this email below and 20 return asap.
+0    feel free to contact me if you have any questions.
+0   I've sponsored 5 other people for MS150 also but  put me down for 500 for Jeff.
+1    draft and send me an email with your description of your businesses.
+1   Will you  let Vanessa Groscrand know if you can attend at 713-853-1769 or  reply by e-mail to me.
+1   If you have questions, or if I can help in any way,  don't hesitate to call me directly.
+1    review and make changes on the document itself.
+1    make corrections as you go along as well.
+1   If you don't hear back from someone in a couple of weeks,  let me know.
+1    review and add and change the language as you believe better 20 represents your business.
+0   If i'm not there  feel free to pass on my strong support.
+1   If you cannot join in the walk but want to help monetarily,  send your check payable to the Juvenile Diabetes Foundation JDF to my attention - 1400 Smith Street, EB 760 Houston, Tx 77002.
+1    give me a call in the morning.
+1    remove this brief note and then forward this message fr om 20 Mike McConnell to everyone in your group today.
+1    respond ASAP with what you feel comfortable with.
+1    call when you get a chance.
+1    give me a call if you are ever in London.
+1    join us in congratulating everyone in their new assignments and in supporting the new Enron Global Markets organization.
+1    distribute the following message to all of Enron Wholesale Services 20 this evening.
+1    use the Enron Global Markets - Office of the Chairman 20 letterhead.
+1    send a copy of the message to Cathy Phillips X-36898 20 for review prior to the message being distributed.
+1    add one more change i noticed.
+1    add Managing Director CTO to Philippe on the org. chart.
+1    take a few minutes and review, add what is necessary for your section and return ASAP.
+1    do so on a hard copy and have brought up.
+1    let me know if you have any additional changes to the list.
+1   Can you do us a big favor and  also send the Art Committee messages to me.
+1   CP,  followup on the 2 email failure messages and delete.
+1   Can you  send your contact information phone number and location to me and Mike so that we can get you signed up on a team.
+1    let me know what the status is with his termination ie timing, etc.
+1    let me know your views on the tone and message as well.
+1    let give an update via email when you get a chance.
+1   George,  sent that to John.
+1    send it to me for my review.
+1   If you don't hear anything  let me know.
+1    provide me with these 3 specific items of information.
+1    contact Cathy Phillips via e-mail or call 713-853-6898 to schedule time with Mike.
+1    put this on my calendar.
+1    check Jeff King's VAR...it dosn't look right fletch sturm
+1   Scott,  take me off the e-mail distribution list...I receive the charts, etc.
+1    submit your written application to Joe Thompson at the Dominion Gathering Production Office.
+1   If not,  forward it on to the right person and let me know who that is.
+1   If you have misplaced it and need it resent,  supply me your fax number.
+1   Done,  review the following zones.
+1   Can you  give us a price quote for getting these volumes to the NIPSCO citygate?
+0   People I need in attendance Mary Theresa or Jeanne Steve Gillespie Angie Sylvia Campos or someone from the contracts group This is what I'm thinking, everyone  think about this before we meet.
+1   Would you verify if ACA and GRI are billed for storage deliveries ?
+0    understand I care for you as a friend, and I pray you will be as strong as ever soon.
+1   Wade,  forward this to the person that pays Statoil.
+1   can you  review the following announcement regarding Enron Global 20 Markets and pass back any comments
+1   In addition to my question regarding the AGL-related transportation adjustment charges in the June 15, 2000 invoice for May 2000 invoice 11738SA , can you also  check on the 200,000 dth sold to CES at the TENN Bear Creek storage facility in June?
+1    reserve a conference room for up to 7 people for 1 hour on Wednesday, April 12th around 2:30pm.
+1    make sure the risk assignment is still ok.
+1    email everyone with the end date when you find out.
+1    submit your written application to Joe Thompson at the Dominion Gathering Production Office.
+1   , send me your resume and I shall determine what is the best way to arrange an interview.
+1   Also i would appreciate you sendin g 20 another image of the matisse.
+1   Please let me know if you can find one.
+1   I would appreciate some suggestions and I will need a guide, could you have someone arrange it for me?
+0   I am confident that we can be of help to you, and obviously, we would appreciate the opportunity to do so.
+1   I would appreciate some suggestions and I will need a guide, could you have someone arrange it for me?
+1   I would appreciate a self appraisal feedback form on yourself with your list of accomplishments to date.
+0   I would appreciate it Lysa
+1   I would appreciate your feedback.
+1   I would appreciate if each of you could provide a brief one-page or less bullet point summary of the week's activity by close of business each Friday.
+1   Horton, Stanley 04 23 01 02:57PM I would appreciate if each of you could provide a brief one-page or less bullet point summary of the week's activity by close of business each Friday.
+1   I would appreciate it if you could send me a soft hard copy of the same.
+1   We would really be grateful if you can fax us a confirmation letter so that we can proceed with our Visa application.
+1   If you are happy to meet on this basis, I would be grateful if you could let me know how you to proceed whether I should arrange timings with you, your secretary, someone in London etc .
+1   No doubt you're very busy with these things, but I'd be very grateful if you could contribute towards my PRC evaluation.
+0   Please confidentially share matters as you think best and advise me of the interest generated.
+0   I should be grateful if you would take some time off your very hectic schedule and provide the feedback on me.
+0   We are certainly grateful for your review and approval of new language for points which the traders initiate on a frequent basis.
+0   Lynn and I are extremely grateful as it made our lives much easier and our jobs much more productive.
+0   I would be grateful if you could review the revised draft and revert with any comments that you may have.
+1   The audience at the 21st Century Internet Summit will be primarily CIOs and senior executives from Internet companies, so perhaps you could deliver the same presentation with a slightly more technological content and perspective.
+0   Perhaps this column is the reason we're seeing a flurry of activity today -- hearings -- actions on an omnibus bill that has not been released to the public, etc.
+0   And perhaps most important, it has yet to hammer out exactly what technology it will run on.
+1   Good morning Jeff, Perhaps you could help me with something.
+1   Perhaps you can forward this.
+1   Mark - perhaps you could write those up so we can drop them into the memo?
+0   Perhaps your Mother would like to go.
+0   I sent you an email a few weeks ago, but perhaps you didn't receive it.
+1   Next year, if your schedule permits, perhaps you would consider a return engagement.
+1   Perhaps you can help me understand what they are.
+0   Perhaps you know him already but I found him in the Enron address book his first name is Jim.
+1   Please call me with a suggested time.
+1   I am not certain of the time difference but perhaps you could call me at the office after 4 pm Nov.8 in Houston and I could then conference in John.
+1   Perhaps you can let me know what works best for you and we could initiate the call.
+1   Perhaps you and derek should compare notes?
+1   Perhaps you could identify someone on your staff with whom I may speak.
+1   Perhaps you can give them a personal invitation...
+0   See below Perhaps your E-mail program doesn't recognize the Web address as an active link.

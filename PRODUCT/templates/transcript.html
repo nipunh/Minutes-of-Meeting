@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="{{ url_for('static',filename='style/anacss.css') }}" rel="stylesheet">
+<link href="{{ url_for('static',filename='style/bootstrap.min.css') }}" rel="stylesheet">
+<script src="{{ url_for('static',filename='js/bootstrap.min.js') }}"></script>
+<script src="{{ url_for('static',filename='js/jquery-3.4.1.min.js') }}"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+</head>
+<body background="{{ url_for('static',filename='images/trans.jpg') }}" style="background-repeat:no-repeat; width:100%; height: 100%; background-size:cover;">
+      <nav class="nav-extended"style="background:rgba(255, 228, 196, 0.65);height: 100px; border-radius:10px; width:95%; margin-left:2.5%;margin-top:1%;">
+         <!-- <div class="nav-wrapper" style="background-color: rgb(255, 228, 196, 0.5)"> -->
+            <a href="www.virtusa.com" class="brand-logo" style="padding-left: 30px; padding-top: 10px"><img src="{{ image }}" alt="ribbon" width="150" height="auto"></a>
+            <a href="/" class="brand-logo center" style="padding-top: 20px"><font size="6" color="#123C69">CONVERSATION ANALYSIS PLATFORM</font></a>
+               <ul id="nav-mobile" class="right hide-on-med-and-down">
+                  <li></li>
+                  <li></li>
+                  <li></li>
+               </ul>
+            <!-- </div> -->
+            </nav>
+            <br>
+            <div style="position: relative; padding: 0.1% 0% 0.2% 40%; background:rgba(214, 134, 114, 0.726);width:90%; margin-left:5%; border-radius: 10px; ">
+               <h4>
+                  Transcription
+               </h4>
+            </div> 
+            <div style="position: relative; padding: 2% 0% 0.2% 10%; background-color: rgba(255, 228, 196, 0.65); width:90%; margin-left: 2.5%; margin-top: 5%; border-radius: 10px; height: auto; margin-bottom: 5%; padding-bottom: 2%;">
+        <form method="post" action="transcription" enctype="multipart/form-data">
+            <input type="file" name="file" placeholder="Audio file in WAV format " style="position: relative; margin: 5% 5% 5% 10%; background:#26a69a; border: #26a69a;" >
+            <input type="submit" name="btn" class="btn" value="Upload file">
+            <br>
+            {% for v in sentences %}
+                <input value="{{ v[0][0] }}" name="speaker" style="text-align: center; max-width: 50px; margin: 0% 2.5% 1% 25%; border-radius: 10px;  background: rgb(0, 0, 0,0.85); color: seashell; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+                <input value=" {{ v[0][1] }}" name="transcript" style="text-align: left; max-width: 650px; margin: 0% 10% 1% 2.5%;border-radius: 10px; background: rgba(0, 0, 0, 0.85); color: seashell; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"><br>
+            {% endfor %}
+            <a href="{{ json_file }}" download class="btn" style=" width:max-content; margin:2% 2% 2% 35%;  display: {{ hidden1 }}; ">Download JSON file</a>
+            <a href="{{ transc }}" download class="btn" style=" width:max-content; margin:2% 2% 2% 35%; display: {{ hidden }}; ">Download Transcript</a>
+            <input type="submit" class="btn" name="btn" value="Save edited Changes" style="width:200px; margin-left: 35%;margin-right: 10%; display: {{ hidden }}">
+        </form>
+        </div>
+        
+        <script src="" async defer></script>
+    </body>
+</html>
+<!-- 
+        <form method="post" action="transcription" enctype="multipart/form-data">
+            <input type="file" name="file" />
+            <input type="submit" name="btn" value="Upload file">
+        </form>
+        <form method="post" action="transcription" enctype="multipart/form-data" style="display: {{ hidden }}">
+            {% for v in sentences %}
+                <input value="{{ v[0][0] }}" name="speaker">
+                <input value="{{ v[0][1] }}" name="transcript"><br>
+            {% endfor %}
+            <input type="submit" name="btn" value="Save edited Changes">
+        </form> -->

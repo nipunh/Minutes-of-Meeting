@@ -1,0 +1,103 @@
+REQUIREMENTS (1 and 2 necessary to run project, 3 only to run individual module)
+---------------------
+
+1)
+To run the program so that a request to IBM Watson API is made for getting the
+transcript from an audio an API key needs to be created for this please refer to Getting started.txt
+
+For further queries please visit the link below:
+https://www.ibm.com/cloud/blog/whos-speaking-speaker-diarization-watson-speech-text-api
+
+
+{
+  "apikey": "iY6UdFrcCv7ld3elSJbvBsw_ZxbcAyiVlCi4o1Q4dM3T",
+  "iam_apikey_description": "Auto-generated for key 51e99953-ad93-44dd-ae53-1eb680071620",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/a013c2a7aa8b4fb09599e9730c93dba9::serviceid:ServiceId-f937e258-fa98-4fc5-9ac3-38e4fa5aa328",
+  "url": "https://gateway-lon.watsonplatform.net/speech-to-text/api"
+}
+
+2)
+The following libraries need to be installed in the PC where the project is deployed:
+
+-> ibm_watson
+-> wave
+-> pydub
+-> numpy
+-> pandas
+-> pprint
+-> gensim
+-> spacy
+-> pyLDAvis
+-> nltk
+-> wordcloud
+-> matplotlib
+-> vaderSentiment
+-> plotly
+-> re
+-> glob
+-> _pickle
+
+
+Also Run the command "python -m spacy download en" in cmd after installing the libraries above.
+Also run the command "import nltk" and "nltk.download('wordnet')" in python shell after installing the libraries above.
+
+
+*******************************
+
+OPTIONAL (TO RUN EACH MODULE SEPERATELY)
+----------------------
+To run each module seperately, the following libraries are required per module.
+
+DIARIZATION (transcription.py)
+--------------
+ibm_watson
+
+ANALYSIS (analysis.py)
+---------------
+numpy
+matplotlib
+wave
+
+TOPIC MODELLING (get_topic.py)
+---------------
+numpy
+pandas
+pprint
+gensim
+spacy
+pyLDAvis
+nltk
+wordcloud
+Also Run the command "python -m spacy download en" in cmd after installing the libraries above.
+
+POSITIVE AND NEGATIVE WORD CLOUD (word_cloud.py)
+------------------
+nltk
+wordcloud
+matplotlib
+vaderSentiment
+Also run the command "import nltk" and "nltk.download('wordnet')" in python shell after installing the libraries above.
+
+SPEAKER POSITIVITY COMPARISON (line_plot.py)
+------------------
+vaderSentiment
+plotly
+numpy
+
+GETTING PRODUCTIVITY OF MEETING AND TOPICS NOT DISCUSSED (productivity.py)
+------------------
+nltk
+gensim
+Also run the command "import nltk" and "nltk.download('wordnet')" in python shell after installing the libraries above.
+
+GETTING THE ACTION ITEMS FROM THE CONVERSATION TRANSCRIPT (action_items.py)
+------------------
+email
+re
+glob
+_pickle
+spacy
+nltk
+Also Run the command "python -m spacy download en" in cmd after installing the libraries above.
